@@ -1,0 +1,41 @@
+{
+ "id": "2026-10-16_1700_P0-005",
+ "folder": "2026-10-16_1700_P0-005",
+ "publish_at": "2026-10-16T17:00:00-05:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "This formula isn't on the SAT reference sheet.\n\nThe vertex of y = ax² + bx + c is at x = −b/(2a). Plug that x back in for the max or min.\n\nSave this so you don't forget it.",
+ "tiktok_caption": "The vertex formula isn't on the SAT reference sheet. x = −b/2a.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATmath",
+  "#DigitalSAT",
+  "#SATpractice"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satmath"
+ ],
+ "youtube": {
+  "title": "The Vertex Formula the SAT Doesn't Give You",
+  "description": "The vertex formula x = −b/(2a) isn't on the SAT reference sheet. Worked example: y = 2x² − 12x + 5 has its minimum at (3, −13).",
+  "hashtags": [
+   "#SAT",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true
+}

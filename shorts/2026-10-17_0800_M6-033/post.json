@@ -1,0 +1,41 @@
+{
+ "id": "2026-10-17_0800_M6-033",
+ "folder": "2026-10-17_0800_M6-033",
+ "publish_at": "2026-10-17T08:00:00-05:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "48 beats 44, right? Not here.\n\nWith a ±3 margin, X could be 45% and Y could be 47%. Overlap means no clear winner.\n\nComment the step that's wrong.",
+ "tiktok_caption": "48% beats 44%, right? Not when the intervals overlap.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATmath",
+  "#DigitalSAT",
+  "#SATpractice"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satmath"
+ ],
+ "youtube": {
+  "title": "SAT Math: Overlapping Margins of Error Mistake",
+  "description": "Spot the flawed conclusion when two estimates' intervals overlap. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true
+}

@@ -1,0 +1,41 @@
+{
+ "id": "2026-10-18_2100_R1-023",
+ "folder": "2026-10-18_2100_R1-023",
+ "publish_at": "2026-10-18T21:00:00-05:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Semicolon before however? Not here.\n\nNo full sentence before 'however'? Then it's just interrupting, so use commas.\n\nSend this to a friend taking the SAT.",
+ "tiktok_caption": "Semicolon before however? Not here. One sentence? Commas around however.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATreading",
+  "#SATgrammar",
+  "#DigitalSAT"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satgrammar"
+ ],
+ "youtube": {
+  "title": "SAT However Rule: Commas When It Interrupts",
+  "description": "No full sentence before 'however'? Then it's just interrupting, so use commas. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATgrammar",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true
+}

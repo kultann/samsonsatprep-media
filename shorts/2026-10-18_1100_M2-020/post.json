@@ -1,0 +1,41 @@
+{
+ "id": "2026-10-18_1100_M2-020",
+ "folder": "2026-10-18_1100_M2-020",
+ "publish_at": "2026-10-18T11:00:00-05:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Given the solution? Work backward.\n\nPlug the known x into the equation without the constant to find y, then use the full point to find a.\n\nComment your answer before you check.",
+ "tiktok_caption": "Given the solution? Work backward to find the constant.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATmath",
+  "#DigitalSAT",
+  "#SATpractice"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satmath"
+ ],
+ "youtube": {
+  "title": "SAT Systems: Use a Given Solution to Find a",
+  "description": "Substitute the known solution to find the missing constant. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true
+}

@@ -1,0 +1,41 @@
+{
+ "id": "2026-10-16_0800_R2-003",
+ "folder": "2026-10-16_0800_R2-003",
+ "publish_at": "2026-10-16T08:00:00-05:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "One word in this sentence is wrong.\n\nWhen dashes interrupt, read the sentence without them. The turbines generate.\n\nSave this for test day.",
+ "tiktok_caption": "Dashes hide the subject. Read around them.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATreading",
+  "#SATgrammar",
+  "#DigitalSAT"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satgrammar"
+ ],
+ "youtube": {
+  "title": "SAT Grammar: Subject-Verb Agreement With Dashes",
+  "description": "Spot the error: a verb that agrees with the wrong noun inside a dash interruption. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATgrammar",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true
+}

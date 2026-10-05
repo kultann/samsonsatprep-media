@@ -1,0 +1,41 @@
+{
+ "id": "2026-10-15_2100_R4-026",
+ "folder": "2026-10-15_2100_R4-026",
+ "publish_at": "2026-10-15T21:00:00-05:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "A champion without a trophy? Let's see.\n\nRaising the issue at every meeting and securing funding means she advocated for bike lanes. She championed them.\n\nFollow @samsonsatprep for daily SAT tips.",
+ "tiktok_caption": "A champion without a trophy? Champion can mean advocate.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATreading",
+  "#SATgrammar",
+  "#DigitalSAT"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satgrammar"
+ ],
+ "youtube": {
+  "title": "SAT Words in Context: Champion Means Advocate",
+  "description": "To champion a cause is to fight for it publicly. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATgrammar",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true
+}

@@ -1,0 +1,41 @@
+{
+ "id": "2026-10-13_2100_Q1-034",
+ "folder": "2026-10-13_2100_Q1-034",
+ "publish_at": "2026-10-13T21:00:00-05:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Here are three facts about bees, and each one needs a different transition.\n\nFor instance gives an example of the idea. Additionally adds a separate point. However contradicts what came before.\n\nComment your score out of 3.",
+ "tiktok_caption": "Three bee facts, three different transitions.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATreading",
+  "#SATgrammar",
+  "#DigitalSAT"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satgrammar"
+ ],
+ "youtube": {
+  "title": "For Instance or Additionally? SAT Transitions",
+  "description": "Three quick SAT transition checks on examples, additions, and contradictions. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATgrammar",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true
+}

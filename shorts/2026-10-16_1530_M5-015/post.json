@@ -1,0 +1,41 @@
+{
+ "id": "2026-10-16_1530_M5-015",
+ "folder": "2026-10-16_1530_M5-015",
+ "publish_at": "2026-10-16T15:30:00-05:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Two ways to solve. One's way faster.\n\nSpread only the new people over the area, then add to the old density.\n\nComment your answer before you check.",
+ "tiktok_caption": "Population density shortcut: spread only the new people.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATmath",
+  "#DigitalSAT",
+  "#SATpractice"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satmath"
+ ],
+ "youtube": {
+  "title": "SAT Population Density Problem: Fast Method",
+  "description": "Density is people per square mile; add only the change. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true
+}

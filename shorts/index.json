@@ -1,1 +1,1432 @@
-[]
+[
+ {
+  "id": "2026-10-12_0800_M1-036",
+  "folder": "2026-10-12_0800_M1-036",
+  "publish_at": "2026-10-12T08:00:00-05:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "Turn the words into a slope first.\n\n\"Decreases by 4 for every increase of 6\" = slope −2/3. From x = 9 back to 0, h rises 6: h(0) = 7.\n\nComment your answer before you check.",
+  "tiktok_caption": "Turn 'decreases by 4 for every 6' into a slope first.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATpractice"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satmath"
+  ],
+  "youtube": {
+   "title": "Turn Rate Words Into a Slope: SAT Linear Functions",
+   "description": "Translate a verbal rate into slope and use a known value to find h(0). SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#SATmath",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true
+ },
+ {
+  "id": "2026-10-12_1100_R4-012",
+  "folder": "2026-10-12_1100_R4-012",
+  "publish_at": "2026-10-12T11:00:00-05:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "Supplement or supplant? Only one replaces.\n\nDigital started as an extra, then took film's place. That's supplant, not supplement.\n\nSave this for test day.",
+  "tiktok_caption": "Supplement or supplant? Only one means replace.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATreading",
+   "#SATgrammar",
+   "#DigitalSAT"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satgrammar"
+  ],
+  "youtube": {
+   "title": "SAT Vocab Trap: Supplement vs Supplant",
+   "description": "When something takes another's place almost entirely, it supplants it. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#SATgrammar",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true
+ },
+ {
+  "id": "2026-10-12_1530_D2-033",
+  "folder": "2026-10-12_1530_D2-033",
+  "publish_at": "2026-10-12T15:30:00-05:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "Only one of these lines fits.\n\nPut the data in a Desmos table, type all four choices, and see which line runs through the dots.\n\nComment your answer before you check.",
+  "tiktok_caption": "Graph all four choices over the data. One line fits.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATmath",
+   "#Desmos",
+   "#MathHacks",
+   "#DigitalSAT"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#desmos"
+  ],
+  "youtube": {
+   "title": "Pick the Best Fit Line by Graphing the Choices",
+   "description": "Plot the data and every answer choice in Desmos to find the best model. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#Desmos",
+    "#SATmath",
+    "#DigitalSAT"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true
+ },
+ {
+  "id": "2026-10-12_1700_P0-001",
+  "folder": "2026-10-12_1700_P0-001",
+  "publish_at": "2026-10-12T17:00:00-05:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "Don't solve this quadratic.\n\nThe solutions of ax² + bx + c = 0 always add up to −b/a. No factoring, no formula.\n\nComment your answer before you check.",
+  "tiktok_caption": "Don't solve this quadratic. The sum of the solutions is −b/a.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATpractice"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satmath"
+  ],
+  "youtube": {
+   "title": "SAT Quadratic Shortcut: Sum of Solutions Fast",
+   "description": "The solutions of ax² + bx + c = 0 add up to −b/a, so you can skip solving. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#SATmath",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true
+ },
+ {
+  "id": "2026-10-12_2100_T4-008",
+  "folder": "2026-10-12_2100_T4-008",
+  "publish_at": "2026-10-12T21:00:00-05:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "You can get a math question right and still type it wrong.\n\nNo mixed numbers (11/4 or 2.75, not 2 3/4). No commas, units, % or $. Long decimal? Fill the box: 0.333, not 0.33. Several answers work? Enter one.\n\nSave this for test day.",
+  "tiktok_caption": "Right answer, typed wrong, is still wrong. Three checks for SAT student-response questions.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#DigitalSAT",
+   "#SATtips",
+   "#StudyTips"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat"
+  ],
+  "youtube": {
+   "title": "How to Type SAT Student-Response Answers Correctly",
+   "description": "Three checks for digital SAT student-produced response questions: no mixed numbers, no commas or units, and fill the box with long decimals.",
+   "hashtags": [
+    "#SAT",
+    "#SATtips",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true
+ },
+ {
+  "id": "2026-10-13_0800_M4-014",
+  "folder": "2026-10-13_0800_M4-014",
+  "publish_at": "2026-10-13T08:00:00-05:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "Work inside out, or you'll pick D.\n\nf(g(−2)) means g goes first. Start inside, then work outward.\n\nComment your answer before you check.",
+  "tiktok_caption": "f(g(−2)): which function goes first? Most people get this backwards.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATpractice"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satmath"
+  ],
+  "youtube": {
+   "title": "SAT Function Composition: Work Inside Out",
+   "description": "Evaluate a composition of functions in the right order and avoid the reversed-order trap. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#SATmath",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true
+ },
+ {
+  "id": "2026-10-13_1100_R2-024",
+  "folder": "2026-10-13_1100_R2-024",
+  "publish_at": "2026-10-13T11:00:00-05:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "In novels, the story happens now.\n\nWhen you describe a book's plot, use present tense and match the other verbs in the passage.\n\nFollow @samsonsatprep for daily SAT tips.",
+  "tiktok_caption": "Describing a plot? Stay in present tense.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATreading",
+   "#SATgrammar",
+   "#DigitalSAT"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satgrammar"
+  ],
+  "youtube": {
+   "title": "SAT Grammar: Present Tense for a Novel's Plot",
+   "description": "Keep verb tense consistent when a passage summarizes a novel. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#SATgrammar",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true
+ },
+ {
+  "id": "2026-10-13_1530_M7-012",
+  "folder": "2026-10-13_1530_M7-012",
+  "publish_at": "2026-10-13T15:30:00-05:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "This triangle area is off. Where?\n\nThe height of a triangle is perpendicular to the base. A slanted side is never the height.\n\nComment the step number before you check.",
+  "tiktok_caption": "This triangle area is off. Spot the step.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATpractice"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satmath"
+  ],
+  "youtube": {
+   "title": "Spot the Error: Triangle Area and Height | SAT Geometry",
+   "description": "A worked triangle-area solution that uses a slanted side as the height. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#SATmath",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true
+ },
+ {
+  "id": "2026-10-13_1700_P0-002",
+  "folder": "2026-10-13_1700_P0-002",
+  "publish_at": "2026-10-13T17:00:00-05:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "Stop solving systems like this by hand.\n\nType both equations into Desmos exactly as written and click where the lines cross.\n\nComment your answer before you check.",
+  "tiktok_caption": "Stop solving systems by hand. Graph both, click the cross.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATmath",
+   "#Desmos",
+   "#MathHacks",
+   "#DigitalSAT"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#desmos"
+  ],
+  "youtube": {
+   "title": "Solve SAT Systems in Desmos in 5 Seconds",
+   "description": "Type both equations into Desmos and click the intersection to read off the solution. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#Desmos",
+    "#SATmath",
+    "#DigitalSAT"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true
+ },
+ {
+  "id": "2026-10-13_2100_Q1-034",
+  "folder": "2026-10-13_2100_Q1-034",
+  "publish_at": "2026-10-13T21:00:00-05:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "Here are three facts about bees, and each one needs a different transition.\n\nFor instance gives an example of the idea. Additionally adds a separate point. However contradicts what came before.\n\nComment your score out of 3.",
+  "tiktok_caption": "Three bee facts, three different transitions.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATreading",
+   "#SATgrammar",
+   "#DigitalSAT"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satgrammar"
+  ],
+  "youtube": {
+   "title": "For Instance or Additionally? SAT Transitions",
+   "description": "Three quick SAT transition checks on examples, additions, and contradictions. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#SATgrammar",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true
+ },
+ {
+  "id": "2026-10-14_0800_C2-035",
+  "folder": "2026-10-14_0800_C2-035",
+  "publish_at": "2026-10-14T08:00:00-05:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "Don't just subtract. Divide the changes.\n\nWhen x jumps by 3, then 4, then 5, the rate is change in y ÷ change in x: −24 ÷ 3 = −8 gallons per minute.\n\nSave this for your next table question.",
+  "tiktok_caption": "Rate of change from a table: divide, don't just subtract.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATpractice"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satmath"
+  ],
+  "youtube": {
+   "title": "Rate of Change From a Table (Uneven x Steps)",
+   "description": "Rate of change is change in y divided by change in x. Example: a tank goes from 184 to 160 gallons in 3 minutes, so it drains 8 gallons per minute.",
+   "hashtags": [
+    "#SAT",
+    "#SATmath",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true
+ },
+ {
+  "id": "2026-10-14_1100_C1-010",
+  "folder": "2026-10-14_1100_C1-010",
+  "publish_at": "2026-10-14T11:00:00-05:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "2³ · 2⁴ is NOT 2¹².\n\nSame base, multiply → add the exponents: 2³ · 2⁴ = 2⁷ = 128. Check: 8 × 16 = 128.\n\nFollow @samsonsatprep for daily SAT tips.",
+  "tiktok_caption": "2³ · 2⁴ = 2⁷, not 2¹². Same base: add the exponents.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATpractice"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satmath"
+  ],
+  "youtube": {
+   "title": "Exponent Product Rule: Add, Don't Multiply (SAT)",
+   "description": "Exponent rules aren't on the SAT reference sheet. Worked example: 2³ · 2⁴ = 2⁷ = 128, checked with 8 × 16.",
+   "hashtags": [
+    "#SAT",
+    "#SATmath",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true
+ },
+ {
+  "id": "2026-10-14_1530_M6-004",
+  "folder": "2026-10-14_1530_M6-004",
+  "publish_at": "2026-10-14T15:30:00-05:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "Delete one number. Watch the mean drop.\n\nRemoving one outlier drops the mean 17.5 minutes but the median only 2.5.\n\nComment your answer before you check.",
+  "tiktok_caption": "Delete one outlier and the mean drops 17.5. The median barely moves.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATpractice"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satmath"
+  ],
+  "youtube": {
+   "title": "SAT Math: How an Outlier Changes the Mean",
+   "description": "Remove an outlier and find how much the mean changes. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#SATmath",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true
+ },
+ {
+  "id": "2026-10-14_1700_P0-003",
+  "folder": "2026-10-14_1700_P0-003",
+  "publish_at": "2026-10-14T17:00:00-05:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "One word in this sentence is wrong. Find it.\n\n“Before the conference, the two researchers revised its findings and added a new chart.” Trace the pronoun back to its noun.\n\nComment the word you'd fix.",
+  "tiktok_caption": "One word in this sentence is wrong. Find it before the reveal.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATreading",
+   "#SATgrammar",
+   "#DigitalSAT"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satgrammar"
+  ],
+  "youtube": {
+   "title": "SAT Grammar: Spot the Pronoun Error",
+   "description": "A pronoun has to match the noun it points back to. Plural “researchers” needs “their,” not “its.”",
+   "hashtags": [
+    "#SAT",
+    "#SATgrammar",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true
+ },
+ {
+  "id": "2026-10-14_2100_R1-026",
+  "folder": "2026-10-14_2100_R1-026",
+  "publish_at": "2026-10-14T21:00:00-05:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "Built and powered. Two verbs? Still not a sentence.\n\nAn opening phrase like 'Built from...' isn't a sentence. Comma, then the subject.\n\nSave this for test day.",
+  "tiktok_caption": "Built and powered. Two verbs? Still not a sentence. Opening phrase? Comma, not semicolon.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATreading",
+   "#SATgrammar",
+   "#DigitalSAT"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satgrammar"
+  ],
+  "youtube": {
+   "title": "SAT Intro Participial Phrase: Comma, Not Semicolon",
+   "description": "An opening phrase like 'Built from...' isn't a sentence. Comma, then the subject. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#SATgrammar",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true
+ },
+ {
+  "id": "2026-10-15_0800_C3-029",
+  "folder": "2026-10-15_0800_C3-029",
+  "publish_at": "2026-10-15T08:00:00-05:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "This question mark doesn't belong here.\n\n\"The coach wondered whether the field would dry\" reports a question but doesn't ask one, so it ends with a period.\n\nFollow @samsonsatprep for daily SAT tips.",
+  "tiktok_caption": "Reported questions end with a period, not a question mark.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATreading",
+   "#SATgrammar",
+   "#DigitalSAT"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satgrammar"
+  ],
+  "youtube": {
+   "title": "SAT Punctuation: When NOT to Use a Question Mark",
+   "description": "Indirect questions, like \"She asked whether it would rain,\" end with a period. Only direct questions get a question mark.",
+   "hashtags": [
+    "#SAT",
+    "#SATgrammar",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true
+ },
+ {
+  "id": "2026-10-15_1100_M7-016",
+  "folder": "2026-10-15_1100_M7-016",
+  "publish_at": "2026-10-15T11:00:00-05:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "Which angles are equal? Not those.\n\nIn an isosceles triangle, the equal angles sit across from the equal sides. PQ = QR means ∠R = ∠P.\n\nComment your answer before you check.",
+  "tiktok_caption": "Which angles are equal? Look across from the equal sides.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATpractice"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satmath"
+  ],
+  "youtube": {
+   "title": "Isosceles Triangle: Which Angles Are Equal? | SAT",
+   "description": "Match each equal side to the angle across from it. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#SATmath",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true
+ },
+ {
+  "id": "2026-10-15_1530_C4-007",
+  "folder": "2026-10-15_1530_C4-007",
+  "publish_at": "2026-10-15T15:30:00-05:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "Two choices mean the same? Both wrong.\n\nOnly one answer can be right, so if two transitions do the same job, cut both. Then pick from what's left.\n\nComment your answer before you check.",
+  "tiktok_caption": "Two transition choices mean the same thing? Cut both.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATreading",
+   "#SATgrammar",
+   "#DigitalSAT"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satgrammar"
+  ],
+  "youtube": {
+   "title": "SAT Transitions: Cut Choices That Mean the Same Thing",
+   "description": "If two transition choices do the same job, neither can be the single right answer. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#SATgrammar",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true
+ },
+ {
+  "id": "2026-10-15_1700_P0-004",
+  "folder": "2026-10-15_1700_P0-004",
+  "publish_at": "2026-10-15T17:00:00-05:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "Myth: you have to answer SAT questions in order.\n\nInside a module you can skip, mark questions for review, and change answers until time runs out. Once you leave a module, you can't go back.\n\nSave this for test day.",
+  "tiktok_caption": "You don't have to answer SAT questions in order. Skip, flag, come back.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#DigitalSAT",
+   "#SATtips",
+   "#StudyTips"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat"
+  ],
+  "youtube": {
+   "title": "SAT Myth: You Have to Answer in Order",
+   "description": "On the digital SAT you can move around within a module, mark questions for review, and change answers until time runs out, but you can't return to a finished module.",
+   "hashtags": [
+    "#SAT",
+    "#SATtips",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true
+ },
+ {
+  "id": "2026-10-15_2100_R4-026",
+  "folder": "2026-10-15_2100_R4-026",
+  "publish_at": "2026-10-15T21:00:00-05:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "A champion without a trophy? Let's see.\n\nRaising the issue at every meeting and securing funding means she advocated for bike lanes. She championed them.\n\nFollow @samsonsatprep for daily SAT tips.",
+  "tiktok_caption": "A champion without a trophy? Champion can mean advocate.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATreading",
+   "#SATgrammar",
+   "#DigitalSAT"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satgrammar"
+  ],
+  "youtube": {
+   "title": "SAT Words in Context: Champion Means Advocate",
+   "description": "To champion a cause is to fight for it publicly. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#SATgrammar",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true
+ },
+ {
+  "id": "2026-10-16_0800_R2-003",
+  "folder": "2026-10-16_0800_R2-003",
+  "publish_at": "2026-10-16T08:00:00-05:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "One word in this sentence is wrong.\n\nWhen dashes interrupt, read the sentence without them. The turbines generate.\n\nSave this for test day.",
+  "tiktok_caption": "Dashes hide the subject. Read around them.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATreading",
+   "#SATgrammar",
+   "#DigitalSAT"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satgrammar"
+  ],
+  "youtube": {
+   "title": "SAT Grammar: Subject-Verb Agreement With Dashes",
+   "description": "Spot the error: a verb that agrees with the wrong noun inside a dash interruption. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#SATgrammar",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true
+ },
+ {
+  "id": "2026-10-16_1100_T1-014",
+  "folder": "2026-10-16_1100_T1-014",
+  "publish_at": "2026-10-16T11:00:00-05:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "Arriving at 8:05 on SAT day? The doors already closed.\n\nTest centers open at 7:45 a.m. and doors close at 8:00 a.m. Testing starts around 8:15–8:30, but the door time is your deadline.\n\nSend this to the friend who's always late.",
+  "tiktok_caption": "SAT doors close at 8:00 a.m. Be there at 7:45.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#DigitalSAT",
+   "#SATtips",
+   "#StudyTips"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat"
+  ],
+  "youtube": {
+   "title": "What Time Should You Arrive for the SAT?",
+   "description": "SAT test centers open at 7:45 a.m. and doors close at 8:00 a.m., so plan to arrive when the doors open.",
+   "hashtags": [
+    "#SAT",
+    "#SATtips",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true
+ },
+ {
+  "id": "2026-10-16_1530_M5-015",
+  "folder": "2026-10-16_1530_M5-015",
+  "publish_at": "2026-10-16T15:30:00-05:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "Two ways to solve. One's way faster.\n\nSpread only the new people over the area, then add to the old density.\n\nComment your answer before you check.",
+  "tiktok_caption": "Population density shortcut: spread only the new people.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATpractice"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satmath"
+  ],
+  "youtube": {
+   "title": "SAT Population Density Problem: Fast Method",
+   "description": "Density is people per square mile; add only the change. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#SATmath",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true
+ },
+ {
+  "id": "2026-10-16_1700_P0-005",
+  "folder": "2026-10-16_1700_P0-005",
+  "publish_at": "2026-10-16T17:00:00-05:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "This formula isn't on the SAT reference sheet.\n\nThe vertex of y = ax² + bx + c is at x = −b/(2a). Plug that x back in for the max or min.\n\nSave this so you don't forget it.",
+  "tiktok_caption": "The vertex formula isn't on the SAT reference sheet. x = −b/2a.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATpractice"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satmath"
+  ],
+  "youtube": {
+   "title": "The Vertex Formula the SAT Doesn't Give You",
+   "description": "The vertex formula x = −b/(2a) isn't on the SAT reference sheet. Worked example: y = 2x² − 12x + 5 has its minimum at (3, −13).",
+   "hashtags": [
+    "#SAT",
+    "#SATmath",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true
+ },
+ {
+  "id": "2026-10-16_2100_D2-030",
+  "folder": "2026-10-16_2100_D2-030",
+  "publish_at": "2026-10-16T21:00:00-05:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "Data that bends needs a curve.\n\nRun y1 ~ ax1^2 + bx1 + c, then type the model at 80. A straight line gets this one wrong.\n\nComment your answer before you check.",
+  "tiktok_caption": "When the data bends, fit a curve. Quadratic regression in Desmos.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATmath",
+   "#Desmos",
+   "#MathHacks",
+   "#DigitalSAT"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#desmos"
+  ],
+  "youtube": {
+   "title": "Quadratic Regression Predictions in Desmos",
+   "description": "Fit a quadratic model to data in Desmos and make a prediction. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#Desmos",
+    "#SATmath",
+    "#DigitalSAT"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true
+ },
+ {
+  "id": "2026-10-17_0800_M6-033",
+  "folder": "2026-10-17_0800_M6-033",
+  "publish_at": "2026-10-17T08:00:00-05:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "48 beats 44, right? Not here.\n\nWith a ±3 margin, X could be 45% and Y could be 47%. Overlap means no clear winner.\n\nComment the step that's wrong.",
+  "tiktok_caption": "48% beats 44%, right? Not when the intervals overlap.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATpractice"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satmath"
+  ],
+  "youtube": {
+   "title": "SAT Math: Overlapping Margins of Error Mistake",
+   "description": "Spot the flawed conclusion when two estimates' intervals overlap. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#SATmath",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true
+ },
+ {
+  "id": "2026-10-17_1100_R2-023",
+  "folder": "2026-10-17_1100_R2-023",
+  "publish_at": "2026-10-17T11:00:00-05:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "Where does the apostrophe go? Most miss this.\n\nPlural owner? Make the word plural first (volunteers), then add the apostrophe: volunteers'.\n\nComment your answer before you check.",
+  "tiktok_caption": "Plural first, then the apostrophe.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATreading",
+   "#SATgrammar",
+   "#DigitalSAT"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satgrammar"
+  ],
+  "youtube": {
+   "title": "SAT Grammar: Plural Possessive Apostrophe Trap",
+   "description": "Where to put the apostrophe when more than one person owns something. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#SATgrammar",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true
+ },
+ {
+  "id": "2026-10-17_1530_T3-001",
+  "folder": "2026-10-17_1530_T3-001",
+  "publish_at": "2026-10-17T15:30:00-05:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "Three Saturdays left before November 7.\n\nMake each Saturday before the SAT a full-length Bluebook practice test that starts around 8:15 a.m., the same time the real test begins. Review every miss on Sunday.\n\nSave this for your weekend plan.",
+  "tiktok_caption": "3 Saturdays left before the Nov 7 SAT. Make each one a full Bluebook practice test at 8:15 a.m.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#DigitalSAT",
+   "#SATtips",
+   "#StudyTips"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat"
+  ],
+  "youtube": {
+   "title": "Nov 7 SAT: 3 Saturdays, 3 Full Practice Tests",
+   "description": "Three weeks before the November 7, 2026 SAT, take a full-length Bluebook practice test each Saturday at the real start time and review on Sunday.",
+   "hashtags": [
+    "#SAT",
+    "#SATtips",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true
+ },
+ {
+  "id": "2026-10-17_1700_P0-006",
+  "folder": "2026-10-17_1700_P0-006",
+  "publish_at": "2026-10-17T17:00:00-05:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "This comma costs people points.\n\nNever put a single comma between a subject and its verb. A pair of commas around extra info is fine.\n\nFollow @samsonsatprep for daily SAT tips.",
+  "tiktok_caption": "One comma between a subject and its verb? Cut it.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATreading",
+   "#SATgrammar",
+   "#DigitalSAT"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satgrammar"
+  ],
+  "youtube": {
+   "title": "SAT Comma Rule: Never Between Subject and Verb",
+   "description": "SAT punctuation rule: no single comma between a subject and its verb. A pair of commas around extra information is fine.",
+   "hashtags": [
+    "#SAT",
+    "#SATgrammar",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true
+ },
+ {
+  "id": "2026-10-17_2100_M2-032",
+  "folder": "2026-10-17_2100_M2-032",
+  "publish_at": "2026-10-17T21:00:00-05:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "Greater than doesn't always mean above.\n\nIsolate y first. Dividing by −3 flips the sign, so 2x − 3y < 6 actually shades above its line.\n\nSave this for test day.",
+  "tiktok_caption": "Greater than doesn't always mean shade above. Isolate y first.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATpractice"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satmath"
+  ],
+  "youtube": {
+   "title": "SAT Inequality Graphs: Dashed Lines and Shading",
+   "description": "Isolate y before deciding which side of the line to shade. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#SATmath",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true
+ },
+ {
+  "id": "2026-10-18_0800_T2-037",
+  "folder": "2026-10-18_0800_T2-037",
+  "publish_at": "2026-10-18T08:00:00-05:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "Missed a math question? Change the numbers and solve it again.\n\nRedoing the same question can just test your memory. A new version with new numbers tests whether you learned the method.\n\nSave this for your next review session.",
+  "tiktok_caption": "Missed an SAT math question? Change the numbers and redo it.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#DigitalSAT",
+   "#SATtips",
+   "#StudyTips"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat"
+  ],
+  "youtube": {
+   "title": "SAT Math Study Tip: Change the Numbers and Redo It",
+   "description": "After you understand a missed SAT math question, change its numbers and solve the new version from scratch to check that you learned the method.",
+   "hashtags": [
+    "#SAT",
+    "#SATtips",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true
+ },
+ {
+  "id": "2026-10-18_1100_M2-020",
+  "folder": "2026-10-18_1100_M2-020",
+  "publish_at": "2026-10-18T11:00:00-05:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "Given the solution? Work backward.\n\nPlug the known x into the equation without the constant to find y, then use the full point to find a.\n\nComment your answer before you check.",
+  "tiktok_caption": "Given the solution? Work backward to find the constant.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATpractice"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satmath"
+  ],
+  "youtube": {
+   "title": "SAT Systems: Use a Given Solution to Find a",
+   "description": "Substitute the known solution to find the missing constant. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#SATmath",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true
+ },
+ {
+  "id": "2026-10-18_1530_C2-048",
+  "folder": "2026-10-18_1530_C2-048",
+  "publish_at": "2026-10-18T15:30:00-05:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "The circle equation is secretly Pythagoras.\n\nFrom the center (2, −1) to any point on the circle, the legs are x − 2 and y + 1 and the hypotenuse is the radius: (x − 2)² + (y + 1)² = 25.\n\nSave this so you never forget it.",
+  "tiktok_caption": "The circle equation is just the Pythagorean theorem.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATpractice"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satmath"
+  ],
+  "youtube": {
+   "title": "The Circle Equation Is Just the Pythagorean Theorem",
+   "description": "The circle equation (x − h)² + (y − k)² = r² comes straight from the Pythagorean theorem. It isn't on the SAT reference sheet, but you can rebuild it.",
+   "hashtags": [
+    "#SAT",
+    "#SATmath",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true
+ },
+ {
+  "id": "2026-10-18_1700_P0-007",
+  "folder": "2026-10-18_1700_P0-007",
+  "publish_at": "2026-10-18T17:00:00-05:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "Triple the sides. The area does NOT triple.\n\nScale every length by k and the area scales by k². Volume scales by k³.\n\nComment your answer before you check.",
+  "tiktok_caption": "Triple the sides of a triangle. What happens to the area?",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATpractice"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satmath"
+  ],
+  "youtube": {
+   "title": "SAT Trap: Scale the Sides, Square the Area",
+   "description": "Multiplying every side by k multiplies the area by k², not k. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#SATmath",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true
+ },
+ {
+  "id": "2026-10-18_2100_R1-023",
+  "folder": "2026-10-18_2100_R1-023",
+  "publish_at": "2026-10-18T21:00:00-05:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "Semicolon before however? Not here.\n\nNo full sentence before 'however'? Then it's just interrupting, so use commas.\n\nSend this to a friend taking the SAT.",
+  "tiktok_caption": "Semicolon before however? Not here. One sentence? Commas around however.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATreading",
+   "#SATgrammar",
+   "#DigitalSAT"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satgrammar"
+  ],
+  "youtube": {
+   "title": "SAT However Rule: Commas When It Interrupts",
+   "description": "No full sentence before 'however'? Then it's just interrupting, so use commas. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#SATgrammar",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true
+ }
+]

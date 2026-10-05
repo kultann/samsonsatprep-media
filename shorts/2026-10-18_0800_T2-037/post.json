@@ -1,0 +1,40 @@
+{
+ "id": "2026-10-18_0800_T2-037",
+ "folder": "2026-10-18_0800_T2-037",
+ "publish_at": "2026-10-18T08:00:00-05:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Missed a math question? Change the numbers and solve it again.\n\nRedoing the same question can just test your memory. A new version with new numbers tests whether you learned the method.\n\nSave this for your next review session.",
+ "tiktok_caption": "Missed an SAT math question? Change the numbers and redo it.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#DigitalSAT",
+  "#SATtips",
+  "#StudyTips"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat"
+ ],
+ "youtube": {
+  "title": "SAT Math Study Tip: Change the Numbers and Redo It",
+  "description": "After you understand a missed SAT math question, change its numbers and solve the new version from scratch to check that you learned the method.",
+  "hashtags": [
+   "#SAT",
+   "#SATtips",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true
+}

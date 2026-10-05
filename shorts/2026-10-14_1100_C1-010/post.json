@@ -1,0 +1,41 @@
+{
+ "id": "2026-10-14_1100_C1-010",
+ "folder": "2026-10-14_1100_C1-010",
+ "publish_at": "2026-10-14T11:00:00-05:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "2³ · 2⁴ is NOT 2¹².\n\nSame base, multiply → add the exponents: 2³ · 2⁴ = 2⁷ = 128. Check: 8 × 16 = 128.\n\nFollow @samsonsatprep for daily SAT tips.",
+ "tiktok_caption": "2³ · 2⁴ = 2⁷, not 2¹². Same base: add the exponents.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATmath",
+  "#DigitalSAT",
+  "#SATpractice"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satmath"
+ ],
+ "youtube": {
+  "title": "Exponent Product Rule: Add, Don't Multiply (SAT)",
+  "description": "Exponent rules aren't on the SAT reference sheet. Worked example: 2³ · 2⁴ = 2⁷ = 128, checked with 8 × 16.",
+  "hashtags": [
+   "#SAT",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true
+}

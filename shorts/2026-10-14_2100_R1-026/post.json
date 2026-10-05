@@ -1,0 +1,41 @@
+{
+ "id": "2026-10-14_2100_R1-026",
+ "folder": "2026-10-14_2100_R1-026",
+ "publish_at": "2026-10-14T21:00:00-05:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Built and powered. Two verbs? Still not a sentence.\n\nAn opening phrase like 'Built from...' isn't a sentence. Comma, then the subject.\n\nSave this for test day.",
+ "tiktok_caption": "Built and powered. Two verbs? Still not a sentence. Opening phrase? Comma, not semicolon.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATreading",
+  "#SATgrammar",
+  "#DigitalSAT"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satgrammar"
+ ],
+ "youtube": {
+  "title": "SAT Intro Participial Phrase: Comma, Not Semicolon",
+  "description": "An opening phrase like 'Built from...' isn't a sentence. Comma, then the subject. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATgrammar",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true
+}

@@ -1,0 +1,41 @@
+{
+ "id": "2026-10-18_1530_C2-048",
+ "folder": "2026-10-18_1530_C2-048",
+ "publish_at": "2026-10-18T15:30:00-05:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "The circle equation is secretly Pythagoras.\n\nFrom the center (2, −1) to any point on the circle, the legs are x − 2 and y + 1 and the hypotenuse is the radius: (x − 2)² + (y + 1)² = 25.\n\nSave this so you never forget it.",
+ "tiktok_caption": "The circle equation is just the Pythagorean theorem.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATmath",
+  "#DigitalSAT",
+  "#SATpractice"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satmath"
+ ],
+ "youtube": {
+  "title": "The Circle Equation Is Just the Pythagorean Theorem",
+  "description": "The circle equation (x − h)² + (y − k)² = r² comes straight from the Pythagorean theorem. It isn't on the SAT reference sheet, but you can rebuild it.",
+  "hashtags": [
+   "#SAT",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true
+}

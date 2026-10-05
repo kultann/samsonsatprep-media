@@ -1,0 +1,41 @@
+{
+ "id": "2026-10-17_2100_M2-032",
+ "folder": "2026-10-17_2100_M2-032",
+ "publish_at": "2026-10-17T21:00:00-05:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Greater than doesn't always mean above.\n\nIsolate y first. Dividing by −3 flips the sign, so 2x − 3y < 6 actually shades above its line.\n\nSave this for test day.",
+ "tiktok_caption": "Greater than doesn't always mean shade above. Isolate y first.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATmath",
+  "#DigitalSAT",
+  "#SATpractice"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satmath"
+ ],
+ "youtube": {
+  "title": "SAT Inequality Graphs: Dashed Lines and Shading",
+  "description": "Isolate y before deciding which side of the line to shade. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true
+}

@@ -1,0 +1,41 @@
+{
+ "id": "2026-10-13_0800_M4-014",
+ "folder": "2026-10-13_0800_M4-014",
+ "publish_at": "2026-10-13T08:00:00-05:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Work inside out, or you'll pick D.\n\nf(g(−2)) means g goes first. Start inside, then work outward.\n\nComment your answer before you check.",
+ "tiktok_caption": "f(g(−2)): which function goes first? Most people get this backwards.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATmath",
+  "#DigitalSAT",
+  "#SATpractice"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satmath"
+ ],
+ "youtube": {
+  "title": "SAT Function Composition: Work Inside Out",
+  "description": "Evaluate a composition of functions in the right order and avoid the reversed-order trap. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true
+}

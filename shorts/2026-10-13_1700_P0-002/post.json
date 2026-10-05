@@ -1,0 +1,41 @@
+{
+ "id": "2026-10-13_1700_P0-002",
+ "folder": "2026-10-13_1700_P0-002",
+ "publish_at": "2026-10-13T17:00:00-05:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Stop solving systems like this by hand.\n\nType both equations into Desmos exactly as written and click where the lines cross.\n\nComment your answer before you check.",
+ "tiktok_caption": "Stop solving systems by hand. Graph both, click the cross.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATmath",
+  "#Desmos",
+  "#MathHacks",
+  "#DigitalSAT"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#desmos"
+ ],
+ "youtube": {
+  "title": "Solve SAT Systems in Desmos in 5 Seconds",
+  "description": "Type both equations into Desmos and click the intersection to read off the solution. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#Desmos",
+   "#SATmath",
+   "#DigitalSAT"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true
+}

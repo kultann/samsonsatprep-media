@@ -1,0 +1,41 @@
+{
+ "id": "2026-10-12_1700_P0-001",
+ "folder": "2026-10-12_1700_P0-001",
+ "publish_at": "2026-10-12T17:00:00-05:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Don't solve this quadratic.\n\nThe solutions of ax² + bx + c = 0 always add up to −b/a. No factoring, no formula.\n\nComment your answer before you check.",
+ "tiktok_caption": "Don't solve this quadratic. The sum of the solutions is −b/a.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATmath",
+  "#DigitalSAT",
+  "#SATpractice"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satmath"
+ ],
+ "youtube": {
+  "title": "SAT Quadratic Shortcut: Sum of Solutions Fast",
+  "description": "The solutions of ax² + bx + c = 0 add up to −b/a, so you can skip solving. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true
+}
