@@ -1,0 +1,42 @@
+{
+ "id": "2027-01-13_2130_M1-036",
+ "folder": "2027-01-13_2130_M1-036",
+ "publish_at": "2027-01-13T21:30:00-06:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Turn the words into a slope first.\n\n\"Decreases by 4 for every increase of 6\" = slope −2/3. From x = 9 back to 0, h rises 6: h(0) = 7.\n\nComment your answer before you check.",
+ "tiktok_caption": "Turn 'decreases by 4 for every 6' into a slope first.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATmath",
+  "#DigitalSAT",
+  "#SATpractice"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satmath"
+ ],
+ "youtube": {
+  "title": "Turn Rate Words Into a Slope: SAT Linear Functions",
+  "description": "Translate a verbal rate into slope and use a known value to find h(0). SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "original lo-fi bed"
+}

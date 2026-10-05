@@ -1,0 +1,42 @@
+{
+ "id": "2026-12-21_2130_M6-004",
+ "folder": "2026-12-21_2130_M6-004",
+ "publish_at": "2026-12-21T21:30:00-06:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Delete one number. Watch the mean drop.\n\nRemoving one outlier drops the mean 17.5 minutes but the median only 2.5.\n\nComment your answer before you check.",
+ "tiktok_caption": "Delete one outlier and the mean drops 17.5. The median barely moves.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATmath",
+  "#DigitalSAT",
+  "#SATpractice"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satmath"
+ ],
+ "youtube": {
+  "title": "SAT Math: How an Outlier Changes the Mean",
+  "description": "Remove an outlier and find how much the mean changes. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "original lo-fi bed"
+}
