@@ -1,0 +1,42 @@
+{
+ "id": "2026-10-14_2130_M7-026",
+ "folder": "2026-10-14_2130_M7-026",
+ "publish_at": "2026-10-14T21:30:00-05:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "One tangent. One side. Find the rest.\n\ntan A = 5/12 makes the sides 5k, 12k, 13k. The hypotenuse 39 tells you k = 3.\n\nComment your answer before you check.",
+ "tiktok_caption": "One tangent, one side. Find BC in three steps.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATmath",
+  "#DigitalSAT",
+  "#SATpractice"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satmath"
+ ],
+ "youtube": {
+  "title": "SOH-CAH-TOA: Find a Side From Tangent | SAT Trig",
+  "description": "Turn a tangent ratio and a hypotenuse into a side length. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-19-26_1.MP4"
+}

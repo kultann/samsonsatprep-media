@@ -1,0 +1,42 @@
+{
+ "id": "2026-10-19_2130_M1-034",
+ "folder": "2026-10-19_2130_M1-034",
+ "publish_at": "2026-10-19T21:30:00-05:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Consecutive odd integers step by two. Not one.\n\nOdd integers go n, n + 2, n + 4, n + 6. Set their sum equal to 5n − 3, solve for n, then grab the largest.\n\nSave this for test day.",
+ "tiktok_caption": "Consecutive odd integers step by 2. Then answer the question they asked.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATmath",
+  "#DigitalSAT",
+  "#SATpractice"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satmath"
+ ],
+ "youtube": {
+  "title": "Consecutive Odd Integers Word Problem (SAT Algebra)",
+  "description": "Set up consecutive odd integers correctly and solve a linear equation. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-18-18_1.mov"
+}

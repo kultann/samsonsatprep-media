@@ -1,0 +1,42 @@
+{
+ "id": "2026-10-13_1930_R5-012",
+ "folder": "2026-10-13_1930_R5-012",
+ "publish_at": "2026-10-13T19:30:00-05:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Naming a winner doesn't introduce the prize.\n\nA new audience needs to know what the thing is before any cool detail about it.\n\nFollow @samsonsatprep for daily SAT tips.",
+ "tiktok_caption": "Naming a winner doesn't introduce the prize. Define it first.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATreading",
+  "#SATgrammar",
+  "#DigitalSAT"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satgrammar"
+ ],
+ "youtube": {
+  "title": "SAT Trap: Introducing Something to a New Audience",
+  "description": "A cool detail can't introduce something the reader has never heard of. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATgrammar",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-18-18_1.mov"
+}

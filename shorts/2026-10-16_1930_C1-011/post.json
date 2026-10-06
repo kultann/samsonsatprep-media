@@ -1,0 +1,42 @@
+{
+ "id": "2026-10-16_1930_C1-011",
+ "folder": "2026-10-16_1930_C1-011",
+ "publish_at": "2026-10-16T19:30:00-05:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Dividing powers? Subtract, don't divide.\n\nxᵃ / xᵇ = xᵃ⁻ᵇ, and the coefficients divide normally: 12x⁷ / 4x³ = 3x⁴.\n\nSave this for test day.",
+ "tiktok_caption": "12x⁷ / 4x³ = 3x⁴. Divide the numbers, subtract the exponents.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATmath",
+  "#DigitalSAT",
+  "#SATpractice"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satmath"
+ ],
+ "youtube": {
+  "title": "Exponent Quotient Rule: 12x⁷ / 4x³ Step by Step",
+  "description": "Exponent rules aren't on the SAT reference sheet. Worked example: 12x⁷ / 4x³ = 3x⁴, checked with x = 2.",
+  "hashtags": [
+   "#SAT",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-20-07_1.MP4"
+}

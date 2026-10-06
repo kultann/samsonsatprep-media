@@ -1,0 +1,41 @@
+{
+ "id": "2026-10-17_1230_T1-001",
+ "folder": "2026-10-17_1230_T1-001",
+ "publish_at": "2026-10-17T12:30:00-05:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Does guessing on the SAT cost you points?\n\nNo. There's no penalty for wrong answers, so a blank is a sure miss and a guess is a free shot.\n\nSave this for test day.",
+ "tiktok_caption": "Guessing doesn't cost points on the SAT. Never leave one blank.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#DigitalSAT",
+  "#SATtips",
+  "#StudyTips"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat"
+ ],
+ "youtube": {
+  "title": "Does Guessing Cost Points on the SAT?",
+  "description": "There's no penalty for wrong answers on the digital SAT, so answer every question before time runs out.",
+  "hashtags": [
+   "#SAT",
+   "#SATtips",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-18-18_1.mov"
+}

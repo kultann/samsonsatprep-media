@@ -1,0 +1,41 @@
+{
+ "id": "2026-10-16_0730_T4-007",
+ "folder": "2026-10-16_0730_T4-007",
+ "publish_at": "2026-10-16T07:30:00-05:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Check your algebra in Desmos before you move on.\n\nType each side of the equation as its own y = line in Desmos and click where they cross. If the x doesn't match your answer, find the slip.\n\nFollow @samsonsatprep for daily SAT tips.",
+ "tiktok_caption": "Check your SAT algebra in Desmos: graph both sides, click the crossing.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#DigitalSAT",
+  "#SATtips",
+  "#StudyTips"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat"
+ ],
+ "youtube": {
+  "title": "Check SAT Algebra Answers in Desmos Before Moving On",
+  "description": "Graph each side of a linear equation in Desmos and click the intersection to confirm your answer on the digital SAT.",
+  "hashtags": [
+   "#SAT",
+   "#SATtips",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-20-46_1.MP4"
+}

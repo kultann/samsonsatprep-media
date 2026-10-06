@@ -2053,6 +2053,173 @@
   "music": "ScreenRecording_10-05-2026 17-15-36_1.MP4"
  },
  {
+  "id": "2026-10-13_0730_M6-002",
+  "folder": "2026-10-13_0730_M6-002",
+  "publish_at": "2026-10-13T07:30:00-05:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "The middle row isn't the median.\n\nWith 25 households, count to the 13th one. Which row does it land in?\n\nComment your answer before you check.",
+  "tiktok_caption": "The middle row isn't the median. Count to the middle household.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATpractice"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satmath"
+  ],
+  "youtube": {
+   "title": "SAT Math: Median From a Frequency Table Trap",
+   "description": "Why the middle row of a frequency table is not the median. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#SATmath",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-20-07_1.MP4"
+ },
+ {
+  "id": "2026-10-13_0930_C1-015",
+  "folder": "2026-10-13_0930_C1-015",
+  "publish_at": "2026-10-13T09:30:00-05:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "Compounded quarterly? Divide the rate by 4.\n\nA = P(1 + r/n)ⁿᵗ. $1,000 at 8% compounded quarterly for 3 years: 1000(1.02)¹² ≈ $1,268.24.\n\nSave this for test day.",
+  "tiktok_caption": "Compounded quarterly: rate ÷ 4, time × 4. A = P(1 + r/n)ⁿᵗ.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATpractice"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satmath"
+  ],
+  "youtube": {
+   "title": "Compound Interest Formula for the SAT, Step by Step",
+   "description": "The compound interest formula isn't on the SAT reference sheet. Worked example: $1,000 at 8% compounded quarterly for 3 years is 1000(1.02)¹² ≈ $1,268.24.",
+   "hashtags": [
+    "#SAT",
+    "#SATmath",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-20-46_1.MP4"
+ },
+ {
+  "id": "2026-10-13_1230_C3-022",
+  "folder": "2026-10-13_1230_C3-022",
+  "publish_at": "2026-10-13T12:30:00-05:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "Lists have to match. This one doesn't.\n\n\"Planting trees, painting fences, and clearing trails.\" Stack the list items: if one sticks out, it's the error.\n\nSave this for test day.",
+  "tiktok_caption": "Every item in a list has to match. Stack them to check.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATreading",
+   "#SATgrammar",
+   "#DigitalSAT"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satgrammar"
+  ],
+  "youtube": {
+   "title": "Parallel Structure on the SAT: Make Lists Match",
+   "description": "Items in a list need the same grammatical form. Stack them on top of each other and fix the one that sticks out.",
+   "hashtags": [
+    "#SAT",
+    "#SATgrammar",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-21-29_1.MP4"
+ },
+ {
+  "id": "2026-10-13_1500_T2-013",
+  "folder": "2026-10-13_1500_T2-013",
+  "publish_at": "2026-10-13T15:00:00-05:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "Can you explain your answer out loud?\n\nSay what the question asks, how you got the answer, and why each wrong choice fails. If you can't, you've found what to study next.\n\nSend this to your study partner.",
+  "tiktok_caption": "Got it right? Now explain it out loud. That's the real check.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#DigitalSAT",
+   "#SATtips",
+   "#StudyTips"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat"
+  ],
+  "youtube": {
+   "title": "SAT Study Tip: Explain Your Answer Out Loud",
+   "description": "After each SAT practice question, explain out loud what it asks, how you solved it, and why the other choices are wrong to find hidden gaps.",
+   "hashtags": [
+    "#SAT",
+    "#SATtips",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-15-36_1.MP4"
+ },
+ {
   "id": "2026-10-13_1700_P0-002",
   "folder": "2026-10-13_1700_P0-002",
   "publish_at": "2026-10-13T17:00:00-05:00",
@@ -2088,6 +2255,1806 @@
     "#Desmos",
     "#SATmath",
     "#DigitalSAT"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-18-18_1.mov"
+ },
+ {
+  "id": "2026-10-13_1930_R5-012",
+  "folder": "2026-10-13_1930_R5-012",
+  "publish_at": "2026-10-13T19:30:00-05:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "Naming a winner doesn't introduce the prize.\n\nA new audience needs to know what the thing is before any cool detail about it.\n\nFollow @samsonsatprep for daily SAT tips.",
+  "tiktok_caption": "Naming a winner doesn't introduce the prize. Define it first.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATreading",
+   "#SATgrammar",
+   "#DigitalSAT"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satgrammar"
+  ],
+  "youtube": {
+   "title": "SAT Trap: Introducing Something to a New Audience",
+   "description": "A cool detail can't introduce something the reader has never heard of. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#SATgrammar",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-18-18_1.mov"
+ },
+ {
+  "id": "2026-10-13_2130_M7-007",
+  "folder": "2026-10-13_2130_M7-007",
+  "publish_at": "2026-10-13T21:30:00-05:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "Drill a hole. What's left?\n\nWhole block minus the cylinder you drilled out. Square the radius, keep the π.\n\nComment your answer before you check.",
+  "tiktok_caption": "Drill a hole. What's left? Whole minus hole.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATpractice"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satmath"
+  ],
+  "youtube": {
+   "title": "Volume of a Block With a Cylindrical Hole | SAT Math",
+   "description": "Subtract the cylinder from the prism to get the remaining volume. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#SATmath",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-19-26_1.MP4"
+ },
+ {
+  "id": "2026-10-14_0730_M1-015",
+  "folder": "2026-10-14_0730_M1-015",
+  "publish_at": "2026-10-14T07:30:00-05:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "f of a isn't a, and this student mixed them up.\n\nf(a) = −8 means the OUTPUT is −8. Set 7 − (3/4)a equal to −8 and solve for a.\n\nComment your answer before you check.",
+  "tiktok_caption": "f(a) = −8 doesn't mean a = −8. Find the student's mistake.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATpractice"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satmath"
+  ],
+  "youtube": {
+   "title": "f(a) = k vs f(k): SAT Function Notation Mistake",
+   "description": "Learn the difference between evaluating f(x) and solving f(x) = k. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#SATmath",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-20-07_1.MP4"
+ },
+ {
+  "id": "2026-10-14_0930_M3-005",
+  "folder": "2026-10-14_0930_M3-005",
+  "publish_at": "2026-10-14T09:30:00-05:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "Choice B looks right. It isn't.\n\n(2x³)⁴ is 16x¹², not 8x¹². The power hits the coefficient too.\n\nSave this for test day.",
+  "tiktok_caption": "2·4 isn't 2⁴. That's the whole trap.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATpractice"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satmath"
+  ],
+  "youtube": {
+   "title": "SAT Exponent Rules Trap: Power of a Product",
+   "description": "Raise every factor to the power, including the coefficient. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#SATmath",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-20-46_1.MP4"
+ },
+ {
+  "id": "2026-10-14_1500_P0-003",
+  "folder": "2026-10-14_1500_P0-003",
+  "publish_at": "2026-10-14T15:00:00-05:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "One word in this sentence is wrong. Find it.\n\n“Before the conference, the two researchers revised its findings and added a new chart.” Trace the pronoun back to its noun.\n\nComment the word you'd fix.",
+  "tiktok_caption": "One word in this sentence is wrong. Find it before the reveal.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATreading",
+   "#SATgrammar",
+   "#DigitalSAT"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satgrammar"
+  ],
+  "youtube": {
+   "title": "SAT Grammar: Spot the Pronoun Error",
+   "description": "A pronoun has to match the noun it points back to. Plural “researchers” needs “their,” not “its.”",
+   "hashtags": [
+    "#SAT",
+    "#SATgrammar",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-21-29_1.MP4"
+ },
+ {
+  "id": "2026-10-14_1700_D1-016",
+  "folder": "2026-10-14_1700_D1-016",
+  "publish_at": "2026-10-14T17:00:00-05:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "Count the dots, not the steps.\n\nTo count solutions of x³ − 4x = 1, graph y = x³ − 4x and y = 1 and count the crossings.\n\nComment your answer before you check.",
+  "tiktok_caption": "How many solutions? Graph both sides and count the crossings.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATmath",
+   "#Desmos",
+   "#MathHacks",
+   "#DigitalSAT"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#desmos"
+  ],
+  "youtube": {
+   "title": "How Many Solutions? Count Intersections in Desmos",
+   "description": "Count real solutions by counting where y = x³ − 4x crosses y = 1. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#Desmos",
+    "#SATmath",
+    "#DigitalSAT"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-15-36_1.MP4"
+ },
+ {
+  "id": "2026-10-14_1930_C2-022",
+  "folder": "2026-10-14_1930_C2-022",
+  "publish_at": "2026-10-14T19:30:00-05:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "Letters in the choices? Make them numbers.\n\nLet p = 50 and n = 4: four 50-cent pens cost $2. Plug the same numbers into every choice and keep the one that gives 2.\n\nComment which choice survives.",
+  "tiktok_caption": "Variables in the answer choices? Pick numbers and test them.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATpractice"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satmath"
+  ],
+  "youtube": {
+   "title": "Letters in the Answer Choices? Pick Numbers",
+   "description": "Replace the variables with easy numbers, find the target value, and test each choice. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#SATmath",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-18-18_1.mov"
+ },
+ {
+  "id": "2026-10-14_2130_M7-026",
+  "folder": "2026-10-14_2130_M7-026",
+  "publish_at": "2026-10-14T21:30:00-05:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "One tangent. One side. Find the rest.\n\ntan A = 5/12 makes the sides 5k, 12k, 13k. The hypotenuse 39 tells you k = 3.\n\nComment your answer before you check.",
+  "tiktok_caption": "One tangent, one side. Find BC in three steps.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATpractice"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satmath"
+  ],
+  "youtube": {
+   "title": "SOH-CAH-TOA: Find a Side From Tangent | SAT Trig",
+   "description": "Turn a tangent ratio and a hypotenuse into a side length. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#SATmath",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-19-26_1.MP4"
+ },
+ {
+  "id": "2026-10-15_0730_R4-022",
+  "folder": "2026-10-15_0730_R4-022",
+  "publish_at": "2026-10-15T07:30:00-05:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "Retract goes too far. Here's why.\n\nShe didn't take her claim back. She narrowed it to mild winters, and the right word has to mean exactly that.\n\nSave this for test day.",
+  "tiktok_caption": "Retract goes too far. To qualify a claim means to limit it.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATreading",
+   "#SATgrammar",
+   "#DigitalSAT"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satgrammar"
+  ],
+  "youtube": {
+   "title": "SAT Words in Context Trap: Retract vs Qualify",
+   "description": "Limiting a claim without withdrawing it is qualifying it. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#SATgrammar",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-20-07_1.MP4"
+ },
+ {
+  "id": "2026-10-15_0930_Q2-016",
+  "folder": "2026-10-15_0930_Q2-016",
+  "publish_at": "2026-10-15T09:30:00-05:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "Would Bluebook accept this answer?\n\nNo mixed numbers in the answer box: type 21/4 or 5.25, never 5 1/4.\n\nSave this for test day.",
+  "tiktok_caption": "Right answer, wrong format? Mixed numbers don't fly in Bluebook.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#DigitalSAT",
+   "#SATtips",
+   "#StudyTips"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat"
+  ],
+  "youtube": {
+   "title": "Mixed Numbers in SAT Answer Boxes: Accepted or Not?",
+   "description": "Three quick checks on typing student-produced response answers: no mixed numbers, but fractions and decimals are fine. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#SATtips",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-20-46_1.MP4"
+ },
+ {
+  "id": "2026-10-15_1230_M5-005",
+  "folder": "2026-10-15_1230_M5-005",
+  "publish_at": "2026-10-15T12:30:00-05:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "60 there, 40 back. Not 50.\n\nAverage speed = total distance ÷ total time, and you spend more time at the slower speed.\n\nComment your answer before you check.",
+  "tiktok_caption": "60 mph there, 40 back. The average isn't 50.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATpractice"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satmath"
+  ],
+  "youtube": {
+   "title": "SAT Average Speed Trap: Round Trip Problem",
+   "description": "Average speed is total distance over total time, not the average of the speeds. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#SATmath",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-21-29_1.MP4"
+ },
+ {
+  "id": "2026-10-15_1500_P0-004",
+  "folder": "2026-10-15_1500_P0-004",
+  "publish_at": "2026-10-15T15:00:00-05:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "Myth: you have to answer SAT questions in order.\n\nInside a module you can skip, mark questions for review, and change answers until time runs out. Once you leave a module, you can't go back.\n\nSave this for test day.",
+  "tiktok_caption": "You don't have to answer SAT questions in order. Skip, flag, come back.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#DigitalSAT",
+   "#SATtips",
+   "#StudyTips"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat"
+  ],
+  "youtube": {
+   "title": "SAT Myth: You Have to Answer in Order",
+   "description": "On the digital SAT you can move around within a module, mark questions for review, and change answers until time runs out, but you can't return to a finished module.",
+   "hashtags": [
+    "#SAT",
+    "#SATtips",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-15-36_1.MP4"
+ },
+ {
+  "id": "2026-10-15_1700_D2-031",
+  "folder": "2026-10-15_1700_D2-031",
+  "publish_at": "2026-10-15T17:00:00-05:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "Pi in the choices? Desmos speaks pi.\n\nType (140/360)*2π*9, then type every answer choice. The one with the matching decimal is your answer.\n\nSave this for test day.",
+  "tiktok_caption": "Answer choices with pi? Type them into Desmos and match.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATmath",
+   "#Desmos",
+   "#MathHacks",
+   "#DigitalSAT"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#desmos"
+  ],
+  "youtube": {
+   "title": "Arc Length With Pi Answer Choices in Desmos",
+   "description": "Compute an arc length in Desmos and match it to choices written with pi. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#Desmos",
+    "#SATmath",
+    "#DigitalSAT"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-18-18_1.mov"
+ },
+ {
+  "id": "2026-10-15_1930_M2-038",
+  "folder": "2026-10-15_1930_M2-038",
+  "publish_at": "2026-10-15T19:30:00-05:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "Three parts. This student moved two.\n\nIn a compound inequality, every operation hits all three parts: −4 − 6 = −10, not −4.\n\nComment your count before you check.",
+  "tiktok_caption": "Three parts. This student only moved two. Find the slip.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATpractice"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satmath"
+  ],
+  "youtube": {
+   "title": "Find the Error: Compound Inequality Mistake",
+   "description": "A compound inequality where one part never got the subtraction. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#SATmath",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-19-26_1.MP4"
+ },
+ {
+  "id": "2026-10-15_2130_M5-031",
+  "folder": "2026-10-15_2130_M5-031",
+  "publish_at": "2026-10-15T21:30:00-05:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "Track the acid, not the percents.\n\nFind the liters of acid in each solution, add them, then divide by the total volume.\n\nSave this for test day.",
+  "tiktok_caption": "Mixtures: total acid over total volume.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATpractice"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satmath"
+  ],
+  "youtube": {
+   "title": "SAT Mixture Problem: Percent Acid in a Solution",
+   "description": "Weight each percent by its volume: total acid over total volume. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#SATmath",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-20-07_1.MP4"
+ },
+ {
+  "id": "2026-10-16_0730_T4-007",
+  "folder": "2026-10-16_0730_T4-007",
+  "publish_at": "2026-10-16T07:30:00-05:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "Check your algebra in Desmos before you move on.\n\nType each side of the equation as its own y = line in Desmos and click where they cross. If the x doesn't match your answer, find the slip.\n\nFollow @samsonsatprep for daily SAT tips.",
+  "tiktok_caption": "Check your SAT algebra in Desmos: graph both sides, click the crossing.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#DigitalSAT",
+   "#SATtips",
+   "#StudyTips"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat"
+  ],
+  "youtube": {
+   "title": "Check SAT Algebra Answers in Desmos Before Moving On",
+   "description": "Graph each side of a linear equation in Desmos and click the intersection to confirm your answer on the digital SAT.",
+   "hashtags": [
+    "#SAT",
+    "#SATtips",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-20-46_1.MP4"
+ },
+ {
+  "id": "2026-10-16_0930_R4-012",
+  "folder": "2026-10-16_0930_R4-012",
+  "publish_at": "2026-10-16T09:30:00-05:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "Supplement or supplant? Only one replaces.\n\nDigital started as an extra, then took film's place. That's supplant, not supplement.\n\nSave this for test day.",
+  "tiktok_caption": "Supplement or supplant? Only one means replace.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATreading",
+   "#SATgrammar",
+   "#DigitalSAT"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satgrammar"
+  ],
+  "youtube": {
+   "title": "SAT Vocab Trap: Supplement vs Supplant",
+   "description": "When something takes another's place almost entirely, it supplants it. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#SATgrammar",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-21-29_1.MP4"
+ },
+ {
+  "id": "2026-10-16_1230_C3-026",
+  "folder": "2026-10-16_1230_C3-026",
+  "publish_at": "2026-10-16T12:30:00-05:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "This sentence has no real verb.\n\n\"The engineers, hoping to map the reef, using drones.\" Lift out the middle: \"The engineers using drones\" is a caption, not a sentence. Fix: used.\n\nComment if you spotted it.",
+  "tiktok_caption": "Looks complete, but there's no real verb. Spot it?",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATreading",
+   "#SATgrammar",
+   "#DigitalSAT"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satgrammar"
+  ],
+  "youtube": {
+   "title": "SAT Grammar: Every Sentence Needs a Main Verb",
+   "description": "An -ing word can't be a sentence's main verb by itself. Read the subject and verb alone to check.",
+   "hashtags": [
+    "#SAT",
+    "#SATgrammar",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-15-36_1.MP4"
+ },
+ {
+  "id": "2026-10-16_1500_P0-005",
+  "folder": "2026-10-16_1500_P0-005",
+  "publish_at": "2026-10-16T15:00:00-05:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "The vertex formula isn't on the SAT reference sheet.\n\nThe vertex of y = ax² + bx + c is at x = −b/(2a). Plug that x back in for the max or min.\n\nSave this so you don't forget it.",
+  "tiktok_caption": "The vertex formula isn't on the SAT reference sheet. x = −b/2a.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATpractice"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satmath"
+  ],
+  "youtube": {
+   "title": "The Vertex Formula the SAT Doesn't Give You",
+   "description": "The vertex formula x = −b/(2a) isn't on the SAT reference sheet. Worked example: y = 2x² − 12x + 5 has its minimum at (3, −13).",
+   "hashtags": [
+    "#SAT",
+    "#SATmath",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-18-18_1.mov"
+ },
+ {
+  "id": "2026-10-16_1700_D2-012",
+  "folder": "2026-10-16_1700_D2-012",
+  "publish_at": "2026-10-16T17:00:00-05:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "The right circle sits exactly on top.\n\nGraph the given equation, then each choice. Only the equivalent one overlaps perfectly.\n\nComment your answer before you check.",
+  "tiktok_caption": "Graph every circle choice. The right one sits exactly on top.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATmath",
+   "#Desmos",
+   "#MathHacks",
+   "#DigitalSAT"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#desmos"
+  ],
+  "youtube": {
+   "title": "Circle Equations: Match Choices by Graphing",
+   "description": "Graph an expanded circle and each center-radius choice to find the overlap. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#Desmos",
+    "#SATmath",
+    "#DigitalSAT"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-19-26_1.MP4"
+ },
+ {
+  "id": "2026-10-16_1930_C1-011",
+  "folder": "2026-10-16_1930_C1-011",
+  "publish_at": "2026-10-16T19:30:00-05:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "Dividing powers? Subtract, don't divide.\n\nxᵃ / xᵇ = xᵃ⁻ᵇ, and the coefficients divide normally: 12x⁷ / 4x³ = 3x⁴.\n\nSave this for test day.",
+  "tiktok_caption": "12x⁷ / 4x³ = 3x⁴. Divide the numbers, subtract the exponents.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATpractice"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satmath"
+  ],
+  "youtube": {
+   "title": "Exponent Quotient Rule: 12x⁷ / 4x³ Step by Step",
+   "description": "Exponent rules aren't on the SAT reference sheet. Worked example: 12x⁷ / 4x³ = 3x⁴, checked with x = 2.",
+   "hashtags": [
+    "#SAT",
+    "#SATmath",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-20-07_1.MP4"
+ },
+ {
+  "id": "2026-10-16_2130_R1-043",
+  "folder": "2026-10-16_2130_R1-043",
+  "publish_at": "2026-10-16T21:30:00-05:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "It starts with to keep. Now punctuate it.\n\nA sentence that opens with a 'To...' phrase needs a comma before the main clause.\n\nSend this to a friend taking the SAT.",
+  "tiktok_caption": "It starts with to keep. Now punctuate it. Opening to phrase? Comma after it.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATreading",
+   "#SATgrammar",
+   "#DigitalSAT"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satgrammar"
+  ],
+  "youtube": {
+   "title": "SAT Comma After an Opening To Phrase",
+   "description": "A sentence that opens with a 'To...' phrase needs a comma before the main clause. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#SATgrammar",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-20-46_1.MP4"
+ },
+ {
+  "id": "2026-10-17_0730_C4-024",
+  "folder": "2026-10-17_0730_C4-024",
+  "publish_at": "2026-10-17T07:30:00-05:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "The nearest noun isn't always the subject.\n\nCross out the \"of\" phrase and the \"that\" clause. What's left is the true subject, and the verb has to match it.\n\nComment your answer before you check.",
+  "tiktok_caption": "The nearest noun isn't always the subject. Strip the sentence down first.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATreading",
+   "#SATgrammar",
+   "#DigitalSAT"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satgrammar"
+  ],
+  "youtube": {
+   "title": "SAT Subject-Verb Agreement: Find the True Subject",
+   "description": "Cross out phrases and clauses to find the true subject before matching the verb. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#SATgrammar",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-21-29_1.MP4"
+ },
+ {
+  "id": "2026-10-17_0930_M5-004",
+  "folder": "2026-10-17_0930_M5-004",
+  "publish_at": "2026-10-17T09:30:00-05:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "Dividing by 3 here costs you the point.\n\n1 square yard = 9 square feet, not 3. Square units mean you square the conversion.\n\nSend this to a friend who'd fall for it.",
+  "tiktok_caption": "1 square yard is 9 square feet, not 3.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATpractice"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satmath"
+  ],
+  "youtube": {
+   "title": "SAT Trap: Square Feet vs Square Yards",
+   "description": "Converting area? Square the conversion factor. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#SATmath",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-15-36_1.MP4"
+ },
+ {
+  "id": "2026-10-17_1230_T1-001",
+  "folder": "2026-10-17_1230_T1-001",
+  "publish_at": "2026-10-17T12:30:00-05:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "Does guessing on the SAT cost you points?\n\nNo. There's no penalty for wrong answers, so a blank is a sure miss and a guess is a free shot.\n\nSave this for test day.",
+  "tiktok_caption": "Guessing doesn't cost points on the SAT. Never leave one blank.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#DigitalSAT",
+   "#SATtips",
+   "#StudyTips"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat"
+  ],
+  "youtube": {
+   "title": "Does Guessing Cost Points on the SAT?",
+   "description": "There's no penalty for wrong answers on the digital SAT, so answer every question before time runs out.",
+   "hashtags": [
+    "#SAT",
+    "#SATtips",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-18-18_1.mov"
+ },
+ {
+  "id": "2026-10-17_1500_P0-006",
+  "folder": "2026-10-17_1500_P0-006",
+  "publish_at": "2026-10-17T15:00:00-05:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "This comma costs people points.\n\nNever put a single comma between a subject and its verb. A pair of commas around extra info is fine.\n\nFollow @samsonsatprep for daily SAT tips.",
+  "tiktok_caption": "One comma between a subject and its verb? Cut it.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATreading",
+   "#SATgrammar",
+   "#DigitalSAT"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satgrammar"
+  ],
+  "youtube": {
+   "title": "SAT Comma Rule: Never Between Subject and Verb",
+   "description": "SAT punctuation rule: no single comma between a subject and its verb. A pair of commas around extra information is fine.",
+   "hashtags": [
+    "#SAT",
+    "#SATgrammar",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-19-26_1.MP4"
+ },
+ {
+  "id": "2026-10-17_1700_M2-018",
+  "folder": "2026-10-17_1700_M2-018",
+  "publish_at": "2026-10-17T17:00:00-05:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "River current? That's a system.\n\nDownstream speed = boat + current. Upstream speed = boat − current. Add or subtract and you're done.\n\nSave this for test day.",
+  "tiktok_caption": "River current problems are secretly a system. Find the current's speed.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATpractice"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satmath"
+  ],
+  "youtube": {
+   "title": "SAT Word Problem: Upstream, Downstream System",
+   "description": "Turn with-the-current and against-the-current speeds into a system. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#SATmath",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-20-07_1.MP4"
+ },
+ {
+  "id": "2026-10-17_1930_T3-001",
+  "folder": "2026-10-17_1930_T3-001",
+  "publish_at": "2026-10-17T19:30:00-05:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "Three Saturdays left before November 7.\n\nMake each Saturday before the SAT a full-length Bluebook practice test that starts around 8:15 a.m., the same time the real test begins. Review every miss on Sunday.\n\nSave this for your weekend plan.",
+  "tiktok_caption": "3 Saturdays left before the Nov 7 SAT. Make each one a full Bluebook practice test at 8:15 a.m.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#DigitalSAT",
+   "#SATtips",
+   "#StudyTips"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat"
+  ],
+  "youtube": {
+   "title": "Nov 7 SAT: 3 Saturdays, 3 Full Practice Tests",
+   "description": "Three weeks before the November 7, 2026 SAT, take a full-length Bluebook practice test each Saturday at the real start time and review on Sunday.",
+   "hashtags": [
+    "#SAT",
+    "#SATtips",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-20-46_1.MP4"
+ },
+ {
+  "id": "2026-10-17_2130_M3-018",
+  "folder": "2026-10-17_2130_M3-018",
+  "publish_at": "2026-10-17T21:30:00-05:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "Different bases? Make them match first.\n\n8 = 2³ and 16 = 2⁴. Distribute the exponents on both sides, then set them equal.\n\nSave this for test day.",
+  "tiktok_caption": "8 and 16 are both powers of 2. That's the whole trick.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATpractice"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satmath"
+  ],
+  "youtube": {
+   "title": "SAT Exponential Equation: Rewrite With a Common Base",
+   "description": "Rewrite both sides with base 2, then set the exponents equal. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#SATmath",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-21-29_1.MP4"
+ },
+ {
+  "id": "2026-10-18_0730_R1-025",
+  "folder": "2026-10-18_0730_R1-025",
+  "publish_at": "2026-10-18T07:30:00-05:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "One word makes this semicolon wrong.\n\nA sentence starting with 'Although' needs a comma before the main clause, not a semicolon.\n\nComment your answer before you check.",
+  "tiktok_caption": "One word makes this semicolon wrong. Although = comma, not semicolon.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATreading",
+   "#SATgrammar",
+   "#DigitalSAT"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satgrammar"
+  ],
+  "youtube": {
+   "title": "SAT Grammar: Although Clause Takes a Comma",
+   "description": "A sentence starting with 'Although' needs a comma before the main clause, not a semicolon. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#SATgrammar",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-15-36_1.MP4"
+ },
+ {
+  "id": "2026-10-18_0930_R4-033",
+  "folder": "2026-10-18_0930_R4-033",
+  "publish_at": "2026-10-18T09:30:00-05:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "Careful review. Not a careful plan.\n\nThe review was careful. The plan wasn't. Find the word that says the plan fell short.\n\nSave this for test day.",
+  "tiktok_caption": "Careful review. Not a careful plan. Which word says it fell short?",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATreading",
+   "#SATgrammar",
+   "#DigitalSAT"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satgrammar"
+  ],
+  "youtube": {
+   "title": "SAT Words in Context Trap: Thorough vs Wanting",
+   "description": "Find the word whose meaning matches a plan that falls short. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#SATgrammar",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-18-18_1.mov"
+ },
+ {
+  "id": "2026-10-18_1230_C2-013",
+  "folder": "2026-10-18_1230_C2-013",
+  "publish_at": "2026-10-18T12:30:00-05:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "Standard deviation, explained without a formula.\n\nTwo classes both average 80, but 60 to 100 is far more spread out than 78 to 82, so it has the larger standard deviation.\n\nFollow @samsonsatprep for daily SAT tips.",
+  "tiktok_caption": "Standard deviation just means spread. No formula needed.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATpractice"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satmath"
+  ],
+  "youtube": {
+   "title": "Standard Deviation Explained Without a Formula",
+   "description": "Standard deviation measures how spread out data is around the mean. Two data sets can share a mean of 80 but have very different spreads.",
+   "hashtags": [
+    "#SAT",
+    "#SATmath",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-19-26_1.MP4"
+ },
+ {
+  "id": "2026-10-18_1500_P0-007",
+  "folder": "2026-10-18_1500_P0-007",
+  "publish_at": "2026-10-18T15:00:00-05:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "Triple the sides. The area does NOT triple.\n\nScale every length by k and the area scales by k². Volume scales by k³.\n\nComment your answer before you check.",
+  "tiktok_caption": "Triple the sides of a triangle. What happens to the area?",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATpractice"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satmath"
+  ],
+  "youtube": {
+   "title": "SAT Trap: Scale the Sides, Square the Area",
+   "description": "Multiplying every side by k multiplies the area by k², not k. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#SATmath",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-20-07_1.MP4"
+ },
+ {
+  "id": "2026-10-18_1700_D1-027",
+  "folder": "2026-10-18_1700_D1-027",
+  "publish_at": "2026-10-18T17:00:00-05:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "Negative doesn't mean extraneous.\n\nGraph y = √(x + 10) − x and y = 4 in Desmos. Find the crossing, then check it: a negative solution can still be real.\n\nComment your answer before you check.",
+  "tiktok_caption": "A negative answer can be the real one. Graph both sides to check.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATmath",
+   "#Desmos",
+   "#MathHacks",
+   "#DigitalSAT"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#desmos"
+  ],
+  "youtube": {
+   "title": "Negative Doesn't Mean Extraneous: Radical Equation Check",
+   "description": "Graph both sides of a radical equation and see that the valid solution is negative. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#Desmos",
+    "#SATmath",
+    "#DigitalSAT"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-20-46_1.MP4"
+ },
+ {
+  "id": "2026-10-18_1930_M4-015",
+  "folder": "2026-10-18_1930_M4-015",
+  "publish_at": "2026-10-18T19:30:00-05:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "This quadratic table has one sneaky error.\n\nFrom x = 3 to x = 6 is THREE jumps. Miss one and you find f(5) instead of f(6).\n\nComment your answer before you check.",
+  "tiktok_caption": "This quadratic table answer is off by one jump. Can you find it?",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATpractice"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satmath"
+  ],
+  "youtube": {
+   "title": "SAT Quadratic Table: Find the Student's Error",
+   "description": "Spot the off-by-one error when extending a quadratic function's table of values. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#SATmath",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-21-29_1.MP4"
+ },
+ {
+  "id": "2026-10-18_2130_R6-023",
+  "folder": "2026-10-18_2130_R6-023",
+  "publish_at": "2026-10-18T21:30:00-05:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "Give every sentence a one word job, and structure questions solve themselves.\n\nSentence 1: how the method works. Sentence 2: where it fails. Label each sentence's job and the structure answer picks itself.\n\nSend this to a friend taking the SAT.",
+  "tiktok_caption": "Give every sentence a one word job, and structure questions solve themselves. Label each sentence's job, then match.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATreading",
+   "#SATgrammar",
+   "#DigitalSAT"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satgrammar"
+  ],
+  "youtube": {
+   "title": "SAT Text Structure: Label Each Sentence's Job",
+   "description": "A simple labeling trick for SAT overall-structure questions. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#SATgrammar",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-15-36_1.MP4"
+ },
+ {
+  "id": "2026-10-19_0730_Q1-020",
+  "folder": "2026-10-19_0730_Q1-020",
+  "publish_at": "2026-10-19T07:30:00-05:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "Does the second sentence happen despite the first, or because of it?\n\nIf the second sentence happens in spite of the first, use nevertheless or still. If it happens because of the first, use thus or hence.\n\nSave this for test day.",
+  "tiktok_caption": "Despite it or because of it? Pick the transition.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATreading",
+   "#SATgrammar",
+   "#DigitalSAT"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satgrammar"
+  ],
+  "youtube": {
+   "title": "Nevertheless or Thus? SAT Transitions Quickfire",
+   "description": "Three quick SAT transition checks on concession versus cause and effect. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#SATgrammar",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-18-18_1.mov"
+ },
+ {
+  "id": "2026-10-19_0930_T2-039",
+  "folder": "2026-10-19_0930_T2-039",
+  "publish_at": "2026-10-19T09:30:00-05:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "What's your goal for today's study session? Be specific.\n\nNot \"do some math.\" One skill, a number of questions, a difficulty, and what counts as done. Write it at the top before you start.\n\nComment today's goal.",
+  "tiktok_caption": "Set one specific SAT study goal before every session.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#DigitalSAT",
+   "#SATtips",
+   "#StudyTips"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat"
+  ],
+  "youtube": {
+   "title": "SAT Study Tip: Set One Specific Goal Per Session",
+   "description": "Start every SAT study session with one written goal: one skill, a question count, a difficulty level, and a clear finish line.",
+   "hashtags": [
+    "#SAT",
+    "#SATtips",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-19-26_1.MP4"
+ },
+ {
+  "id": "2026-10-19_1230_M3-029",
+  "folder": "2026-10-19_1230_M3-029",
+  "publish_at": "2026-10-19T12:30:00-05:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "Expand only what you need. But do it carefully.\n\nTo get one coefficient, find every pair of terms whose powers add to 2: 2x²·(−4) and −3x·x.\n\nComment your answer before you check.",
+  "tiktok_caption": "Two products make x². Did you find both?",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATpractice"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satmath"
+  ],
+  "youtube": {
+   "title": "SAT Polynomial Product: Find the x² Coefficient Fast",
+   "description": "Find a single coefficient in a polynomial product without expanding everything. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#SATmath",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-20-07_1.MP4"
+ },
+ {
+  "id": "2026-10-19_1500_P0-008",
+  "folder": "2026-10-19_1500_P0-008",
+  "publish_at": "2026-10-19T15:00:00-05:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "Comma or semicolon? Three sentences. Go.\n\nTwo full sentences need a semicolon, or a comma plus and, but, or so.\n\nComment your score out of 3.",
+  "tiktok_caption": "Comma or semicolon? Three sentences, two seconds each.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATreading",
+   "#SATgrammar",
+   "#DigitalSAT"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satgrammar"
+  ],
+  "youtube": {
+   "title": "Comma or Semicolon? SAT Quickfire Round 1",
+   "description": "Three quick SAT punctuation checks: semicolons join full sentences; commas go with and/but/so or after a dependent opener. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#SATgrammar",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-20-46_1.MP4"
+ },
+ {
+  "id": "2026-10-19_1700_D2-018",
+  "folder": "2026-10-19_1700_D2-018",
+  "publish_at": "2026-10-19T17:00:00-05:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "Degree mode can burn you too.\n\nSee pi with no degree sign? That's radians. Switch Desmos back before you type sin(7π/6).\n\nComment your answer before you check.",
+  "tiktok_caption": "Pi in the angle means radians. Match your Desmos mode.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATmath",
+   "#Desmos",
+   "#MathHacks",
+   "#DigitalSAT"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#desmos"
+  ],
+  "youtube": {
+   "title": "Radians vs Degrees in Desmos: sin(7π/6)",
+   "description": "Match the Desmos angle mode to the question's units. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#Desmos",
+    "#SATmath",
+    "#DigitalSAT"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-21-29_1.MP4"
+ },
+ {
+  "id": "2026-10-19_1930_R2-047",
+  "folder": "2026-10-19_1930_R2-047",
+  "publish_at": "2026-10-19T19:30:00-05:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "\"One of\" means one. Simple as that.\n\nIn \"one of the coasters,\" the subject has to be one. Cross out the of-phrase and match the verb to one.\n\nSave this for test day.",
+  "tiktok_caption": "One of the coasters: singular or plural verb? Find the real subject first.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATreading",
+   "#SATgrammar",
+   "#DigitalSAT"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satgrammar"
+  ],
+  "youtube": {
+   "title": "SAT Grammar: One Of Takes a Singular Verb",
+   "description": "Why \"one of the\" plus a plural noun still needs a singular verb. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#SATgrammar",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-15-36_1.MP4"
+ },
+ {
+  "id": "2026-10-19_2130_M1-034",
+  "folder": "2026-10-19_2130_M1-034",
+  "publish_at": "2026-10-19T21:30:00-05:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "Consecutive odd integers step by two. Not one.\n\nOdd integers go n, n + 2, n + 4, n + 6. Set their sum equal to 5n − 3, solve for n, then grab the largest.\n\nSave this for test day.",
+  "tiktok_caption": "Consecutive odd integers step by 2. Then answer the question they asked.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATpractice"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satmath"
+  ],
+  "youtube": {
+   "title": "Consecutive Odd Integers Word Problem (SAT Algebra)",
+   "description": "Set up consecutive odd integers correctly and solve a linear equation. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#SATmath",
+    "#DigitalSAT",
+    "#SATprep"
    ]
   },
   "tiktok_mode": "direct",
@@ -2176,7 +4143,7 @@
   },
   "tiktok_mode": "direct",
   "ai_label": true,
-  "music": "original lo-fi bed"
+  "music": "ScreenRecording_10-05-2026 17-18-18_1.mov"
  },
  {
   "id": "2026-12-01_1700_D2-033",
@@ -2260,7 +4227,7 @@
   },
   "tiktok_mode": "direct",
   "ai_label": true,
-  "music": "original lo-fi bed"
+  "music": "ScreenRecording_10-05-2026 17-19-26_1.MP4"
  },
  {
   "id": "2027-01-13_2130_M1-036",

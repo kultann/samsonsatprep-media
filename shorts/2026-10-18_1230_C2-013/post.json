@@ -1,0 +1,42 @@
+{
+ "id": "2026-10-18_1230_C2-013",
+ "folder": "2026-10-18_1230_C2-013",
+ "publish_at": "2026-10-18T12:30:00-05:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Standard deviation, explained without a formula.\n\nTwo classes both average 80, but 60 to 100 is far more spread out than 78 to 82, so it has the larger standard deviation.\n\nFollow @samsonsatprep for daily SAT tips.",
+ "tiktok_caption": "Standard deviation just means spread. No formula needed.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATmath",
+  "#DigitalSAT",
+  "#SATpractice"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satmath"
+ ],
+ "youtube": {
+  "title": "Standard Deviation Explained Without a Formula",
+  "description": "Standard deviation measures how spread out data is around the mean. Two data sets can share a mean of 80 but have very different spreads.",
+  "hashtags": [
+   "#SAT",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-19-26_1.MP4"
+}

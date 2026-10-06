@@ -1,0 +1,42 @@
+{
+ "id": "2026-10-18_0730_R1-025",
+ "folder": "2026-10-18_0730_R1-025",
+ "publish_at": "2026-10-18T07:30:00-05:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "One word makes this semicolon wrong.\n\nA sentence starting with 'Although' needs a comma before the main clause, not a semicolon.\n\nComment your answer before you check.",
+ "tiktok_caption": "One word makes this semicolon wrong. Although = comma, not semicolon.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATreading",
+  "#SATgrammar",
+  "#DigitalSAT"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satgrammar"
+ ],
+ "youtube": {
+  "title": "SAT Grammar: Although Clause Takes a Comma",
+  "description": "A sentence starting with 'Although' needs a comma before the main clause, not a semicolon. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATgrammar",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-15-36_1.MP4"
+}

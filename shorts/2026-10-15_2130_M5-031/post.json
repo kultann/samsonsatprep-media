@@ -1,0 +1,42 @@
+{
+ "id": "2026-10-15_2130_M5-031",
+ "folder": "2026-10-15_2130_M5-031",
+ "publish_at": "2026-10-15T21:30:00-05:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Track the acid, not the percents.\n\nFind the liters of acid in each solution, add them, then divide by the total volume.\n\nSave this for test day.",
+ "tiktok_caption": "Mixtures: total acid over total volume.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATmath",
+  "#DigitalSAT",
+  "#SATpractice"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satmath"
+ ],
+ "youtube": {
+  "title": "SAT Mixture Problem: Percent Acid in a Solution",
+  "description": "Weight each percent by its volume: total acid over total volume. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-20-07_1.MP4"
+}

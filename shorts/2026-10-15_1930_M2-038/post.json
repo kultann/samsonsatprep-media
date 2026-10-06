@@ -1,0 +1,42 @@
+{
+ "id": "2026-10-15_1930_M2-038",
+ "folder": "2026-10-15_1930_M2-038",
+ "publish_at": "2026-10-15T19:30:00-05:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Three parts. This student moved two.\n\nIn a compound inequality, every operation hits all three parts: −4 − 6 = −10, not −4.\n\nComment your count before you check.",
+ "tiktok_caption": "Three parts. This student only moved two. Find the slip.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATmath",
+  "#DigitalSAT",
+  "#SATpractice"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satmath"
+ ],
+ "youtube": {
+  "title": "Find the Error: Compound Inequality Mistake",
+  "description": "A compound inequality where one part never got the subtraction. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-19-26_1.MP4"
+}

@@ -1,0 +1,42 @@
+{
+ "id": "2026-10-15_1700_D2-031",
+ "folder": "2026-10-15_1700_D2-031",
+ "publish_at": "2026-10-15T17:00:00-05:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Pi in the choices? Desmos speaks pi.\n\nType (140/360)*2π*9, then type every answer choice. The one with the matching decimal is your answer.\n\nSave this for test day.",
+ "tiktok_caption": "Answer choices with pi? Type them into Desmos and match.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATmath",
+  "#Desmos",
+  "#MathHacks",
+  "#DigitalSAT"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#desmos"
+ ],
+ "youtube": {
+  "title": "Arc Length With Pi Answer Choices in Desmos",
+  "description": "Compute an arc length in Desmos and match it to choices written with pi. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#Desmos",
+   "#SATmath",
+   "#DigitalSAT"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-18-18_1.mov"
+}

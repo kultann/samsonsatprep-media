@@ -1,0 +1,42 @@
+{
+ "id": "2026-10-13_0930_C1-015",
+ "folder": "2026-10-13_0930_C1-015",
+ "publish_at": "2026-10-13T09:30:00-05:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Compounded quarterly? Divide the rate by 4.\n\nA = P(1 + r/n)ⁿᵗ. $1,000 at 8% compounded quarterly for 3 years: 1000(1.02)¹² ≈ $1,268.24.\n\nSave this for test day.",
+ "tiktok_caption": "Compounded quarterly: rate ÷ 4, time × 4. A = P(1 + r/n)ⁿᵗ.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATmath",
+  "#DigitalSAT",
+  "#SATpractice"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satmath"
+ ],
+ "youtube": {
+  "title": "Compound Interest Formula for the SAT, Step by Step",
+  "description": "The compound interest formula isn't on the SAT reference sheet. Worked example: $1,000 at 8% compounded quarterly for 3 years is 1000(1.02)¹² ≈ $1,268.24.",
+  "hashtags": [
+   "#SAT",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-20-46_1.MP4"
+}

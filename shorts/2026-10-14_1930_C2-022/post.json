@@ -1,0 +1,42 @@
+{
+ "id": "2026-10-14_1930_C2-022",
+ "folder": "2026-10-14_1930_C2-022",
+ "publish_at": "2026-10-14T19:30:00-05:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Letters in the choices? Make them numbers.\n\nLet p = 50 and n = 4: four 50-cent pens cost $2. Plug the same numbers into every choice and keep the one that gives 2.\n\nComment which choice survives.",
+ "tiktok_caption": "Variables in the answer choices? Pick numbers and test them.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATmath",
+  "#DigitalSAT",
+  "#SATpractice"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satmath"
+ ],
+ "youtube": {
+  "title": "Letters in the Answer Choices? Pick Numbers",
+  "description": "Replace the variables with easy numbers, find the target value, and test each choice. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-18-18_1.mov"
+}

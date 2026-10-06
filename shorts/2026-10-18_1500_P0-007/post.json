@@ -1,0 +1,42 @@
+{
+ "id": "2026-10-18_1500_P0-007",
+ "folder": "2026-10-18_1500_P0-007",
+ "publish_at": "2026-10-18T15:00:00-05:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Triple the sides. The area does NOT triple.\n\nScale every length by k and the area scales by k². Volume scales by k³.\n\nComment your answer before you check.",
+ "tiktok_caption": "Triple the sides of a triangle. What happens to the area?",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATmath",
+  "#DigitalSAT",
+  "#SATpractice"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satmath"
+ ],
+ "youtube": {
+  "title": "SAT Trap: Scale the Sides, Square the Area",
+  "description": "Multiplying every side by k multiplies the area by k², not k. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-20-07_1.MP4"
+}

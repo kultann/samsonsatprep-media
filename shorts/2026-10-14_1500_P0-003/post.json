@@ -1,0 +1,42 @@
+{
+ "id": "2026-10-14_1500_P0-003",
+ "folder": "2026-10-14_1500_P0-003",
+ "publish_at": "2026-10-14T15:00:00-05:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "One word in this sentence is wrong. Find it.\n\n“Before the conference, the two researchers revised its findings and added a new chart.” Trace the pronoun back to its noun.\n\nComment the word you'd fix.",
+ "tiktok_caption": "One word in this sentence is wrong. Find it before the reveal.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATreading",
+  "#SATgrammar",
+  "#DigitalSAT"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satgrammar"
+ ],
+ "youtube": {
+  "title": "SAT Grammar: Spot the Pronoun Error",
+  "description": "A pronoun has to match the noun it points back to. Plural “researchers” needs “their,” not “its.”",
+  "hashtags": [
+   "#SAT",
+   "#SATgrammar",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-21-29_1.MP4"
+}

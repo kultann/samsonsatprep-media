@@ -1,0 +1,42 @@
+{
+ "id": "2026-10-17_2130_M3-018",
+ "folder": "2026-10-17_2130_M3-018",
+ "publish_at": "2026-10-17T21:30:00-05:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Different bases? Make them match first.\n\n8 = 2³ and 16 = 2⁴. Distribute the exponents on both sides, then set them equal.\n\nSave this for test day.",
+ "tiktok_caption": "8 and 16 are both powers of 2. That's the whole trick.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATmath",
+  "#DigitalSAT",
+  "#SATpractice"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satmath"
+ ],
+ "youtube": {
+  "title": "SAT Exponential Equation: Rewrite With a Common Base",
+  "description": "Rewrite both sides with base 2, then set the exponents equal. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-21-29_1.MP4"
+}

@@ -1,0 +1,42 @@
+{
+ "id": "2026-10-15_0730_R4-022",
+ "folder": "2026-10-15_0730_R4-022",
+ "publish_at": "2026-10-15T07:30:00-05:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Retract goes too far. Here's why.\n\nShe didn't take her claim back. She narrowed it to mild winters, and the right word has to mean exactly that.\n\nSave this for test day.",
+ "tiktok_caption": "Retract goes too far. To qualify a claim means to limit it.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATreading",
+  "#SATgrammar",
+  "#DigitalSAT"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satgrammar"
+ ],
+ "youtube": {
+  "title": "SAT Words in Context Trap: Retract vs Qualify",
+  "description": "Limiting a claim without withdrawing it is qualifying it. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATgrammar",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-20-07_1.MP4"
+}

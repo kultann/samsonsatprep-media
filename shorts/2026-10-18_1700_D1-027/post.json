@@ -1,0 +1,42 @@
+{
+ "id": "2026-10-18_1700_D1-027",
+ "folder": "2026-10-18_1700_D1-027",
+ "publish_at": "2026-10-18T17:00:00-05:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Negative doesn't mean extraneous.\n\nGraph y = √(x + 10) − x and y = 4 in Desmos. Find the crossing, then check it: a negative solution can still be real.\n\nComment your answer before you check.",
+ "tiktok_caption": "A negative answer can be the real one. Graph both sides to check.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATmath",
+  "#Desmos",
+  "#MathHacks",
+  "#DigitalSAT"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#desmos"
+ ],
+ "youtube": {
+  "title": "Negative Doesn't Mean Extraneous: Radical Equation Check",
+  "description": "Graph both sides of a radical equation and see that the valid solution is negative. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#Desmos",
+   "#SATmath",
+   "#DigitalSAT"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-20-46_1.MP4"
+}

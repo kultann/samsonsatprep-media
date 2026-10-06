@@ -1,0 +1,42 @@
+{
+ "id": "2026-10-18_1930_M4-015",
+ "folder": "2026-10-18_1930_M4-015",
+ "publish_at": "2026-10-18T19:30:00-05:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "This quadratic table has one sneaky error.\n\nFrom x = 3 to x = 6 is THREE jumps. Miss one and you find f(5) instead of f(6).\n\nComment your answer before you check.",
+ "tiktok_caption": "This quadratic table answer is off by one jump. Can you find it?",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATmath",
+  "#DigitalSAT",
+  "#SATpractice"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satmath"
+ ],
+ "youtube": {
+  "title": "SAT Quadratic Table: Find the Student's Error",
+  "description": "Spot the off-by-one error when extending a quadratic function's table of values. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-21-29_1.MP4"
+}

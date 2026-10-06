@@ -1,0 +1,42 @@
+{
+ "id": "2026-10-17_1500_P0-006",
+ "folder": "2026-10-17_1500_P0-006",
+ "publish_at": "2026-10-17T15:00:00-05:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "This comma costs people points.\n\nNever put a single comma between a subject and its verb. A pair of commas around extra info is fine.\n\nFollow @samsonsatprep for daily SAT tips.",
+ "tiktok_caption": "One comma between a subject and its verb? Cut it.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATreading",
+  "#SATgrammar",
+  "#DigitalSAT"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satgrammar"
+ ],
+ "youtube": {
+  "title": "SAT Comma Rule: Never Between Subject and Verb",
+  "description": "SAT punctuation rule: no single comma between a subject and its verb. A pair of commas around extra information is fine.",
+  "hashtags": [
+   "#SAT",
+   "#SATgrammar",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-19-26_1.MP4"
+}

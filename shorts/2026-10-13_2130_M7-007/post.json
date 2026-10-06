@@ -1,0 +1,42 @@
+{
+ "id": "2026-10-13_2130_M7-007",
+ "folder": "2026-10-13_2130_M7-007",
+ "publish_at": "2026-10-13T21:30:00-05:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Drill a hole. What's left?\n\nWhole block minus the cylinder you drilled out. Square the radius, keep the π.\n\nComment your answer before you check.",
+ "tiktok_caption": "Drill a hole. What's left? Whole minus hole.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATmath",
+  "#DigitalSAT",
+  "#SATpractice"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satmath"
+ ],
+ "youtube": {
+  "title": "Volume of a Block With a Cylindrical Hole | SAT Math",
+  "description": "Subtract the cylinder from the prism to get the remaining volume. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-19-26_1.MP4"
+}

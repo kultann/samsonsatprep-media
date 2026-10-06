@@ -1,0 +1,42 @@
+{
+ "id": "2026-10-19_1700_D2-018",
+ "folder": "2026-10-19_1700_D2-018",
+ "publish_at": "2026-10-19T17:00:00-05:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Degree mode can burn you too.\n\nSee pi with no degree sign? That's radians. Switch Desmos back before you type sin(7π/6).\n\nComment your answer before you check.",
+ "tiktok_caption": "Pi in the angle means radians. Match your Desmos mode.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATmath",
+  "#Desmos",
+  "#MathHacks",
+  "#DigitalSAT"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#desmos"
+ ],
+ "youtube": {
+  "title": "Radians vs Degrees in Desmos: sin(7π/6)",
+  "description": "Match the Desmos angle mode to the question's units. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#Desmos",
+   "#SATmath",
+   "#DigitalSAT"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-21-29_1.MP4"
+}

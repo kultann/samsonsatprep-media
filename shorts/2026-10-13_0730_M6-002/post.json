@@ -1,0 +1,42 @@
+{
+ "id": "2026-10-13_0730_M6-002",
+ "folder": "2026-10-13_0730_M6-002",
+ "publish_at": "2026-10-13T07:30:00-05:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "The middle row isn't the median.\n\nWith 25 households, count to the 13th one. Which row does it land in?\n\nComment your answer before you check.",
+ "tiktok_caption": "The middle row isn't the median. Count to the middle household.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATmath",
+  "#DigitalSAT",
+  "#SATpractice"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satmath"
+ ],
+ "youtube": {
+  "title": "SAT Math: Median From a Frequency Table Trap",
+  "description": "Why the middle row of a frequency table is not the median. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-20-07_1.MP4"
+}

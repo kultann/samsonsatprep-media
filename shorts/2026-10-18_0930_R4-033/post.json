@@ -1,0 +1,42 @@
+{
+ "id": "2026-10-18_0930_R4-033",
+ "folder": "2026-10-18_0930_R4-033",
+ "publish_at": "2026-10-18T09:30:00-05:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Careful review. Not a careful plan.\n\nThe review was careful. The plan wasn't. Find the word that says the plan fell short.\n\nSave this for test day.",
+ "tiktok_caption": "Careful review. Not a careful plan. Which word says it fell short?",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATreading",
+  "#SATgrammar",
+  "#DigitalSAT"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satgrammar"
+ ],
+ "youtube": {
+  "title": "SAT Words in Context Trap: Thorough vs Wanting",
+  "description": "Find the word whose meaning matches a plan that falls short. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATgrammar",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-18-18_1.mov"
+}

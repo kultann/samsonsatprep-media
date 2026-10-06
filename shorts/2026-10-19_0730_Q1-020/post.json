@@ -1,0 +1,42 @@
+{
+ "id": "2026-10-19_0730_Q1-020",
+ "folder": "2026-10-19_0730_Q1-020",
+ "publish_at": "2026-10-19T07:30:00-05:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Does the second sentence happen despite the first, or because of it?\n\nIf the second sentence happens in spite of the first, use nevertheless or still. If it happens because of the first, use thus or hence.\n\nSave this for test day.",
+ "tiktok_caption": "Despite it or because of it? Pick the transition.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATreading",
+  "#SATgrammar",
+  "#DigitalSAT"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satgrammar"
+ ],
+ "youtube": {
+  "title": "Nevertheless or Thus? SAT Transitions Quickfire",
+  "description": "Three quick SAT transition checks on concession versus cause and effect. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATgrammar",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-18-18_1.mov"
+}

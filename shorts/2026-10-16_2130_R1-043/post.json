@@ -1,0 +1,42 @@
+{
+ "id": "2026-10-16_2130_R1-043",
+ "folder": "2026-10-16_2130_R1-043",
+ "publish_at": "2026-10-16T21:30:00-05:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "It starts with to keep. Now punctuate it.\n\nA sentence that opens with a 'To...' phrase needs a comma before the main clause.\n\nSend this to a friend taking the SAT.",
+ "tiktok_caption": "It starts with to keep. Now punctuate it. Opening to phrase? Comma after it.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATreading",
+  "#SATgrammar",
+  "#DigitalSAT"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satgrammar"
+ ],
+ "youtube": {
+  "title": "SAT Comma After an Opening To Phrase",
+  "description": "A sentence that opens with a 'To...' phrase needs a comma before the main clause. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATgrammar",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-20-46_1.MP4"
+}

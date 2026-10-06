@@ -1,0 +1,41 @@
+{
+ "id": "2026-10-15_0930_Q2-016",
+ "folder": "2026-10-15_0930_Q2-016",
+ "publish_at": "2026-10-15T09:30:00-05:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Would Bluebook accept this answer?\n\nNo mixed numbers in the answer box: type 21/4 or 5.25, never 5 1/4.\n\nSave this for test day.",
+ "tiktok_caption": "Right answer, wrong format? Mixed numbers don't fly in Bluebook.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#DigitalSAT",
+  "#SATtips",
+  "#StudyTips"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat"
+ ],
+ "youtube": {
+  "title": "Mixed Numbers in SAT Answer Boxes: Accepted or Not?",
+  "description": "Three quick checks on typing student-produced response answers: no mixed numbers, but fractions and decimals are fine. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATtips",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-20-46_1.MP4"
+}

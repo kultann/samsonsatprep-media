@@ -1,0 +1,42 @@
+{
+ "id": "2026-10-16_1700_D2-012",
+ "folder": "2026-10-16_1700_D2-012",
+ "publish_at": "2026-10-16T17:00:00-05:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "The right circle sits exactly on top.\n\nGraph the given equation, then each choice. Only the equivalent one overlaps perfectly.\n\nComment your answer before you check.",
+ "tiktok_caption": "Graph every circle choice. The right one sits exactly on top.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATmath",
+  "#Desmos",
+  "#MathHacks",
+  "#DigitalSAT"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#desmos"
+ ],
+ "youtube": {
+  "title": "Circle Equations: Match Choices by Graphing",
+  "description": "Graph an expanded circle and each center-radius choice to find the overlap. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#Desmos",
+   "#SATmath",
+   "#DigitalSAT"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-19-26_1.MP4"
+}

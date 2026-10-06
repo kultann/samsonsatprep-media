@@ -1,0 +1,42 @@
+{
+ "id": "2026-10-17_1700_M2-018",
+ "folder": "2026-10-17_1700_M2-018",
+ "publish_at": "2026-10-17T17:00:00-05:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "River current? That's a system.\n\nDownstream speed = boat + current. Upstream speed = boat − current. Add or subtract and you're done.\n\nSave this for test day.",
+ "tiktok_caption": "River current problems are secretly a system. Find the current's speed.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATmath",
+  "#DigitalSAT",
+  "#SATpractice"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satmath"
+ ],
+ "youtube": {
+  "title": "SAT Word Problem: Upstream, Downstream System",
+  "description": "Turn with-the-current and against-the-current speeds into a system. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-20-07_1.MP4"
+}

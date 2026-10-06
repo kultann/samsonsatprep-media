@@ -1,0 +1,42 @@
+{
+ "id": "2026-10-14_0730_M1-015",
+ "folder": "2026-10-14_0730_M1-015",
+ "publish_at": "2026-10-14T07:30:00-05:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "f of a isn't a, and this student mixed them up.\n\nf(a) = −8 means the OUTPUT is −8. Set 7 − (3/4)a equal to −8 and solve for a.\n\nComment your answer before you check.",
+ "tiktok_caption": "f(a) = −8 doesn't mean a = −8. Find the student's mistake.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATmath",
+  "#DigitalSAT",
+  "#SATpractice"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satmath"
+ ],
+ "youtube": {
+  "title": "f(a) = k vs f(k): SAT Function Notation Mistake",
+  "description": "Learn the difference between evaluating f(x) and solving f(x) = k. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-20-07_1.MP4"
+}

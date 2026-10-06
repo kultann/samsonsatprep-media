@@ -1,0 +1,42 @@
+{
+ "id": "2026-10-13_1230_C3-022",
+ "folder": "2026-10-13_1230_C3-022",
+ "publish_at": "2026-10-13T12:30:00-05:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Lists have to match. This one doesn't.\n\n\"Planting trees, painting fences, and clearing trails.\" Stack the list items: if one sticks out, it's the error.\n\nSave this for test day.",
+ "tiktok_caption": "Every item in a list has to match. Stack them to check.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATreading",
+  "#SATgrammar",
+  "#DigitalSAT"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satgrammar"
+ ],
+ "youtube": {
+  "title": "Parallel Structure on the SAT: Make Lists Match",
+  "description": "Items in a list need the same grammatical form. Stack them on top of each other and fix the one that sticks out.",
+  "hashtags": [
+   "#SAT",
+   "#SATgrammar",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-21-29_1.MP4"
+}
