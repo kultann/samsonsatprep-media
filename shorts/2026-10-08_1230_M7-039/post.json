@@ -1,0 +1,42 @@
+{
+ "id": "2026-10-08_1230_M7-039",
+ "folder": "2026-10-08_1230_M7-039",
+ "publish_at": "2026-10-08T12:30:00-05:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Three steps. One lie. Find it.\n\nA central angle equals its arc. An inscribed angle, with its vertex on the circle, is half of it.\n\nComment the step number before you check.",
+ "tiktok_caption": "Three steps, one lie. Can you find it?",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATmath",
+  "#DigitalSAT",
+  "#SATpractice"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satmath"
+ ],
+ "youtube": {
+  "title": "Spot the Error: Inscribed vs Central Angle | SAT Circles",
+  "description": "A worked circle-angle problem that forgets to halve the arc. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-20-46_1.MP4"
+}

@@ -1,0 +1,42 @@
+{
+ "id": "2026-10-11_1500_M4-022",
+ "folder": "2026-10-11_1500_M4-022",
+ "publish_at": "2026-10-11T15:00:00-05:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "That minus sign out front is lying.\n\n−x(x − 2)²(3 − x) has leading term +x⁴, so both ends rise. The (3 − x) hides a second negative.\n\nSave this for test day.",
+ "tiktok_caption": "Negative out front, but the graph rises on both ends. Here's why.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATmath",
+  "#DigitalSAT",
+  "#SATpractice"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satmath"
+ ],
+ "youtube": {
+  "title": "SAT Polynomial End Behavior: The Hidden Negative",
+  "description": "Find a polynomial's end behavior from its factors, including a hidden negative. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-19-26_1.MP4"
+}

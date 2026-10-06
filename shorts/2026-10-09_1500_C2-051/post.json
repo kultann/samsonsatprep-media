@@ -1,0 +1,42 @@
+{
+ "id": "2026-10-09_1500_C2-051",
+ "folder": "2026-10-09_1500_C2-051",
+ "publish_at": "2026-10-09T15:00:00-05:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Not every straight line is proportional.\n\nProportional means y = kx: a constant ratio and a graph through (0, 0). A taxi charging $3 plus $2 per mile is linear, but not proportional.\n\nFollow @samsonsatprep for daily SAT tips.",
+ "tiktok_caption": "Linear isn't the same as proportional. Here's the quick test.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATmath",
+  "#DigitalSAT",
+  "#SATpractice"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satmath"
+ ],
+ "youtube": {
+  "title": "Proportional vs Linear: The Quick Test",
+  "description": "A relationship is proportional when y/x is constant and the graph passes through the origin. A $3 starting fee makes C = 2m + 3 linear but not proportional.",
+  "hashtags": [
+   "#SAT",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-15-36_1.MP4"
+}

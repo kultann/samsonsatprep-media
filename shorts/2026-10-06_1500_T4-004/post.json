@@ -1,0 +1,41 @@
+{
+ "id": "2026-10-06_1500_T4-004",
+ "folder": "2026-10-06_1500_T4-004",
+ "publish_at": "2026-10-06T15:00:00-05:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Stop rereading answer choices you already ruled out.\n\nUse Bluebook's cross out tool: strike each choice the second you can prove it wrong. Then you only compare what's still standing.\n\nSave this for your next practice test.",
+ "tiktok_caption": "Stop rereading answer choices you already ruled out. Use the cross out tool.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#DigitalSAT",
+  "#SATtips",
+  "#StudyTips"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat"
+ ],
+ "youtube": {
+  "title": "SAT Tip: Use Bluebook's Cross Out Tool on Every Question",
+  "description": "Cross out answer choices in Bluebook as soon as you can prove them wrong, so you only compare the ones left standing.",
+  "hashtags": [
+   "#SAT",
+   "#SATtips",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-20-07_1.MP4"
+}

@@ -1,0 +1,42 @@
+{
+ "id": "2026-10-12_0930_R2-036",
+ "folder": "2026-10-12_0930_R2-036",
+ "publish_at": "2026-10-12T09:30:00-05:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "A fungus doesn't have larvae.\n\nBefore picking its or their, ask who actually owns the thing. Here, the ants: their larvae.\n\nComment the wrong word before you check.",
+ "tiktok_caption": "Who owns the larvae? The ants. Their.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATreading",
+  "#SATgrammar",
+  "#DigitalSAT"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satgrammar"
+ ],
+ "youtube": {
+  "title": "SAT Grammar: Pronoun-Antecedent Agreement Error",
+  "description": "Spot the error: a singular pronoun used for a plural antecedent. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATgrammar",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-18-18_1.mov"
+}

@@ -1,0 +1,42 @@
+{
+ "id": "2026-10-09_2130_M4-029",
+ "folder": "2026-10-09_2130_M4-029",
+ "publish_at": "2026-10-09T21:30:00-05:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "A line touches this parabola exactly once. Find k.\n\nSet the parabola equal to the line, then force the discriminant to 0. Here k = 4.\n\nComment your answer before you check.",
+ "tiktok_caption": "A line touches a parabola exactly once. Find k.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATmath",
+  "#DigitalSAT",
+  "#SATpractice"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satmath"
+ ],
+ "youtube": {
+  "title": "SAT Line Tangent to a Parabola: Find k",
+  "description": "Use the discriminant to find when a line meets a parabola at exactly one point. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-20-07_1.MP4"
+}

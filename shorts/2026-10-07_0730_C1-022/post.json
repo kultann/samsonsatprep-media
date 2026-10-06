@@ -1,0 +1,42 @@
+{
+ "id": "2026-10-07_0730_C1-022",
+ "folder": "2026-10-07_0730_C1-022",
+ "publish_at": "2026-10-07T07:30:00-05:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Completing the square takes just three moves.\n\nHalve b, square it, add and subtract it. x² + 8x + 3 = (x + 4)² − 13, so the vertex is (−4, −13). It's not on the reference sheet.\n\nSave this before your next practice test.",
+ "tiktok_caption": "Completing the square takes just three moves: x² + 8x + 3 = (x + 4)² − 13.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATmath",
+  "#DigitalSAT",
+  "#SATpractice"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satmath"
+ ],
+ "youtube": {
+  "title": "Completing the Square in 3 Moves (SAT Math)",
+  "description": "Completing the square isn't on the SAT reference sheet. Worked example: x² + 8x + 3 = (x + 4)² − 13, so the vertex is (−4, −13).",
+  "hashtags": [
+   "#SAT",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-18-18_1.mov"
+}

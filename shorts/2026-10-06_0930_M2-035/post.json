@@ -1,0 +1,42 @@
+{
+ "id": "2026-10-06_0930_M2-035",
+ "folder": "2026-10-06_0930_M2-035",
+ "publish_at": "2026-10-06T09:30:00-05:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "This student multiplied everything by 12. Mostly.\n\nClearing fractions means multiplying EVERY term by the LCD, constants included: 2 becomes 24 and 3 becomes 36.\n\nComment the step you'd fix.",
+ "tiktok_caption": "This student multiplied everything by 12. Mostly. Find the mistake.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATmath",
+  "#DigitalSAT",
+  "#SATpractice"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satmath"
+ ],
+ "youtube": {
+  "title": "Find the Error: Clearing Fractions in an Inequality",
+  "description": "A worked inequality where the constants never got multiplied by the LCD. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-18-18_1.mov"
+}

@@ -1,0 +1,42 @@
+{
+ "id": "2026-10-06_1930_C2-033",
+ "folder": "2026-10-06_1930_C2-033",
+ "publish_at": "2026-10-06T19:30:00-05:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Two little words, \"given that,\" change your denominator.\n\nGiven that a student plays a sport, only the 75 athletes count, so P(senior) = 30/75 = 2/5, not 30/200.\n\nSave this for your next probability question.",
+ "tiktok_caption": "Two little words, \"given that,\" change your denominator. Only the given group counts.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATmath",
+  "#DigitalSAT",
+  "#SATpractice"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satmath"
+ ],
+ "youtube": {
+  "title": "Conditional Probability: What Given That Means",
+  "description": "In conditional probability, the group after \"given that\" becomes your denominator. Example: 30 of 75 athletes are seniors, so the probability is 2/5.",
+  "hashtags": [
+   "#SAT",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-21-29_1.MP4"
+}

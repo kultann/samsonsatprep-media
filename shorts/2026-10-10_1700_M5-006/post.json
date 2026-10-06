@@ -1,0 +1,42 @@
+{
+ "id": "2026-10-10_1700_M5-006",
+ "folder": "2026-10-10_1700_M5-006",
+ "publish_at": "2026-10-10T17:00:00-05:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Add rates, not times.\n\nHose A fills 1/10 of the pool per hour and hose B fills 1/15. Add, then flip.\n\nComment your answer before you check.",
+ "tiktok_caption": "Two hoses, one pool. Add the rates, then flip.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATmath",
+  "#DigitalSAT",
+  "#SATpractice"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satmath"
+ ],
+ "youtube": {
+  "title": "SAT Work Rate Problem: Two Hoses Filling a Pool",
+  "description": "Turn each time into a rate, add the rates, then flip. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-19-26_1.MP4"
+}

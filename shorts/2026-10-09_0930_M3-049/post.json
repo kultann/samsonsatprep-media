@@ -1,0 +1,42 @@
+{
+ "id": "2026-10-09_0930_M3-049",
+ "folder": "2026-10-09_0930_M3-049",
+ "publish_at": "2026-10-09T09:30:00-05:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Choice A is almost right here. Almost.\n\nUndo in reverse: divide by P, square-root, THEN subtract 1. r = √(V/P) − 1.\n\nSave this for test day.",
+ "tiktok_caption": "Solving for r? The −1 goes outside the root.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATmath",
+  "#DigitalSAT",
+  "#SATpractice"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satmath"
+ ],
+ "youtube": {
+  "title": "SAT Solve a Formula for r: Compound Interest Trap",
+  "description": "Isolate r in a compound interest formula by undoing operations in reverse order. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-20-46_1.MP4"
+}

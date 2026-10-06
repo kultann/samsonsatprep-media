@@ -1,0 +1,41 @@
+{
+ "id": "2026-10-08_0930_T1-021",
+ "folder": "2026-10-08_0930_T1-021",
+ "publish_at": "2026-10-08T09:30:00-05:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "How long is the SAT break? Shorter than you think.\n\nOne break, ten minutes, between Reading and Writing and Math. Pack a snack and a drink and have a plan.\n\nSave this for test day.",
+ "tiktok_caption": "How long is the SAT break? One break, 10 minutes. Plan it.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#DigitalSAT",
+  "#SATtips",
+  "#StudyTips"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat"
+ ],
+ "youtube": {
+  "title": "How Long Is the SAT Break? One, Ten Minutes",
+  "description": "The digital SAT has one 10-minute break, between the Reading and Writing section and the Math section.",
+  "hashtags": [
+   "#SAT",
+   "#SATtips",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-20-07_1.MP4"
+}

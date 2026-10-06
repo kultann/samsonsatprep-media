@@ -1,0 +1,42 @@
+{
+ "id": "2026-10-08_1700_M4-040",
+ "folder": "2026-10-08_1700_M4-040",
+ "publish_at": "2026-10-08T17:00:00-05:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Rewrite with the same base, and this collapses.\n\n4^x = 8^(x − 1) becomes 2^(2x) = 2^(3x − 3), so x = 3 and the y-value is 4³ = 64.\n\nComment your answer before you check.",
+ "tiktok_caption": "Where do y = 4^x and y = 8^(x − 1) meet? Same base trick.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATmath",
+  "#DigitalSAT",
+  "#SATpractice"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satmath"
+ ],
+ "youtube": {
+  "title": "SAT Exponential Equations: Rewrite with the Same Base",
+  "description": "Find where two exponential graphs intersect by rewriting them with a common base. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-15-36_1.MP4"
+}

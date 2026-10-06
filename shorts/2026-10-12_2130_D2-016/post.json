@@ -1,0 +1,42 @@
+{
+ "id": "2026-10-12_2130_D2-016",
+ "folder": "2026-10-12_2130_D2-016",
+ "publish_at": "2026-10-12T21:30:00-05:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Zoom in before you call it.\n\nPlot the circle and all four points in Desmos. The close calls need a zoom or a quick plug-in.\n\nComment your answer before you check.",
+ "tiktok_caption": "Inside the circle or not? Plot it, then zoom in.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATmath",
+  "#Desmos",
+  "#MathHacks",
+  "#DigitalSAT"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#desmos"
+ ],
+ "youtube": {
+  "title": "Which Point Is Inside the Circle? Desmos Check",
+  "description": "Plot a circle and the answer points in Desmos, then zoom on close calls. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#Desmos",
+   "#SATmath",
+   "#DigitalSAT"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-15-36_1.MP4"
+}

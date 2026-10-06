@@ -1,0 +1,42 @@
+{
+ "id": "2026-10-12_1500_C4-011",
+ "folder": "2026-10-12_1500_C4-011",
+ "publish_at": "2026-10-12T15:00:00-05:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Underline the claim before anything else.\n\nSplit the claim into pieces. The right finding shows every piece. Wrong ones drop one.\n\nComment your answer before you check.",
+ "tiktok_caption": "Support questions: underline the claim first, then match every piece of it.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATreading",
+  "#SATgrammar",
+  "#DigitalSAT"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satgrammar"
+ ],
+ "youtube": {
+  "title": "SAT Command of Evidence: Find the Exact Claim First",
+  "description": "Underline the exact claim, then pick the finding that directly supports every part of it. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATgrammar",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-20-07_1.MP4"
+}

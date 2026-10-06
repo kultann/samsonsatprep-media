@@ -1,0 +1,42 @@
+{
+ "id": "2026-10-07_2130_R6-011",
+ "folder": "2026-10-07_2130_R6-011",
+ "publish_at": "2026-10-07T21:30:00-05:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "This merchant hid some entries in shorthand. Was he smuggling tea?\n\nThe shorthand tea is missing from customs records, but the normal entries are there. That contrast is what turns a hunch into evidence.\n\nSave this for test day.",
+ "tiktok_caption": "This merchant hid some entries in shorthand. Was he smuggling tea? Which clue actually supports the smuggling theory?",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATreading",
+  "#SATgrammar",
+  "#DigitalSAT"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satgrammar"
+ ],
+ "youtube": {
+  "title": "SAT Command of Evidence: The Smuggler's Shorthand",
+  "description": "Pick the finding that ties the evidence directly to the hypothesis. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATgrammar",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-18-18_1.mov"
+}

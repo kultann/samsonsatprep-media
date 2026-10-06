@@ -1,0 +1,42 @@
+{
+ "id": "2026-10-06_1230_M4-012",
+ "folder": "2026-10-06_1230_M4-012",
+ "publish_at": "2026-10-06T12:30:00-05:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Choice A looks right, but it pays 6% every month.\n\n6% a year compounded monthly means 0.5% per month for 12t months: 2,000(1.005)^(12t).\n\nSave this for test day.",
+ "tiktok_caption": "Choice A looks right, but it pays 6% every month. Compounded monthly? Divide the rate by 12 and multiply the time by 12.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATmath",
+  "#DigitalSAT",
+  "#SATpractice"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satmath"
+ ],
+ "youtube": {
+  "title": "SAT Compound Interest Compounded Monthly Trap",
+  "description": "Build the compound interest expression for monthly compounding and dodge the 1.06 trap. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-19-26_1.MP4"
+}

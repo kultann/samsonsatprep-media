@@ -1,0 +1,42 @@
+{
+ "id": "2026-10-09_0730_R2-015",
+ "folder": "2026-10-09_0730_R2-015",
+ "publish_at": "2026-10-09T07:30:00-05:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "This penguin sentence has one bad word.\n\nSwap in \"they are.\" If the sentence still works, the answer is they're.\n\nSave this for test day.",
+ "tiktok_caption": "Their, there, they're: the swap test.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATreading",
+  "#SATgrammar",
+  "#DigitalSAT"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satgrammar"
+ ],
+ "youtube": {
+  "title": "SAT Grammar: Their vs There vs They're",
+  "description": "Spot the error: their used where the sentence needs they're. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATgrammar",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-20-07_1.MP4"
+}

@@ -1,0 +1,42 @@
+{
+ "id": "2026-10-07_1230_Q1-013",
+ "folder": "2026-10-07_1230_Q1-013",
+ "publish_at": "2026-10-07T12:30:00-05:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Similar or different? That's how you pick a transition.\n\nCompare the two sentences before you pick: same behavior calls for a similarity word, opposite behavior or an exception calls for a contrast word.\n\nSend this to a friend who's taking the SAT.",
+ "tiktok_caption": "Similar or different? That's how you pick a transition. Three night hunters.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATreading",
+  "#SATgrammar",
+  "#DigitalSAT"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satgrammar"
+ ],
+ "youtube": {
+  "title": "Similarly or In Contrast? SAT Transitions Quickfire",
+  "description": "Three quick SAT transition checks on similarity, contrast, and exceptions. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATgrammar",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-20-07_1.MP4"
+}

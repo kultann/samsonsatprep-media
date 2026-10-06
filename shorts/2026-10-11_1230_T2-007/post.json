@@ -1,0 +1,41 @@
+{
+ "id": "2026-10-11_1230_T2-007",
+ "folder": "2026-10-11_1230_T2-007",
+ "publish_at": "2026-10-11T12:30:00-05:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "No time for a full practice test? Time one module.\n\nReading and Writing: 27 questions in 32 minutes. Math: 22 questions in 35 minutes. Stop the moment time's up, even if you're not done.\n\nSave this for your next busy school night.",
+ "tiktok_caption": "No time for a full SAT practice test? Time one module instead.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#DigitalSAT",
+  "#SATtips",
+  "#StudyTips"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat"
+ ],
+ "youtube": {
+  "title": "SAT Study Tip: Time One Module on Busy Nights",
+  "description": "When a full practice test won't fit, time one module: 27 Reading and Writing questions in 32 minutes or 22 Math questions in 35.",
+  "hashtags": [
+   "#SAT",
+   "#SATtips",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-18-18_1.mov"
+}

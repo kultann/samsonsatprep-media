@@ -1,0 +1,42 @@
+{
+ "id": "2026-10-11_2130_R2-002",
+ "folder": "2026-10-11_2130_R2-002",
+ "publish_at": "2026-10-11T21:30:00-05:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Is \"Small Harbors\" singular or plural?\n\nA title is one work, even if it ends in s. Match the verb to one book.\n\nComment your answer before you check.",
+ "tiktok_caption": "A title that ends in s still takes a singular verb.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATreading",
+  "#SATgrammar",
+  "#DigitalSAT"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satgrammar"
+ ],
+ "youtube": {
+  "title": "SAT Grammar: Are Book Titles Singular or Plural?",
+  "description": "Why a title like Small Harbors takes a singular verb. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATgrammar",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-21-29_1.MP4"
+}

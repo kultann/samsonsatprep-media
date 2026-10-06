@@ -1,0 +1,42 @@
+{
+ "id": "2026-10-10_1930_C3-001",
+ "folder": "2026-10-10_1930_C3-001",
+ "publish_at": "2026-10-10T19:30:00-05:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "A semicolon is secretly just a period.\n\nBoth sides of a semicolon have to be complete sentences. If one side couldn't end with a period, the semicolon is wrong.\n\nSave this for test day.",
+ "tiktok_caption": "A semicolon is secretly a period. Both sides must stand alone.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATreading",
+  "#SATgrammar",
+  "#DigitalSAT"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satgrammar"
+ ],
+ "youtube": {
+  "title": "SAT Semicolon Rule: Both Sides Must Be Sentences",
+  "description": "A semicolon can only join two complete sentences. Cover each side and ask if it could end with a period.",
+  "hashtags": [
+   "#SAT",
+   "#SATgrammar",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-20-07_1.MP4"
+}

@@ -1,0 +1,42 @@
+{
+ "id": "2026-10-10_1230_M1-014",
+ "folder": "2026-10-10_1230_M1-014",
+ "publish_at": "2026-10-10T12:30:00-05:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Flip and negate. Doing just one isn't enough.\n\nPerpendicular slope = flip AND negate: 3/4 becomes −4/3. Then 1 = −8 + b, so b = 9.\n\nSave this for test day.",
+ "tiktok_caption": "Perpendicular lines: flip AND negate. Doing just one is a trap.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATmath",
+  "#DigitalSAT",
+  "#SATpractice"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satmath"
+ ],
+ "youtube": {
+  "title": "Perpendicular Lines: The Negative Reciprocal Trap",
+  "description": "Find the y-intercept of a perpendicular line through a point. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-15-36_1.MP4"
+}

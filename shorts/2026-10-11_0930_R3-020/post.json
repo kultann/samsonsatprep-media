@@ -1,0 +1,42 @@
+{
+ "id": "2026-10-11_0930_R3-020",
+ "folder": "2026-10-11_0930_R3-020",
+ "publish_at": "2026-10-11T09:30:00-05:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Novelists aren't examples of chess players.\n\nAn example has to come from the group you just described. A parallel in a new field is likewise.\n\nSave this for test day.",
+ "tiktok_caption": "Novelists aren't examples of chess players.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATreading",
+  "#SATgrammar",
+  "#DigitalSAT"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satgrammar"
+ ],
+ "youtube": {
+  "title": "Likewise vs For Instance: SAT Transitions Trap",
+  "description": "A parallel in a new field isn't an example. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATgrammar",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-15-36_1.MP4"
+}

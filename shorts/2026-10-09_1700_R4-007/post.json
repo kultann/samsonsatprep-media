@@ -1,0 +1,42 @@
+{
+ "id": "2026-10-09_1700_R4-007",
+ "folder": "2026-10-09_1700_R4-007",
+ "publish_at": "2026-10-09T17:00:00-05:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Birds hear what you can't. Find the word.\n\nRecognizing mates from songs that sound identical to us means detecting subtle differences: discern.\n\nFollow @samsonsatprep for daily SAT tips.",
+ "tiktok_caption": "Birds hear what you can't. Which word fits?",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATreading",
+  "#SATgrammar",
+  "#DigitalSAT"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satgrammar"
+ ],
+ "youtube": {
+  "title": "SAT Words in Context: Telling Faint Differences Apart",
+  "description": "Detecting subtle differences is discerning them. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATgrammar",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-18-18_1.mov"
+}

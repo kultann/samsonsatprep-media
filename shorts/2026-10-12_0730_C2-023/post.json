@@ -1,0 +1,42 @@
+{
+ "id": "2026-10-12_0730_C2-023",
+ "folder": "2026-10-12_0730_C2-023",
+ "publish_at": "2026-10-12T07:30:00-05:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Label your variable before any equation.\n\nLength = 2w + 4, perimeter 50: w = 7, but the question wants the length, 18. A one-line label stops you from picking 7.\n\nFollow @samsonsatprep for daily SAT tips.",
+ "tiktok_caption": "Write what your variable means first. It saves you from this trap.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATmath",
+  "#DigitalSAT",
+  "#SATpractice"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satmath"
+ ],
+ "youtube": {
+  "title": "Define Your Variable First (Avoid This SAT Trap)",
+  "description": "Writing what the variable stands for keeps the setup right and stops you from answering the wrong quantity. Example: w = 7 is the width, but the length is 18.",
+  "hashtags": [
+   "#SAT",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-15-36_1.MP4"
+}

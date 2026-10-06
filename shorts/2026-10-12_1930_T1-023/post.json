@@ -1,0 +1,41 @@
+{
+ "id": "2026-10-12_1930_T1-023",
+ "folder": "2026-10-12_1930_T1-023",
+ "publish_at": "2026-10-12T19:30:00-05:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Circle area: given. Circle equation: not.\n\nThe SAT reference sheet has πr² and 2πr, but not (x − h)² + (y − k)² = r². That one you memorize.\n\nSave this for your next study session.",
+ "tiktok_caption": "The circle equation isn't on the SAT reference sheet. Memorize it.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#DigitalSAT",
+  "#SATtips",
+  "#StudyTips"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat"
+ ],
+ "youtube": {
+  "title": "Is the Circle Equation on the SAT Reference Sheet?",
+  "description": "The SAT reference sheet gives circle area and circumference, but not the equation of a circle, so memorize (x − h)² + (y − k)² = r².",
+  "hashtags": [
+   "#SAT",
+   "#SATtips",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-21-29_1.MP4"
+}
