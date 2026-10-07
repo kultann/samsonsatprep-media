@@ -1,0 +1,42 @@
+{
+ "id": "2026-10-20_0730_Q2-014",
+ "folder": "2026-10-20_0730_Q2-014",
+ "publish_at": "2026-10-20T07:30:00-05:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Slope from standard form, no rearranging.\n\nFor Ax + By = C, the slope is −A/B. Run both equations through it before you check.\n\nComment your answers before you check.",
+ "tiktok_caption": "Read the slope from standard form in 5 seconds: it's −A/B.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATmath",
+  "#DigitalSAT",
+  "#SATpractice"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satmath"
+ ],
+ "youtube": {
+  "title": "Slope From Standard Form in 5 Seconds | SAT Algebra",
+  "description": "Three quick checks reading the slope of Ax + By = C as −A/B. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-19-26_1.MP4"
+}

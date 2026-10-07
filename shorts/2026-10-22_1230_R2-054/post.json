@@ -1,0 +1,42 @@
+{
+ "id": "2026-10-22_1230_R2-054",
+ "folder": "2026-10-22_1230_R2-054",
+ "publish_at": "2026-10-22T12:30:00-05:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "\"That of\" sounds smart. Here it's wrong.\n\nCount the noun the pronoun replaces: one thing or many things? The pronoun has to match.\n\nComment your answer before you check.",
+ "tiktok_caption": "Teeth → those of. Not that of.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATreading",
+  "#SATgrammar",
+  "#DigitalSAT"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satgrammar"
+ ],
+ "youtube": {
+  "title": "SAT Grammar: That Of vs Those Of",
+  "description": "Pick that of or those of by counting the noun being compared. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATgrammar",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-21-29_1.MP4"
+}

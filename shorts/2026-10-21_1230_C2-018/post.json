@@ -1,0 +1,42 @@
+{
+ "id": "2026-10-21_1230_C2-018",
+ "folder": "2026-10-21_1230_C2-018",
+ "publish_at": "2026-10-21T12:30:00-05:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Triple the sides, nine times the area.\n\nArea multiplies two lengths, so scaling by k scales area by k². A 3 × 5 rectangle (area 15) tripled becomes 9 × 15 (area 135), nine times as big.\n\nComment your answer to the check question.",
+ "tiktok_caption": "Why tripling the sides gives NINE times the area.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATmath",
+  "#DigitalSAT",
+  "#SATpractice"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satmath"
+ ],
+ "youtube": {
+  "title": "Why Area Scales by k Squared (SAT Geometry)",
+  "description": "When every length is multiplied by k, area is multiplied by k². SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-21-29_1.MP4"
+}

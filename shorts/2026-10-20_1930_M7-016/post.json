@@ -1,0 +1,42 @@
+{
+ "id": "2026-10-20_1930_M7-016",
+ "folder": "2026-10-20_1930_M7-016",
+ "publish_at": "2026-10-20T19:30:00-05:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Which angles are equal? Not those.\n\nIn an isosceles triangle, the equal angles sit across from the equal sides. PQ = QR means ∠R = ∠P.\n\nComment your answer before you check.",
+ "tiktok_caption": "Which angles are equal? Look across from the equal sides.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATmath",
+  "#DigitalSAT",
+  "#SATpractice"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satmath"
+ ],
+ "youtube": {
+  "title": "Isosceles Triangle: Which Angles Are Equal? | SAT",
+  "description": "Match each equal side to the angle across from it. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-18-18_1.mov"
+}

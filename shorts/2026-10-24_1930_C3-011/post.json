@@ -1,0 +1,42 @@
+{
+ "id": "2026-10-24_1930_C3-011",
+ "folder": "2026-10-24_1930_C3-011",
+ "publish_at": "2026-10-24T19:30:00-05:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Only seven words can follow a comma joining two sentences.\n\nFor, and, nor, but, or, yet, so. \"The museum was packed, still we stayed\" is a comma splice; \"yet\" fixes it.\n\nSave this for test day.",
+ "tiktok_caption": "Only seven words can follow a comma joining two sentences: FANBOYS.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATreading",
+  "#SATgrammar",
+  "#DigitalSAT"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satgrammar"
+ ],
+ "youtube": {
+  "title": "Comma + FANBOYS: The Only Way a Comma Joins Sentences",
+  "description": "A comma can join two complete sentences only with for, and, nor, but, or, yet, or so. Anything else is a comma splice.",
+  "hashtags": [
+   "#SAT",
+   "#SATgrammar",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-20-46_1.MP4"
+}

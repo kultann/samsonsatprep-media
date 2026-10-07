@@ -1,0 +1,42 @@
+{
+ "id": "2026-10-26_2130_D1-030",
+ "folder": "2026-10-26_2130_D1-030",
+ "publish_at": "2026-10-26T21:30:00-05:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Where did my second line go?\n\nIf a second equation seems to vanish in Desmos, it's sitting right on top of the first. What does that mean for the number of solutions?\n\nSave this for test day.",
+ "tiktok_caption": "Second line disappeared in Desmos? It's hiding on top of the first.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATmath",
+  "#Desmos",
+  "#MathHacks",
+  "#DigitalSAT"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#desmos"
+ ],
+ "youtube": {
+  "title": "The Disappearing Line in Desmos: SAT Systems",
+  "description": "When one graph lands exactly on another, think about what that says about the solutions. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#Desmos",
+   "#SATmath",
+   "#DigitalSAT"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-18-18_1.mov"
+}

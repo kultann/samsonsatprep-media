@@ -1,0 +1,42 @@
+{
+ "id": "2026-10-26_1230_R4-016",
+ "folder": "2026-10-26_1230_R4-016",
+ "publish_at": "2026-10-26T12:30:00-05:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Don't answer this one from the first sentence.\n\n\"Initially\" means the opinion is about to change. Twelve matching sites convinced most researchers, so what did the evidence turn out to be?\n\nComment your answer before you check.",
+ "tiktok_caption": "Don't answer this one from the first sentence. Initially is a warning.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATreading",
+  "#SATgrammar",
+  "#DigitalSAT"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satgrammar"
+ ],
+ "youtube": {
+  "title": "SAT Words in Context Trap: Inconclusive vs Compelling",
+  "description": "Why \"initially\" signals a change of mind, and how to pick the word for evidence strong enough to win over doubters. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATgrammar",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-20-07_1.MP4"
+}

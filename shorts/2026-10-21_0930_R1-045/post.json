@@ -1,0 +1,42 @@
+{
+ "id": "2026-10-21_0930_R1-045",
+ "folder": "2026-10-21_0930_R1-045",
+ "publish_at": "2026-10-21T09:30:00-05:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "A long list coming up doesn't earn a semicolon.\n\nHowever long the list, an 'including' phrase attaches with a comma, not a semicolon.\n\nComment your answer before you check.",
+ "tiktok_caption": "A long list coming doesn't earn a semicolon. Including phrase? Comma, not semicolon.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATreading",
+  "#SATgrammar",
+  "#DigitalSAT"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satgrammar"
+ ],
+ "youtube": {
+  "title": "SAT Semicolon Trap: Never Before Including",
+  "description": "However long the list, an 'including' phrase attaches with a comma, not a semicolon. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATgrammar",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-20-46_1.MP4"
+}

@@ -1,0 +1,42 @@
+{
+ "id": "2026-10-28_0730_C4-004",
+ "folder": "2026-10-28_0730_C4-004",
+ "publish_at": "2026-10-28T07:30:00-05:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "One little word flips this whole blank.\n\nAlthough, but, and despite mean the two halves of the sentence clash. The bridge proved strong, so how did it look at first?\n\nSave this for test day.",
+ "tiktok_caption": "One little word flips this whole blank. Spot the signal word first.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATreading",
+  "#SATgrammar",
+  "#DigitalSAT"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satgrammar"
+ ],
+ "youtube": {
+  "title": "SAT Words in Context: Signal Words Flip the Blank",
+  "description": "Contrast words like although tell you the blank must go against the rest of the sentence. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATgrammar",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-20-07_1.MP4"
+}

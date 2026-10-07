@@ -1,0 +1,42 @@
+{
+ "id": "2026-10-23_2130_D1-020",
+ "folder": "2026-10-23_2130_D1-020",
+ "publish_at": "2026-10-23T21:30:00-05:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Watch the crossing point run away.\n\nAdd a slider for k and drag it. When the intersection flies off screen and the lines go parallel, you've found the no-solution value.\n\nComment your answer before you check.",
+ "tiktok_caption": "No solution? Slide k in Desmos until the lines go parallel.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATmath",
+  "#Desmos",
+  "#MathHacks",
+  "#DigitalSAT"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#desmos"
+ ],
+ "youtube": {
+  "title": "No-Solution Systems: Drag k Until the Lines Go Parallel",
+  "description": "Use a Desmos slider to find the k that makes two lines parallel. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#Desmos",
+   "#SATmath",
+   "#DigitalSAT"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-20-46_1.MP4"
+}

@@ -1,0 +1,42 @@
+{
+ "id": "2026-11-01_2130_D1-035",
+ "folder": "2026-11-01_2130_D1-035",
+ "publish_at": "2026-11-01T21:30:00-06:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Two V's. Two crossings. Zero casework.\n\nGraph each absolute value as its own V in Desmos. The crossings are the solutions.\n\nFollow @samsonsatprep for daily SAT tips.",
+ "tiktok_caption": "Absolute value on both sides? Graph two V's and click where they cross.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATmath",
+  "#Desmos",
+  "#MathHacks",
+  "#DigitalSAT"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#desmos"
+ ],
+ "youtube": {
+  "title": "Absolute Value on Both Sides? Graph Two V's in Desmos",
+  "description": "Graph |3x + 1| and |x − 7| as two V's and read the positive crossing. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#Desmos",
+   "#SATmath",
+   "#DigitalSAT"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-18-18_1.mov"
+}

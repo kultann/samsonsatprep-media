@@ -1,0 +1,42 @@
+{
+ "id": "2026-10-25_0730_C2-025",
+ "folder": "2026-10-25_0730_C2-025",
+ "publish_at": "2026-10-25T07:30:00-05:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Here's why negatives flip the inequality sign.\n\n2 < 5, but −2 > −5. Multiplying by a negative mirrors the number line, so the order reverses.\n\nSave this for test day.",
+ "tiktok_caption": "Here's why negatives flip the inequality sign: 2 < 5, but −2 > −5.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATmath",
+  "#DigitalSAT",
+  "#SATpractice"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satmath"
+ ],
+ "youtube": {
+  "title": "Why the Inequality Flips When You Divide by a Negative",
+  "description": "Multiplying or dividing by a negative mirrors numbers across zero, so their order reverses. Example: −3x + 4 > 19 gives x < −5.",
+  "hashtags": [
+   "#SAT",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-15-36_1.MP4"
+}

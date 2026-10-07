@@ -1,0 +1,41 @@
+{
+ "id": "2026-10-26_0930_T4-010",
+ "folder": "2026-10-26_0930_T4-010",
+ "publish_at": "2026-10-26T09:30:00-05:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Ninety five seconds per math question is just an average.\n\n22 questions in 35 minutes is about 95 seconds each. Finish a quick one in 40 seconds and you've banked 55 for a tough one.\n\nFollow @samsonsatprep for daily SAT tips.",
+ "tiktok_caption": "95 seconds per SAT math question is just an average. Bank time on quick ones.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#DigitalSAT",
+  "#SATtips",
+  "#StudyTips"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat"
+ ],
+ "youtube": {
+  "title": "SAT Math Pacing: Treat 95 Seconds Like a Time Bank",
+  "description": "Digital SAT Math averages about 95 seconds per question; save time on quick questions so tougher ones can take longer.",
+  "hashtags": [
+   "#SAT",
+   "#SATtips",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-19-26_1.MP4"
+}

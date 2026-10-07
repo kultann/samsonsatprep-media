@@ -1,0 +1,42 @@
+{
+ "id": "2026-10-28_1930_M6-003",
+ "folder": "2026-10-28_1930_M6-003",
+ "publish_at": "2026-10-28T19:30:00-05:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Add a 60 here. Does the median move?\n\nThe mean jumps from 18 to 22.2, but the two middle values of the new list are still 18 and 18.\n\nSave this for test day.",
+ "tiktok_caption": "Add a 60 here. Does the median move? The mean jumps. The median doesn't.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATmath",
+  "#DigitalSAT",
+  "#SATpractice"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satmath"
+ ],
+ "youtube": {
+  "title": "SAT Math: Does Adding a Value Change the Median?",
+  "description": "Adding an outlier moves the mean but not necessarily the median. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-19-26_1.MP4"
+}

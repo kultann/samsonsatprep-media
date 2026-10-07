@@ -1,0 +1,42 @@
+{
+ "id": "2026-10-23_1500_P0-012",
+ "folder": "2026-10-23_1500_P0-012",
+ "publish_at": "2026-10-23T15:00:00-05:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "This solution is missing half the answer.\n\n|2x − 4| = 10 splits into two cases: 2x − 4 = 10 and 2x − 4 = −10.\n\nComment your answer before you check.",
+ "tiktok_caption": "This absolute value solution is missing half the answer.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATmath",
+  "#DigitalSAT",
+  "#SATpractice"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satmath"
+ ],
+ "youtube": {
+  "title": "SAT Absolute Value: Don't Miss the 2nd Answer",
+  "description": "Absolute value equations split into two cases; skip one and you miss a solution. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-18-18_1.mov"
+}

@@ -1,0 +1,42 @@
+{
+ "id": "2026-10-22_2130_D1-013",
+ "folder": "2026-10-22_2130_D1-013",
+ "publish_at": "2026-10-22T21:30:00-05:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Algebra says two. The graph says one.\n\nSquaring √(x + 7) = x + 1 creates a fake root. Graph both sides in Desmos and only the real solution shows up.\n\nSave this for test day.",
+ "tiktok_caption": "Squared both sides and got two answers? Desmos shows which one is real.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATmath",
+  "#Desmos",
+  "#MathHacks",
+  "#DigitalSAT"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#desmos"
+ ],
+ "youtube": {
+  "title": "Extraneous Solutions: Desmos Shows the Real One",
+  "description": "Graph both sides of a radical equation to see that only one algebraic root is real. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#Desmos",
+   "#SATmath",
+   "#DigitalSAT"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-20-07_1.MP4"
+}

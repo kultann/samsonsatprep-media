@@ -1,0 +1,42 @@
+{
+ "id": "2026-10-22_1700_P0-011",
+ "folder": "2026-10-22_1700_P0-011",
+ "publish_at": "2026-10-22T17:00:00-05:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "sin x is 0.6. You already know cos(90° − x).\n\nIn a right triangle, the side opposite x is adjacent to the other acute angle, so sin x = cos(90° − x). It's not on the reference sheet.\n\nComment your answer before you check.",
+ "tiktok_caption": "sin x = 0.6. What's cos(90° − x)? You already know it.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATmath",
+  "#DigitalSAT",
+  "#SATpractice"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satmath"
+ ],
+ "youtube": {
+  "title": "SAT Trig Shortcut: sin x = cos(90 − x)",
+  "description": "sin x° = cos(90 − x)° because both describe the same side of a right triangle. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-18-18_1.mov"
+}

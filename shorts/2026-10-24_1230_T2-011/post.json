@@ -1,0 +1,41 @@
+{
+ "id": "2026-10-24_1230_T2-011",
+ "folder": "2026-10-24_1230_T2-011",
+ "publish_at": "2026-10-24T12:30:00-05:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Take practice tests at the hour you'll really test.\n\nTest-day doors close at 8:00 a.m. and testing starts around 8:15 to 8:30. Start your weekend practice tests at 8:30 so that time feels normal.\n\nSave this for your next practice test.",
+ "tiktok_caption": "Take practice tests at the hour you'll really test: start at 8:30 a.m.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#DigitalSAT",
+  "#SATtips",
+  "#StudyTips"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat"
+ ],
+ "youtube": {
+  "title": "SAT Tip: Practice at the Same Time as Test Day",
+  "description": "SAT testing starts around 8:15 to 8:30 a.m., so take your full practice tests on weekend mornings at that time.",
+  "hashtags": [
+   "#SAT",
+   "#SATtips",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-18-18_1.mov"
+}

@@ -1,0 +1,41 @@
+{
+ "id": "2026-10-21_1930_T2-005",
+ "folder": "2026-10-21_1930_T2-005",
+ "publish_at": "2026-10-21T19:30:00-05:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Take your full practice tests exactly like it's test day.\n\nOne sitting, real timing, only the 10-minute break, and an answer for every question. That's 2 hours 14 minutes of testing, so train for it.\n\nSave this for your next practice test.",
+ "tiktok_caption": "Take Bluebook practice tests in one sitting with real timing.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#DigitalSAT",
+  "#SATtips",
+  "#StudyTips"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat"
+ ],
+ "youtube": {
+  "title": "Take SAT Practice Tests Like It's Test Day",
+  "description": "Take each free Bluebook practice test in one sitting with real timing and only the 10-minute break, so you train focus as well as content.",
+  "hashtags": [
+   "#SAT",
+   "#SATtips",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-19-26_1.MP4"
+}

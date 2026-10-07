@@ -1,0 +1,42 @@
+{
+ "id": "2026-10-25_1700_M3-007",
+ "folder": "2026-10-25_1700_M3-007",
+ "publish_at": "2026-10-25T17:00:00-05:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "This one has two cases. Most people stop at one.\n\nab = 15 and a + b = 8 means a and b are 3 and 5, but the order changes c.\n\nComment your answer before you check.",
+ "tiktok_caption": "Two cases. Most people only check one.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATmath",
+  "#DigitalSAT",
+  "#SATpractice"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satmath"
+ ],
+ "youtube": {
+  "title": "SAT Matching Coefficients: Find the Greatest Value of c",
+  "description": "Expand, match coefficients, and test both orders of a and b. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-20-46_1.MP4"
+}

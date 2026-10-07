@@ -1,0 +1,42 @@
+{
+ "id": "2026-10-25_1930_M2-014",
+ "folder": "2026-10-25_1930_M2-014",
+ "publish_at": "2026-10-25T19:30:00-05:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Per month or total? One word decides this.\n\nThe expressions give total cost, so (7.5, 265) means both gyms total $265 after 7.5 months, not $265 a month.\n\nComment the letter you'd pick.",
+ "tiktok_caption": "Per month or total? One word decides this gym question.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATmath",
+  "#DigitalSAT",
+  "#SATpractice"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satmath"
+ ],
+ "youtube": {
+  "title": "SAT: Interpreting the Solution of a System in Context",
+  "description": "Read what x and y mean before choosing an interpretation. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-21-29_1.MP4"
+}

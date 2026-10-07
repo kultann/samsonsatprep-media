@@ -1,0 +1,42 @@
+{
+ "id": "2026-10-27_1930_C3-028",
+ "folder": "2026-10-27_1930_C3-028",
+ "publish_at": "2026-10-27T19:30:00-05:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "One team or many? The apostrophe tells you.\n\nOne team → team's. Many teams → teams'. Write the plural first, then add the apostrophe.\n\nSave this for test day.",
+ "tiktok_caption": "One team or many? team's = one team, teams' = many teams.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATreading",
+  "#SATgrammar",
+  "#DigitalSAT"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satgrammar"
+ ],
+ "youtube": {
+  "title": "Plural Possessives on the SAT: team's vs. teams'",
+  "description": "For one owner add 's; for a plural ending in s, add only an apostrophe. Write the plural first, then the apostrophe.",
+  "hashtags": [
+   "#SAT",
+   "#SATgrammar",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-18-18_1.mov"
+}

@@ -1,0 +1,42 @@
+{
+ "id": "2026-10-27_1700_P0-016",
+ "folder": "2026-10-27_1700_P0-016",
+ "publish_at": "2026-10-27T17:00:00-05:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "How many solutions? Don't solve. Count the crossings.\n\nGraph both equations in Desmos. Each point where they meet is one solution.\n\nComment your answer before you check.",
+ "tiktok_caption": "How many solutions? Count where the graphs meet.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATmath",
+  "#Desmos",
+  "#MathHacks",
+  "#DigitalSAT"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#desmos"
+ ],
+ "youtube": {
+  "title": "How Many Solutions? Desmos Answers Instantly",
+  "description": "Graph a system in Desmos and count the points where the graphs meet to get the number of solutions. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#Desmos",
+   "#SATmath",
+   "#DigitalSAT"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-15-36_1.MP4"
+}

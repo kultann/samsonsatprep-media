@@ -1,0 +1,42 @@
+{
+ "id": "2026-10-26_1500_P0-015",
+ "folder": "2026-10-26_1500_P0-015",
+ "publish_at": "2026-10-26T15:00:00-05:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "3% growth means multiply by 1.03.\n\nGrowth: P = P₀(1 + r)ᵗ, so $500 for 2 years is 500(1.03)² ≈ $530.45. It's not on the reference sheet.\n\nSave this for test day.",
+ "tiktok_caption": "3% growth means multiply by 1.03, not 0.03.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATmath",
+  "#DigitalSAT",
+  "#SATpractice"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satmath"
+ ],
+ "youtube": {
+  "title": "SAT Exponential Growth Formula in 30 Seconds",
+  "description": "Exponential growth and decay formulas for the SAT, with a worked example: $500 growing 3% a year for 2 years becomes $530.45.",
+  "hashtags": [
+   "#SAT",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-20-46_1.MP4"
+}

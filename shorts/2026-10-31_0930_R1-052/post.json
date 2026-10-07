@@ -1,0 +1,42 @@
+{
+ "id": "2026-10-31_0930_R1-052",
+ "folder": "2026-10-31_0930_R1-052",
+ "publish_at": "2026-10-31T09:30:00-05:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Two items joined by and need zero commas.\n\nThat comma before 'and' is for lists of three or for joining two full sentences, not for two nouns.\n\nFollow @samsonsatprep for daily SAT tips.",
+ "tiktok_caption": "Two items joined by and need zero commas.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATreading",
+  "#SATgrammar",
+  "#DigitalSAT"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satgrammar"
+ ],
+ "youtube": {
+  "title": "SAT Comma Trap: Two Items Joined by And",
+  "description": "Two items joined by 'and'? No comma. That comma is for lists of three or two full sentences. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATgrammar",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-18-18_1.mov"
+}

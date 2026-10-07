@@ -1,0 +1,41 @@
+{
+ "id": "2026-11-02_1500_P0-022",
+ "folder": "2026-11-02_1500_P0-022",
+ "publish_at": "2026-11-02T15:00:00-06:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "If Module 2 feels harder, are you failing?\n\nThat's a myth. Module 2 is harder or easier based on how you did on Module 1. Harder means Module 1 went well.\n\nSend this to a friend taking the SAT.",
+ "tiktok_caption": "If Module 2 feels harder, are you failing? No. That's a good sign.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#DigitalSAT",
+  "#SATtips",
+  "#StudyTips"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat"
+ ],
+ "youtube": {
+  "title": "Harder Module 2 on the SAT? Good Sign",
+  "description": "The digital SAT adapts by module: a harder second module means you did well on the first.",
+  "hashtags": [
+   "#SAT",
+   "#SATtips",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-21-29_1.MP4"
+}

@@ -1,0 +1,42 @@
+{
+ "id": "2026-11-01_1500_P0-021",
+ "folder": "2026-11-01_1500_P0-021",
+ "publish_at": "2026-11-01T15:00:00-06:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "This percent increase is wrong. Can you see why?\n\nPercent change always divides by the original value, not the new one.\n\nComment your answer before you check.",
+ "tiktok_caption": "This percent increase is wrong. Can you see why?",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATmath",
+  "#DigitalSAT",
+  "#SATpractice"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satmath"
+ ],
+ "youtube": {
+  "title": "SAT Percent Increase: Divide by the Original",
+  "description": "Percent change divides by the original amount, not the new one. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-20-46_1.MP4"
+}

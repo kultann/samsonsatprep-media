@@ -1,0 +1,42 @@
+{
+ "id": "2026-10-24_2130_D1-039",
+ "folder": "2026-10-24_2130_D1-039",
+ "publish_at": "2026-10-24T21:30:00-05:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Type the answer choices into Desmos.\n\nWhen the choices are points, plot them. The right one sits exactly where the lines cross.\n\nComment your answer before you check.",
+ "tiktok_caption": "Choices are points? Plot them in Desmos and see which one sits on both lines.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATmath",
+  "#Desmos",
+  "#MathHacks",
+  "#DigitalSAT"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#desmos"
+ ],
+ "youtube": {
+  "title": "Plot the Answer Choices in Desmos: SAT System Trick",
+  "description": "Plot each ordered-pair choice in Desmos and keep the one on both lines. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#Desmos",
+   "#SATmath",
+   "#DigitalSAT"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-21-29_1.MP4"
+}

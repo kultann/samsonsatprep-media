@@ -1,0 +1,42 @@
+{
+ "id": "2026-10-20_1230_C1-012",
+ "folder": "2026-10-20_1230_C1-012",
+ "publish_at": "2026-10-20T12:30:00-05:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "(2x³)⁴: the 2 gets the power too.\n\n(xᵃ)ᵇ = xᵃᵇ and every factor inside is raised, so (2x³)⁴ = 2⁴x¹² = 16x¹².\n\nSave this before your next practice test.",
+ "tiktok_caption": "(2x³)⁴ = 16x¹², not 2x¹². Every factor gets the power.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATmath",
+  "#DigitalSAT",
+  "#SATpractice"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satmath"
+ ],
+ "youtube": {
+  "title": "Power of a Power: Why (2x³)⁴ = 16x¹²",
+  "description": "Exponent rules aren't on the SAT reference sheet. Worked example: (2x³)⁴ = 16x¹², since the 2 is raised to the 4th too.",
+  "hashtags": [
+   "#SAT",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-20-46_1.MP4"
+}

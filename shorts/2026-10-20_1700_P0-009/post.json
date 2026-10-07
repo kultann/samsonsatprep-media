@@ -1,0 +1,42 @@
+{
+ "id": "2026-10-20_1700_P0-009",
+ "folder": "2026-10-20_1700_P0-009",
+ "publish_at": "2026-10-20T17:00:00-05:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "SAT gives you a table? Desmos writes the equation.\n\nPut the table in Desmos and type y₁ ~ ab^x₁. The tilde tells Desmos to fit the data.\n\nComment your answer before you check.",
+ "tiktok_caption": "SAT gave you a table? Let Desmos write the equation.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATmath",
+  "#Desmos",
+  "#MathHacks",
+  "#DigitalSAT"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#desmos"
+ ],
+ "youtube": {
+  "title": "Desmos Regression Trick for SAT Tables",
+  "description": "Use Desmos regression (y₁ ~ ab^x₁) to turn a table of values into an equation. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#Desmos",
+   "#SATmath",
+   "#DigitalSAT"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-15-36_1.MP4"
+}

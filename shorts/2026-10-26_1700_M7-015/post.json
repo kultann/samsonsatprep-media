@@ -1,0 +1,42 @@
+{
+ "id": "2026-10-26_1700_M7-015",
+ "folder": "2026-10-26_1700_M7-015",
+ "publish_at": "2026-10-26T17:00:00-05:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "The exterior angle gives it away.\n\nAn exterior angle equals the two far interior angles added together. Then subtract from 180° for the angle next to it.\n\nComment your answer before you check.",
+ "tiktok_caption": "The exterior angle gives it away. Then read what they asked.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATmath",
+  "#DigitalSAT",
+  "#SATpractice"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satmath"
+ ],
+ "youtube": {
+  "title": "Exterior Angle Theorem Practice | SAT Geometry",
+  "description": "Use the exterior angle theorem, then find the adjacent interior angle. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-21-29_1.MP4"
+}

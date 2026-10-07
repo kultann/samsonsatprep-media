@@ -1,0 +1,41 @@
+{
+ "id": "2026-10-25_1500_P0-014",
+ "folder": "2026-10-25_1500_P0-014",
+ "publish_at": "2026-10-25T15:00:00-05:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Think you only get a calculator on half the SAT math?\n\nThat's a myth. Calculators are allowed on the entire Math section, Desmos is built into Bluebook, and you can bring an acceptable calculator too.\n\nSave this for test day.",
+ "tiktok_caption": "Think you only get a calculator on half the SAT math? Myth.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#DigitalSAT",
+  "#SATtips",
+  "#StudyTips"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat"
+ ],
+ "youtube": {
+  "title": "SAT Myth: There's a No-Calculator Section",
+  "description": "Calculators are allowed on the entire digital SAT Math section, with the Desmos graphing calculator built into Bluebook.",
+  "hashtags": [
+   "#SAT",
+   "#SATtips",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-20-07_1.MP4"
+}

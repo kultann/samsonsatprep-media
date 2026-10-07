@@ -1,0 +1,42 @@
+{
+ "id": "2026-10-21_0730_M4-034",
+ "folder": "2026-10-21_0730_M4-034",
+ "publish_at": "2026-10-21T07:30:00-05:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "This rocket lands after one second? Not a chance.\n\n(t + 5)(t − 1) expands to t² + 4t − 5, not t² − 4t − 5. The rocket lands at 5 seconds.\n\nComment your answer before you check.",
+ "tiktok_caption": "This rocket 'lands' after 1 second while it's 40 m up. Find the bad step.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATmath",
+  "#DigitalSAT",
+  "#SATpractice"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satmath"
+ ],
+ "youtube": {
+  "title": "SAT Quadratic Word Problem: Spot the Factoring Error",
+  "description": "Find the factoring mistake in a student's work for when a rocket hits the ground. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-20-07_1.MP4"
+}

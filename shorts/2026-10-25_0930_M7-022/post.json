@@ -1,0 +1,42 @@
+{
+ "id": "2026-10-25_0930_M7-022",
+ "folder": "2026-10-25_0930_M7-022",
+ "publish_at": "2026-10-25T09:30:00-05:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "One step in this polygon solution is wrong.\n\nInterior angle sum is (n − 2) × 180°, not n × 180°. Redo Step 2 with that formula.\n\nComment the step number before you check.",
+ "tiktok_caption": "One step in this polygon solution is wrong. Can you find it?",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATmath",
+  "#DigitalSAT",
+  "#SATpractice"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satmath"
+ ],
+ "youtube": {
+  "title": "Spot the Error: Polygon Interior Angle Sum | SAT Math",
+  "description": "A worked polygon-angle solution with one wrong step: find it and fix it. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-18-18_1.mov"
+}

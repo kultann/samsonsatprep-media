@@ -1,0 +1,42 @@
+{
+ "id": "2026-11-02_1230_R2-055",
+ "folder": "2026-11-02_1230_R2-055",
+ "publish_at": "2026-11-02T12:30:00-06:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "\"And\" usually means plural, but not in this sentence.\n\nEvery (or each) in front of \"X and Y\" makes the subject singular, and the verb has to match.\n\nComment the wrong word before you check.",
+ "tiktok_caption": "\"And\" usually means plural, but not here. What does \"every\" do to the verb?",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATreading",
+  "#SATgrammar",
+  "#DigitalSAT"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satgrammar"
+ ],
+ "youtube": {
+  "title": "SAT Grammar: Every Plus And Takes a Singular Verb",
+  "description": "Spot the error: a plural verb after every plus a compound subject. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATgrammar",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-20-46_1.MP4"
+}

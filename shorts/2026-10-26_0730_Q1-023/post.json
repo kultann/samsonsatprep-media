@@ -1,0 +1,42 @@
+{
+ "id": "2026-10-26_0730_Q1-023",
+ "folder": "2026-10-26_0730_Q1-023",
+ "publish_at": "2026-10-26T07:30:00-05:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Replacing something or adding to it? Pick the transition.\n\nAfter a negative (\"didn't\"), ask whether the next sentence says what happened in its place or just adds one more action.\n\nComment your score out of 3.",
+ "tiktok_caption": "Replacing something or adding to it? Three transition picks.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATreading",
+  "#SATgrammar",
+  "#DigitalSAT"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satgrammar"
+ ],
+ "youtube": {
+  "title": "Replacing or Adding? SAT Transitions Quickfire",
+  "description": "Three quick SAT transition checks on replacement versus addition. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATgrammar",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-18-18_1.mov"
+}

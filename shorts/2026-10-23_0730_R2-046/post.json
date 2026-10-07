@@ -1,0 +1,42 @@
+{
+ "id": "2026-10-23_0730_R2-046",
+ "folder": "2026-10-23_0730_R2-046",
+ "publish_at": "2026-10-23T07:30:00-05:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "One word turns this into a run-on.\n\nAlready have a full sentence? Add the result with an -ing phrase, not another subject + verb.\n\nComment the wrong word before you check.",
+ "tiktok_caption": "Full sentence + comma + 'it left'? Comma splice.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATreading",
+  "#SATgrammar",
+  "#DigitalSAT"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satgrammar"
+ ],
+ "youtube": {
+  "title": "SAT Grammar: Participle Phrase vs Comma Splice",
+  "description": "Spot the error: a second main verb where a participle phrase belongs. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATgrammar",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-20-46_1.MP4"
+}

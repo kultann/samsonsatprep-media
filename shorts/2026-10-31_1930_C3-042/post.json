@@ -1,0 +1,42 @@
+{
+ "id": "2026-10-31_1930_C3-042",
+ "folder": "2026-10-31_1930_C3-042",
+ "publish_at": "2026-10-31T19:30:00-05:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "\"One of the books is,\" not \"one of the books are.\"\n\nIn \"One of the antique clocks was broken,\" the subject is \"one.\" Cover the \"of\" phrase and the verb is obvious.\n\nSave this for test day.",
+ "tiktok_caption": "\"One of the books is,\" not \"are.\" The subject is \"one.\"",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATreading",
+  "#SATgrammar",
+  "#DigitalSAT"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satgrammar"
+ ],
+ "youtube": {
+  "title": "\"One Of The\" Takes a Singular Verb (SAT Grammar)",
+  "description": "In \"one of the …,\" the subject is \"one,\" so the verb is singular. Cross out the \"of\" phrase to check.",
+  "hashtags": [
+   "#SAT",
+   "#SATgrammar",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-21-29_1.MP4"
+}

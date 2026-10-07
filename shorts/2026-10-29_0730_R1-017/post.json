@@ -1,0 +1,42 @@
+{
+ "id": "2026-10-29_0730_R1-017",
+ "folder": "2026-10-29_0730_R1-017",
+ "publish_at": "2026-10-29T07:30:00-05:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "That comma before \"rose\" feels right, but it's not.\n\nFind where the subject ends and its verb begins. Does anything belong between them, no matter how long the subject gets?\n\nFollow @samsonsatprep for daily SAT tips.",
+ "tiktok_caption": "That comma feels right, but it's not. Long subject? Still no comma.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATreading",
+  "#SATgrammar",
+  "#DigitalSAT"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satgrammar"
+ ],
+ "youtube": {
+  "title": "SAT Comma Rule: Long Subject, No Comma",
+  "description": "A long subject still gets no comma before its verb. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATgrammar",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-20-46_1.MP4"
+}

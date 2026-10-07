@@ -1,0 +1,42 @@
+{
+ "id": "2026-10-22_1930_C4-018",
+ "folder": "2026-10-22_1930_C4-018",
+ "publish_at": "2026-10-22T19:30:00-05:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Structure questions? Label every sentence.\n\nGive each sentence a one-word label, then match your map to a choice. Half-right choices are the trap.\n\nComment your answer before you check.",
+ "tiktok_caption": "Structure questions: label every sentence, then match your map.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATreading",
+  "#SATgrammar",
+  "#DigitalSAT"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satgrammar"
+ ],
+ "youtube": {
+  "title": "SAT Text Structure: Label Each Sentence First",
+  "description": "Label each sentence's job, then match the overall structure. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATgrammar",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-19-26_1.MP4"
+}

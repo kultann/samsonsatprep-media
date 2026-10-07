@@ -1,0 +1,42 @@
+{
+ "id": "2026-10-20_0930_R2-009",
+ "folder": "2026-10-20_0930_R2-009",
+ "publish_at": "2026-10-20T09:30:00-05:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "\"By 2031\" changes the whole verb.\n\nBy + a future date = finished before then. That's will have + verb.\n\nSave this for test day.",
+ "tiktok_caption": "By + a future date? Think will have.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATreading",
+  "#SATgrammar",
+  "#DigitalSAT"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satgrammar"
+ ],
+ "youtube": {
+  "title": "SAT Grammar: Future Perfect Tense With By",
+  "description": "Why a future deadline calls for will have + verb. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATgrammar",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-20-07_1.MP4"
+}

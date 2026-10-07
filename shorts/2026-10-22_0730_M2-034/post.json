@@ -1,0 +1,42 @@
+{
+ "id": "2026-10-22_0730_M2-034",
+ "folder": "2026-10-22_0730_M2-034",
+ "publish_at": "2026-10-22T07:30:00-05:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "6 makes it equal. That's not enough.\n\nk > 6 is strict, so 6 itself fails. The least integer that works is the next one up.\n\nComment your answer before you check.",
+ "tiktok_caption": "6 makes it equal. That's not enough. Find the least integer k.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATmath",
+  "#DigitalSAT",
+  "#SATpractice"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satmath"
+ ],
+ "youtube": {
+  "title": "SAT Inequality Trap: Strict Means the Boundary Fails",
+  "description": "With > or <, the boundary value isn't a solution. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-20-46_1.MP4"
+}

@@ -1,0 +1,42 @@
+{
+ "id": "2026-10-21_1700_D2-004",
+ "folder": "2026-10-21_1700_D2-004",
+ "publish_at": "2026-10-21T17:00:00-05:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Negative side length? Check this setting.\n\nIn radian mode, sin(35) means 35 radians. Click the wrench, choose Degrees, and the side length makes sense.\n\nSave this for test day.",
+ "tiktok_caption": "Negative side length? Your Desmos is in radian mode.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATmath",
+  "#Desmos",
+  "#MathHacks",
+  "#DigitalSAT"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#desmos"
+ ],
+ "youtube": {
+  "title": "Desmos Degree Mode for SAT Trig Questions",
+  "description": "Check that Desmos is in degree mode before solving right-triangle trig. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#Desmos",
+   "#SATmath",
+   "#DigitalSAT"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-18-18_1.mov"
+}
