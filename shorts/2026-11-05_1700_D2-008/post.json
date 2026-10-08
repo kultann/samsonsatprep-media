@@ -1,0 +1,42 @@
+{
+ "id": "2026-11-05_1700_D2-008",
+ "folder": "2026-11-05_1700_D2-008",
+ "publish_at": "2026-11-05T17:00:00-06:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Frequency tables break the usual mean.\n\nIn Desmos: V for values, F for counts, then total(V*F)/total(F). That weights every value correctly.\n\nComment your answer before you check.",
+ "tiktok_caption": "Mean of a frequency table: total(V*F)/total(F) in Desmos.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATmath",
+  "#Desmos",
+  "#MathHacks",
+  "#DigitalSAT"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#desmos"
+ ],
+ "youtube": {
+  "title": "Mean of a Frequency Table in Desmos",
+  "description": "Use total(V*F)/total(F) in Desmos for a frequency table mean. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#Desmos",
+   "#SATmath",
+   "#DigitalSAT"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-19-26_1.MP4"
+}
