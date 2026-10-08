@@ -1,0 +1,42 @@
+{
+ "id": "2026-11-05_2130_M6-014",
+ "folder": "2026-11-05_2130_M6-014",
+ "publish_at": "2026-11-05T21:30:00-06:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Predict a harvest from one line.\n\nPlug 15 in for x, and don't forget the 88.\n\nComment your answer before you check.",
+ "tiktok_caption": "Predict a whole harvest from one line of best fit.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATmath",
+  "#DigitalSAT",
+  "#SATpractice"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satmath"
+ ],
+ "youtube": {
+  "title": "SAT Math: Predict a Value From a Line of Best Fit",
+  "description": "Use a line of best fit equation to make a prediction. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-20-46_1.MP4"
+}
