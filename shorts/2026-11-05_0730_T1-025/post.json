@@ -1,0 +1,41 @@
+{
+ "id": "2026-11-05_0730_T1-025",
+ "folder": "2026-11-05_0730_T1-025",
+ "publish_at": "2026-11-05T07:30:00-06:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Some SAT math has no choices.\n\nAbout 25% of the math is student-produced response, where you type the answer. Check it by plugging it back in or graphing it in Desmos.\n\nFollow @samsonsatprep for daily SAT tips.",
+ "tiktok_caption": "Some SAT math has no choices. About a quarter of it, you type the answer yourself.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#DigitalSAT",
+  "#SATtips",
+  "#StudyTips"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat"
+ ],
+ "youtube": {
+  "title": "Is SAT Math All Multiple Choice? No.",
+  "description": "About 75% of SAT math is multiple choice and about 25% is student-produced response, where you type the answer.",
+  "hashtags": [
+   "#SAT",
+   "#SATtips",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-20-46_1.MP4"
+}

@@ -1,0 +1,42 @@
+{
+ "id": "2026-11-04_0930_C1-043",
+ "folder": "2026-11-04_0930_C1-043",
+ "publish_at": "2026-11-04T09:30:00-06:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Vertex form hands you the vertex.\n\ny = a(x − h)² + k has vertex (h, k). y = −(x + 4)² + 7 → vertex (−4, 7). It's not on the reference sheet.\n\nSave this for test day.",
+ "tiktok_caption": "Vertex form hands you the vertex: y = −(x + 4)² + 7 → (−4, 7). Flip h, keep k.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATmath",
+  "#DigitalSAT",
+  "#SATpractice"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satmath"
+ ],
+ "youtube": {
+  "title": "Vertex Form on the SAT: Read the Vertex Instantly",
+  "description": "Vertex form isn't on the SAT reference sheet. Worked example: y = −(x + 4)² + 7 has vertex (−4, 7) and a maximum value of 7.",
+  "hashtags": [
+   "#SAT",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-20-46_1.MP4"
+}

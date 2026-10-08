@@ -1,0 +1,42 @@
+{
+ "id": "2026-11-04_1230_C3-009",
+ "folder": "2026-11-04_1230_C3-009",
+ "publish_at": "2026-11-04T12:30:00-06:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Between two sentences, a comma before \"however\" is a trap.\n\n\"However\" can't join two sentences with just a comma. Use \"; however,\": The trail looked easy; however, it took hours.\n\nSave this for test day.",
+ "tiktok_caption": "Between two sentences, a comma before \"however\" is a trap. It's \"; however,\".",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATreading",
+  "#SATgrammar",
+  "#DigitalSAT"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satgrammar"
+ ],
+ "youtube": {
+  "title": "SAT Grammar: The Semicolon Before \"However\"",
+  "description": "Between two complete sentences, \"however\" needs a semicolon before it and a comma after it. A comma alone makes a comma splice.",
+  "hashtags": [
+   "#SAT",
+   "#SATgrammar",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-21-29_1.MP4"
+}

@@ -1,0 +1,42 @@
+{
+ "id": "2026-11-03_2130_M5-029",
+ "folder": "2026-11-03_2130_M5-029",
+ "publish_at": "2026-11-03T21:30:00-06:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Simple interest never compounds.\n\nSame interest every year: principal × rate × time. Then add the principal.\n\nSave this for test day.",
+ "tiktok_caption": "Simple interest: the same amount every year.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATmath",
+  "#DigitalSAT",
+  "#SATpractice"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satmath"
+ ],
+ "youtube": {
+  "title": "SAT Simple Interest Problem: Total After 4 Years",
+  "description": "Simple interest uses I = Prt and never compounds. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-19-26_1.MP4"
+}

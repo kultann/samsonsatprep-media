@@ -1,0 +1,42 @@
+{
+ "id": "2026-11-03_1700_P0-023",
+ "folder": "2026-11-03_1700_P0-023",
+ "publish_at": "2026-11-03T17:00:00-06:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Which point works? Let Desmos shade it.\n\nGraph both inequalities. The double-shaded region is where both are true.\n\nComment your answer before you check.",
+ "tiktok_caption": "Which point satisfies both inequalities? Let Desmos shade it.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATmath",
+  "#Desmos",
+  "#MathHacks",
+  "#DigitalSAT"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#desmos"
+ ],
+ "youtube": {
+  "title": "Desmos Trick: Check Inequalities by Shading",
+  "description": "Graph a system of inequalities in Desmos and see which point lands in the double-shaded region. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#Desmos",
+   "#SATmath",
+   "#DigitalSAT"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-15-36_1.MP4"
+}

@@ -1,0 +1,42 @@
+{
+ "id": "2026-11-03_1230_R1-014",
+ "folder": "2026-11-03_1230_R1-014",
+ "publish_at": "2026-11-03T12:30:00-06:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Putting commas around this movie title? Careful.\n\nFive films? Then the title tells you which one, so it's essential and takes no commas.\n\nComment the letter you picked first.",
+ "tiktok_caption": "Putting commas around this movie title? Careful. Need it to know which one? No commas.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATreading",
+  "#SATgrammar",
+  "#DigitalSAT"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satgrammar"
+ ],
+ "youtube": {
+  "title": "SAT Essential Appositives: No Commas Around the Title",
+  "description": "Five films? Then the title tells you which one, so it's essential and takes no commas. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATgrammar",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-20-46_1.MP4"
+}

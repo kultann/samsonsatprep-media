@@ -1,0 +1,41 @@
+{
+ "id": "2026-11-05_1500_P0-025",
+ "folder": "2026-11-05_1500_P0-025",
+ "publish_at": "2026-11-05T15:00:00-06:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Two days out. Here's your pace in seconds.\n\nReading and Writing: about 71 seconds per question. Math: about 95. Check yourself at the halfway point of each module.\n\nSave this for test day.",
+ "tiktok_caption": "Two days out? Your SAT pace: about 71 seconds per R&W question, 95 per math question.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#DigitalSAT",
+  "#SATtips",
+  "#StudyTips"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat"
+ ],
+ "youtube": {
+  "title": "SAT Pacing: Seconds per Question + Checkpoints",
+  "description": "Digital SAT pacing: about 71 seconds per Reading and Writing question and 95 seconds per Math question, with halfway checkpoints for each module.",
+  "hashtags": [
+   "#SAT",
+   "#SATtips",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-18-18_1.mov"
+}
