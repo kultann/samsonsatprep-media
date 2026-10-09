@@ -2430,6 +2430,48 @@
   "music": "ScreenRecording_10-05-2026 17-20-46_1.MP4"
  },
  {
+  "id": "2026-10-14_1230_Q1-014",
+  "folder": "2026-10-14_1230_Q1-014",
+  "publish_at": "2026-10-14T12:30:00-05:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "Easy words with secret second meanings show up on the SAT all the time.\n\nA familiar word can carry a less common meaning, and the sentence's clues tell you which one the SAT wants.\n\nSave this for your next vocab review.",
+  "tiktok_caption": "Easy words, secret SAT meanings. Can you get all three?",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATreading",
+   "#SATgrammar",
+   "#DigitalSAT"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satgrammar"
+  ],
+  "youtube": {
+   "title": "SAT Words With Second Meanings: Quickfire",
+   "description": "Three quick SAT words-in-context checks on familiar words used in less common senses. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#SATgrammar",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-20-07_1.MP4"
+ },
+ {
   "id": "2026-10-14_1500_P0-003",
   "folder": "2026-10-14_1500_P0-003",
   "publish_at": "2026-10-14T15:00:00-05:00",
@@ -4682,6 +4724,48 @@
    "hashtags": [
     "#SAT",
     "#SATmath",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-20-46_1.MP4"
+ },
+ {
+  "id": "2026-10-22_0930_Q1-017",
+  "folder": "2026-10-22_0930_Q1-017",
+  "publish_at": "2026-10-22T09:30:00-05:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "Doubtful, trusting, or careful? Pick the precise word.\n\nDon't guess from the word's feel. Find what the person does (waits for proof, believes every promise, reads every contract twice) and match it.\n\nSave this for your next vocab review.",
+  "tiktok_caption": "Doubtful, trusting, or careful? Pick the precise word.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATreading",
+   "#SATgrammar",
+   "#DigitalSAT"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satgrammar"
+  ],
+  "youtube": {
+   "title": "Doubtful, Trusting or Careful? SAT Vocab Quickfire",
+   "description": "Three quick SAT words-in-context checks on describing how people judge information. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#SATgrammar",
     "#DigitalSAT",
     "#SATprep"
    ]
