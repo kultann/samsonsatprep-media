@@ -1,0 +1,41 @@
+{
+ "id": "2026-11-07_0600_T3-007",
+ "folder": "2026-11-07_0600_T3-007",
+ "publish_at": "2026-11-07T06:00:00-06:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "The doors close at 8:00 a.m.\n\nTest centers open at 7:45 and doors close at 8:00. Testing starts around 8:15 to 8:30, but that's not extra time to arrive. Plan backward from 7:45.\n\nGood luck today. Follow @samsonsatprep for more SAT tips.",
+ "tiktok_caption": "Nov 7 SAT today: doors open 7:45, close 8:00. Plan backward from 7:45.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#DigitalSAT",
+  "#SATtips",
+  "#StudyTips"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat"
+ ],
+ "youtube": {
+  "title": "SAT Morning: Doors Close at 8:00 a.m.",
+  "description": "For the November 7, 2026 SAT, test centers open at 7:45 a.m. and doors close at 8:00 a.m., so plan your departure backward from 7:45.",
+  "hashtags": [
+   "#SAT",
+   "#SATtips",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-15-36_1.MP4"
+}

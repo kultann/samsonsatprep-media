@@ -1,0 +1,43 @@
+{
+ "id": "2026-10-25_1200_PW-002",
+ "folder": "2026-10-25_1200_PW-002",
+ "publish_at": "2026-10-25T12:00:00-05:00",
+ "type": "short",
+ "series": "premium weekly",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 4800,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "3 things the SAT asks about a line of best fit:\n\n1. What the slope means\n2. What the line predicts\n3. Actual vs. predicted\n\nYour turn: at 85°F, what does the line predict? Comment your answer.\n\nSAT-style practice (original)\n\nFollow @samsonsatprep for daily SAT tips.",
+ "tiktok_caption": "3 things the SAT asks about a line of best fit. Your turn: at 85°F, what does the line predict? Comment your answer.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATmath",
+  "#DigitalSAT",
+  "#SATpractice"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satmath"
+ ],
+ "youtube": {
+  "title": "Line of Best Fit: 3 Things the SAT Asks",
+  "description": "What the slope means, what the line predicts, and actual vs. predicted. Then try one yourself and comment your answer. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-20-07_1.MP4"
+}

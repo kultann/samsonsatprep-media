@@ -1,0 +1,43 @@
+{
+ "id": "2026-10-18_1200_PW-001",
+ "folder": "2026-10-18_1200_PW-001",
+ "publish_at": "2026-10-18T12:00:00-05:00",
+ "type": "short",
+ "series": "premium weekly",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 2000,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Can you name all 4 of these SAT math formulas?\n\nOnly one of them is on the reference sheet. The other three you have to know cold.\n\nComment your score out of 4.\n\nFollow @samsonsatprep for daily SAT tips.",
+ "tiktok_caption": "Can you name all 4 SAT math formulas? Only one is on the reference sheet. Comment your score out of 4.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATmath",
+  "#DigitalSAT",
+  "#SATpractice"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satmath"
+ ],
+ "youtube": {
+  "title": "Can You Name All 4 SAT Math Formulas?",
+  "description": "Name each formula before it's revealed, then see which ones the SAT reference sheet gives you. Comment your score out of 4.",
+  "hashtags": [
+   "#SAT",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-21-29_1.MP4"
+}

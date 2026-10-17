@@ -1,0 +1,42 @@
+{
+ "id": "2026-11-07_0930_R2-042",
+ "folder": "2026-11-07_0930_R2-042",
+ "publish_at": "2027-07-18T16:00:00-05:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "The pioneer has to follow the comma.\n\nAn opening description has to be followed by the person it describes. A possessive like \"Calder's\" doesn't count.\n\nComment your answer before you check.",
+ "tiktok_caption": "The pioneer must follow the comma. Opening description? The person goes right after it.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATreading",
+  "#SATgrammar",
+  "#DigitalSAT"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satgrammar"
+ ],
+ "youtube": {
+  "title": "SAT Grammar: Modifier Placement With Appositives",
+  "description": "Place the person right after an opening appositive phrase. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATgrammar",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-18-18_1.mov"
+}

@@ -1,0 +1,42 @@
+{
+ "id": "2026-11-09_1930_R2-051",
+ "folder": "2026-11-09_1930_R2-051",
+ "publish_at": "2027-07-20T07:30:00-05:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "One of these three doesn't match.\n\nRan, lifted, and ___ . The third item has to copy the form of the first two.\n\nComment the wrong word before you check.",
+ "tiktok_caption": "Ran, lifted, and... adjusting? Adjusted.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATreading",
+  "#SATgrammar",
+  "#DigitalSAT"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satgrammar"
+ ],
+ "youtube": {
+  "title": "SAT Grammar: Parallel Structure in a List",
+  "description": "Spot the error: a list item that breaks parallel structure. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATgrammar",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-18-18_1.mov"
+}

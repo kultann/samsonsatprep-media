@@ -1,0 +1,42 @@
+{
+ "id": "2026-11-08_1700_M4-036",
+ "folder": "2026-11-08_1700_M4-036",
+ "publish_at": "2026-12-01T19:30:00-06:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Below ten thousand dollars in which year?\n\nLosing 20% a year isn't $6,000 a year. Each year's drop is 20% of a smaller number, so count year by year.\n\nComment your answer before you check.",
+ "tiktok_caption": "A $30,000 car loses 20% a year. When is it worth less than $10,000?",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATmath",
+  "#DigitalSAT",
+  "#SATpractice"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satmath"
+ ],
+ "youtube": {
+  "title": "SAT Exponential Decay: First Year Below a Value",
+  "description": "Find the first whole year an exponential depreciation model drops below a target value. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-21-29_1.MP4"
+}

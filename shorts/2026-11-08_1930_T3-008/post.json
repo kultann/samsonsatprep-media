@@ -1,0 +1,41 @@
+{
+ "id": "2026-11-08_1930_T3-008",
+ "folder": "2026-11-08_1930_T3-008",
+ "publish_at": "2026-11-08T16:00:00-06:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Took the SAT? Do this today.\n\nWrite down the question types that felt hard while you still remember them, sorted by domain. If you test again, Dec 5 registration closes Nov 20.\n\nSave this for later.",
+ "tiktok_caption": "Took the Nov 7 SAT? Do this today: write down what felt hard, before you forget.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#DigitalSAT",
+  "#SATtips",
+  "#StudyTips"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat"
+ ],
+ "youtube": {
+  "title": "Day After the SAT: The One Thing to Do Today",
+  "description": "The day after the November 7, 2026 SAT, write down which question types felt hard. The next date is December 5, with registration due November 20.",
+  "hashtags": [
+   "#SAT",
+   "#SATtips",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-15-36_1.MP4"
+}

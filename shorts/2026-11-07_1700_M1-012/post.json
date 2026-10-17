@@ -1,0 +1,42 @@
+{
+ "id": "2026-11-07_1700_M1-012",
+ "folder": "2026-11-07_1700_M1-012",
+ "publish_at": "2026-11-19T19:30:00-06:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Find the hidden fee in twenty seconds.\n\n4 extra hours cost $52, so the hourly rate comes first. Subtract the hours from the total, and the fee is what's left.\n\nSave this for test day.",
+ "tiktok_caption": "Fixed fee plus hourly rate: find the fee from two prices.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATmath",
+  "#DigitalSAT",
+  "#SATpractice"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satmath"
+ ],
+ "youtube": {
+  "title": "Fixed Fee + Rate Problems: SAT Linear Functions",
+  "description": "Use two prices to find the hourly rate, then the fixed fee. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-20-46_1.MP4"
+}

@@ -1,0 +1,42 @@
+{
+ "id": "2026-11-08_0730_M7-043",
+ "folder": "2026-11-08_0730_M7-043",
+ "publish_at": "2027-05-30T07:30:00-05:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Area or arc? This student picked wrong.\n\nSector area uses πr². Arc length uses 2πr. Same fraction, different whole.\n\nComment the step number before you check.",
+ "tiktok_caption": "Area or arc? This student picked wrong. Find the step.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATmath",
+  "#DigitalSAT",
+  "#SATpractice"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satmath"
+ ],
+ "youtube": {
+  "title": "Spot the Error: Sector Area vs Arc Length | SAT Circles",
+  "description": "A sector-area solution that uses the circumference by mistake. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-18-18_1.mov"
+}

@@ -1,0 +1,41 @@
+{
+ "id": "2026-11-06_1500_T3-006",
+ "folder": "2026-11-06_1500_T3-006",
+ "publish_at": "2026-11-06T16:00:00-06:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "The night before: charge, pack, sleep.\n\nCharge your testing device fully, pack your device, admission ticket, physical photo ID and pencils by the door, and get to bed. Nov 7 SAT is tomorrow.\n\nSave this for tonight.",
+ "tiktok_caption": "The night before the SAT: charge, pack, sleep. Nov 7 SAT is tomorrow.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#DigitalSAT",
+  "#SATtips",
+  "#StudyTips"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat"
+ ],
+ "youtube": {
+  "title": "Night Before the SAT: Charge, Pack, Sleep",
+  "description": "The night before the November 7, 2026 SAT: fully charge your device, pack your bag, and sleep.",
+  "hashtags": [
+   "#SAT",
+   "#SATtips",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-19-26_1.MP4"
+}

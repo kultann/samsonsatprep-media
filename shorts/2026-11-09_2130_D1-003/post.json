@@ -1,0 +1,42 @@
+{
+ "id": "2026-11-09_2130_D1-003",
+ "folder": "2026-11-09_2130_D1-003",
+ "publish_at": "2026-11-12T19:30:00-06:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Hate fractions? Graph both sides.\n\nType y = left side and y = right side in Desmos. The x-value where they cross solves the equation.\n\nComment your answer before you check.",
+ "tiktok_caption": "Fraction equation? Graph each side in Desmos and click the crossing.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATmath",
+  "#Desmos",
+  "#MathHacks",
+  "#DigitalSAT"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#desmos"
+ ],
+ "youtube": {
+  "title": "Solve Fraction Equations in Desmos by Graphing Both Sides",
+  "description": "Graph each side of a fraction equation as its own line and read the x-value of the crossing. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#Desmos",
+   "#SATmath",
+   "#DigitalSAT"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-19-26_1.MP4"
+}

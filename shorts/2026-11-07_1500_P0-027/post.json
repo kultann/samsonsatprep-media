@@ -1,0 +1,42 @@
+{
+ "id": "2026-11-07_1500_P0-027",
+ "folder": "2026-11-07_1500_P0-027",
+ "publish_at": "2027-10-27T16:00:00-05:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Comma or semicolon? Round three.\n\nSemicolon only when both sides are full sentences. Everything else here takes a comma.\n\nTaking it Dec 5? Comment your score out of 3.",
+ "tiktok_caption": "Comma or semicolon? Round three, sea otter edition.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATreading",
+  "#SATgrammar",
+  "#DigitalSAT"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satgrammar"
+ ],
+ "youtube": {
+  "title": "Comma or Semicolon? SAT Quickfire Round 3",
+  "description": "Three quick SAT punctuation checks: full sentences, “which” clauses and intro phrases. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATgrammar",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-20-07_1.MP4"
+}

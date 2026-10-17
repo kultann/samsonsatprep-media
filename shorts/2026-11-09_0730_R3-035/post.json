@@ -1,0 +1,42 @@
+{
+ "id": "2026-11-09_0730_R3-035",
+ "folder": "2026-11-09_0730_R3-035",
+ "publish_at": "2027-01-05T07:30:00-06:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "A warning doesn't always get a but.\n\nIf sentence two proves the warning right, you need a transition that confirms it. However only fits if the warning proved wrong.\n\nFollow @samsonsatprep for daily SAT tips.",
+ "tiktok_caption": "A warning doesn't always get a but.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATreading",
+  "#SATgrammar",
+  "#DigitalSAT"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satgrammar"
+ ],
+ "youtube": {
+  "title": "Indeed vs However: SAT Transitions Trap",
+  "description": "When a warning comes true, the transition confirms it. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATgrammar",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-19-26_1.MP4"
+}

@@ -1,0 +1,42 @@
+{
+ "id": "2026-11-06_1700_P0-026",
+ "folder": "2026-11-06_1700_P0-026",
+ "publish_at": "2026-12-27T19:30:00-06:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "You can't solve for x or y here. You don't need to.\n\nBefore you solve, check whether what they ask for is a multiple of what they gave you.\n\nComment your answer before you check.",
+ "tiktok_caption": "Can't solve for x or y? You don't need to.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATmath",
+  "#DigitalSAT",
+  "#SATpractice"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satmath"
+ ],
+ "youtube": {
+  "title": "SAT Trick: Find 2x − 3y Without Solving",
+  "description": "Find 2x − 3y from 4x − 6y = 10 without solving for x or y. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-20-07_1.MP4"
+}

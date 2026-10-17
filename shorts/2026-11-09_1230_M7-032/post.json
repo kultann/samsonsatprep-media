@@ -1,0 +1,42 @@
+{
+ "id": "2026-11-09_1230_M7-032",
+ "folder": "2026-11-09_1230_M7-032",
+ "publish_at": "2027-02-26T07:30:00-06:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Top slides 4 feet. The base doesn't.\n\nThe ladder's length is fixed at 25, so rebuild the right triangle after the slide and compare the bases.\n\nComment your answer before you check.",
+ "tiktok_caption": "Top slides 4 feet. The base doesn't. Run Pythagoras twice and compare.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATmath",
+  "#DigitalSAT",
+  "#SATpractice"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satmath"
+ ],
+ "youtube": {
+  "title": "Sliding Ladder Pythagorean Problem | SAT Geometry",
+  "description": "A ladder keeps its length, so recompute the base with the Pythagorean theorem. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-20-46_1.MP4"
+}

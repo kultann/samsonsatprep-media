@@ -1,0 +1,42 @@
+{
+ "id": "2026-11-09_1700_M4-032",
+ "folder": "2026-11-09_1700_M4-032",
+ "publish_at": "2027-04-30T19:30:00-05:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Work backward to find where it started.\n\n405 ÷ 45 = 9 over two steps, so b = 3. Now walk back two steps from f(2) to reach f(0).\n\nComment your answer before you check.",
+ "tiktok_caption": "f(2) = 45 and f(4) = 405 for an exponential. What's f(0)?",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATmath",
+  "#DigitalSAT",
+  "#SATpractice"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satmath"
+ ],
+ "youtube": {
+  "title": "SAT Exponential Function: Find f(0) from Two Points",
+  "description": "Find an exponential function's initial value from two of its outputs. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-15-36_1.MP4"
+}
