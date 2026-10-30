@@ -1,0 +1,42 @@
+{
+ "id": "2026-12-25_0930_C2-017",
+ "folder": "2026-12-25_0930_C2-017",
+ "publish_at": "2026-11-03T07:30:00-06:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "4% to 6% is a 50% jump.\n\nIt's +2 percentage points, but the percent change is 2 ÷ 4 = 50%. Points subtract; percent change divides by the start.\n\nComment your answer to the check question.",
+ "tiktok_caption": "4% to 6% is a 50% jump. Percentage points vs percent change.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATmath",
+  "#DigitalSAT",
+  "#SATpractice"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satmath"
+ ],
+ "youtube": {
+  "title": "Percent vs Percentage Points: Know the Difference",
+  "description": "Percentage points are the plain difference between two percents; percent change divides by the starting value. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-20-07_1.MP4"
+}

@@ -1,0 +1,42 @@
+{
+ "id": "2027-04-14_2130_N03-011",
+ "folder": "2027-04-14_2130_N03-011",
+ "publish_at": "2026-11-08T19:30:00-06:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Three towns, two percents, one trap.\n\n40% more, then 25% less is not 115%. Each percent has a different base, so multiply 1.4 × 0.75.\n\nType your value of p in the comments.",
+ "tiktok_caption": "40% more than B, B is 25% less than C. A is what % of C?",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATmath",
+  "#DigitalSAT",
+  "#SATpractice"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satmath"
+ ],
+ "youtube": {
+  "title": "SAT Percent Problem: Chaining Two Percent Comparisons",
+  "description": "Write each percent comparison as a multiplier and chain them. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-21-29_1.MP4"
+}

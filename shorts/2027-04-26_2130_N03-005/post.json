@@ -1,0 +1,42 @@
+{
+ "id": "2027-04-26_2130_N03-005",
+ "folder": "2027-04-26_2130_N03-005",
+ "publish_at": "2026-11-07T19:30:00-06:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Price up, sales down. Revenue?\n\nUp 20% and down 15% is not up 5%. Revenue is price times quantity, so multiply 1.20 × 0.85.\n\nComment your answer before you check.",
+ "tiktok_caption": "Price up 20%, sales down 15%. Revenue isn't up 5%.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATmath",
+  "#DigitalSAT",
+  "#SATpractice"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satmath"
+ ],
+ "youtube": {
+  "title": "SAT Percent Problem: Price Up, Sales Down, Revenue?",
+  "description": "Revenue is price times quantity, so multiply the percent-change multipliers. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-20-46_1.MP4"
+}

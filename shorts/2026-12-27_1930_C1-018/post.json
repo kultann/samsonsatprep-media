@@ -1,0 +1,42 @@
+{
+ "id": "2026-12-27_1930_C1-018",
+ "folder": "2026-12-27_1930_C1-018",
+ "publish_at": "2026-11-02T07:30:00-06:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "$68 after 20% off? It wasn't $81.60.\n\nOriginal = new ÷ (1 − r), so $68 ÷ 0.80 = $85. Adding 20% back on gives the wrong answer.\n\nComment where you've seen this trap.",
+ "tiktok_caption": "$68 after 20% off came from $85, not $81.60. Divide by 0.80.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATmath",
+  "#DigitalSAT",
+  "#SATpractice"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satmath"
+ ],
+ "youtube": {
+  "title": "Reverse Percent on the SAT: Find the Original Price",
+  "description": "The reverse percent formula isn't on the SAT reference sheet. Worked example: $68 after 20% off means the original was $68 ÷ 0.80 = $85.",
+  "hashtags": [
+   "#SAT",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-20-07_1.MP4"
+}

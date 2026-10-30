@@ -1,0 +1,42 @@
+{
+ "id": "2027-01-29_1700_D1-001",
+ "folder": "2027-01-29_1700_D1-001",
+ "publish_at": "2026-11-02T19:30:00-06:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "This one fraction typo breaks Desmos.\n\nType 2/3x and Desmos reads it as 2/(3x). Type (2/3)x, or press the right arrow before the x.\n\nSave this for test day.",
+ "tiktok_caption": "Type 2/3x in Desmos and the x lands in the denominator. Use parentheses.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATmath",
+  "#Desmos",
+  "#MathHacks",
+  "#DigitalSAT"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#desmos"
+ ],
+ "youtube": {
+  "title": "The Desmos Fraction Typo That Ruins SAT Systems",
+  "description": "Put fraction coefficients in parentheses before graphing a system in Desmos. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#Desmos",
+   "#SATmath",
+   "#DigitalSAT"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-15-36_1.MP4"
+}

@@ -1,0 +1,42 @@
+{
+ "id": "2027-02-17_2130_M1-007",
+ "folder": "2027-02-17_2130_M1-007",
+ "publish_at": "2026-11-03T19:30:00-06:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Don't solve for x on this one.\n\nTreat 3x − 2 as one block, call it u, and solve the simpler equation for u. No distributing needed.\n\nComment your answer before you check.",
+ "tiktok_caption": "When the question asks for 3x − 2, don't solve for x.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATmath",
+  "#DigitalSAT",
+  "#SATpractice"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satmath"
+ ],
+ "youtube": {
+  "title": "SAT Shortcut: Solve for the Expression, Not x",
+  "description": "Treat a repeated expression as one variable to skip the algebra. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-19-26_1.MP4"
+}

@@ -1,0 +1,42 @@
+{
+ "id": "2027-01-18_2130_D1-005",
+ "folder": "2027-01-18_2130_D1-005",
+ "publish_at": "2026-11-13T19:30:00-06:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Find the minimum with one click.\n\nGraph g in Desmos and click the bottom of the parabola. The minimum value is the y-coordinate, not the x.\n\nComment your answer before you check.",
+ "tiktok_caption": "Minimum value? Click the bottom of the parabola in Desmos. Read the y.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATmath",
+  "#Desmos",
+  "#MathHacks",
+  "#DigitalSAT"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#desmos"
+ ],
+ "youtube": {
+  "title": "Find a Quadratic's Minimum Value in Desmos",
+  "description": "Click the vertex in Desmos and read its y-coordinate for the minimum value. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#Desmos",
+   "#SATmath",
+   "#DigitalSAT"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-20-07_1.MP4"
+}

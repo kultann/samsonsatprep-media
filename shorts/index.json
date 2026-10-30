@@ -5202,6 +5202,174 @@
   "music": "ScreenRecording_10-05-2026 17-20-07_1.MP4"
  },
  {
+  "id": "2027-01-02_0930_C1-008",
+  "folder": "2027-01-02_0930_C1-008",
+  "publish_at": "2026-11-01T07:30:00-06:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "Do 53² − 47² in your head.\n\na² − b² = (a + b)(a − b), so 53² − 47² = 100 × 6 = 600. Difference of squares isn't on the reference sheet.\n\nSend this to a friend who's studying for the SAT.",
+  "tiktok_caption": "53² − 47² = 100 × 6 = 600. Difference of squares, in your head.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATpractice"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satmath"
+  ],
+  "youtube": {
+   "title": "Difference of Squares: SAT Mental Math Trick",
+   "description": "The difference of squares pattern isn't on the SAT reference sheet. Worked example: 53² − 47² = (100)(6) = 600.",
+   "hashtags": [
+    "#SAT",
+    "#SATmath",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-19-26_1.MP4"
+ },
+ {
+  "id": "2026-11-13_1230_C4-007",
+  "folder": "2026-11-13_1230_C4-007",
+  "publish_at": "2026-11-01T16:00:00-06:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "Same meaning? Cross out both.\n\nOnly one answer can be right, so if two transitions do the same job, cut both. Then pick from what's left.\n\nComment your answer before you check.",
+  "tiktok_caption": "Two transition choices mean the same thing? Cut both.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATreading",
+   "#SATgrammar",
+   "#DigitalSAT"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satgrammar"
+  ],
+  "youtube": {
+   "title": "SAT Transitions: Cut Choices That Mean the Same Thing",
+   "description": "If two transition choices do the same job, neither can be the single right answer. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#SATgrammar",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-19-26_1.MP4"
+ },
+ {
+  "id": "2027-01-10_1700_D2-032",
+  "folder": "2027-01-10_1700_D2-032",
+  "publish_at": "2026-11-01T19:30:00-06:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "Up 40%, down 25% isn't up 15%.\n\nType 1.4*0.75 in Desmos. Back-to-back percent changes multiply, they don't add.\n\nComment your answer before you check.",
+  "tiktok_caption": "Up 40% then down 25%? Multiply 1.4 by 0.75.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATmath",
+   "#Desmos",
+   "#MathHacks",
+   "#DigitalSAT"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#desmos"
+  ],
+  "youtube": {
+   "title": "Back-to-Back Percent Changes on the SAT",
+   "description": "Multiply the multipliers for successive percent changes. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#Desmos",
+    "#SATmath",
+    "#DigitalSAT"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-18-18_1.mov"
+ },
+ {
+  "id": "2026-12-27_1930_C1-018",
+  "folder": "2026-12-27_1930_C1-018",
+  "publish_at": "2026-11-02T07:30:00-06:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "$68 after 20% off? It wasn't $81.60.\n\nOriginal = new ÷ (1 − r), so $68 ÷ 0.80 = $85. Adding 20% back on gives the wrong answer.\n\nComment where you've seen this trap.",
+  "tiktok_caption": "$68 after 20% off came from $85, not $81.60. Divide by 0.80.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATpractice"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satmath"
+  ],
+  "youtube": {
+   "title": "Reverse Percent on the SAT: Find the Original Price",
+   "description": "The reverse percent formula isn't on the SAT reference sheet. Worked example: $68 after 20% off means the original was $68 ÷ 0.80 = $85.",
+   "hashtags": [
+    "#SAT",
+    "#SATmath",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-20-07_1.MP4"
+ },
+ {
   "id": "2026-11-02_1930_T3-004",
   "folder": "2026-11-02_1930_T3-004",
   "publish_at": "2026-11-02T16:00:00-06:00",
@@ -5242,6 +5410,216 @@
   "tiktok_mode": "direct",
   "ai_label": true,
   "music": "ScreenRecording_10-05-2026 17-18-18_1.mov"
+ },
+ {
+  "id": "2027-01-29_1700_D1-001",
+  "folder": "2027-01-29_1700_D1-001",
+  "publish_at": "2026-11-02T19:30:00-06:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "This one fraction typo breaks Desmos.\n\nType 2/3x and Desmos reads it as 2/(3x). Type (2/3)x, or press the right arrow before the x.\n\nSave this for test day.",
+  "tiktok_caption": "Type 2/3x in Desmos and the x lands in the denominator. Use parentheses.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATmath",
+   "#Desmos",
+   "#MathHacks",
+   "#DigitalSAT"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#desmos"
+  ],
+  "youtube": {
+   "title": "The Desmos Fraction Typo That Ruins SAT Systems",
+   "description": "Put fraction coefficients in parentheses before graphing a system in Desmos. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#Desmos",
+    "#SATmath",
+    "#DigitalSAT"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-15-36_1.MP4"
+ },
+ {
+  "id": "2026-12-25_0930_C2-017",
+  "folder": "2026-12-25_0930_C2-017",
+  "publish_at": "2026-11-03T07:30:00-06:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "4% to 6% is a 50% jump.\n\nIt's +2 percentage points, but the percent change is 2 ÷ 4 = 50%. Points subtract; percent change divides by the start.\n\nComment your answer to the check question.",
+  "tiktok_caption": "4% to 6% is a 50% jump. Percentage points vs percent change.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATpractice"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satmath"
+  ],
+  "youtube": {
+   "title": "Percent vs Percentage Points: Know the Difference",
+   "description": "Percentage points are the plain difference between two percents; percent change divides by the starting value. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#SATmath",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-20-07_1.MP4"
+ },
+ {
+  "id": "2027-03-28_0930_N08-001",
+  "folder": "2027-03-28_0930_N08-001",
+  "publish_at": "2026-11-03T16:00:00-06:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "Knowing coral science can actually cost you this question.\n\nWarm water often bleaches coral, but this text says the fragments grew faster. On SAT vocab questions, the passage beats what you already know.\n\nComment your answer before you check.",
+  "tiktok_caption": "Knowing coral science can actually cost you this question. Trust the text, not the textbook.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATreading",
+   "#SATgrammar",
+   "#DigitalSAT"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satgrammar"
+  ],
+  "youtube": {
+   "title": "SAT Vocab Trap: Outside Knowledge vs the Text",
+   "description": "Why the clue in the passage beats what you know about coral. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#SATgrammar",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-19-26_1.MP4"
+ },
+ {
+  "id": "2027-02-17_2130_M1-007",
+  "folder": "2027-02-17_2130_M1-007",
+  "publish_at": "2026-11-03T19:30:00-06:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "Don't solve for x on this one.\n\nTreat 3x − 2 as one block, call it u, and solve the simpler equation for u. No distributing needed.\n\nComment your answer before you check.",
+  "tiktok_caption": "When the question asks for 3x − 2, don't solve for x.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATpractice"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satmath"
+  ],
+  "youtube": {
+   "title": "SAT Shortcut: Solve for the Expression, Not x",
+   "description": "Treat a repeated expression as one variable to skip the algebra. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#SATmath",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-19-26_1.MP4"
+ },
+ {
+  "id": "2027-01-19_1230_C2-030",
+  "folder": "2027-01-19_1230_C2-030",
+  "publish_at": "2026-11-04T07:30:00-06:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "Kill three choices here without solving anything.\n\nThe corners of a square around a circle must be a small positive area. With π ≈ 3, only one choice fits.\n\nComment the choice you'd keep.",
+  "tiktok_caption": "Estimate first and three answer choices die instantly.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATpractice"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satmath"
+  ],
+  "youtube": {
+   "title": "Estimate First: Eliminate SAT Choices Fast",
+   "description": "Estimate the size and sign of the answer before calculating, then cross out choices that can't fit. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#SATmath",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-15-36_1.MP4"
  },
  {
   "id": "2026-11-04_1930_T3-005",
@@ -5286,6 +5664,90 @@
   "music": "ScreenRecording_10-05-2026 17-19-26_1.MP4"
  },
  {
+  "id": "2027-03-19_2130_N01-019",
+  "folder": "2027-03-19_2130_N01-019",
+  "publish_at": "2026-11-04T19:30:00-06:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "Test all four rates in one line.\n\nType 64000(1 + [0.052, 0.06, 0.066, 0.266])^4 into Desmos. You get four populations at once; pick the one closest to 81,000.\n\nSave this for test day.",
+  "tiktok_caption": "Put all four answer choices in brackets and Desmos checks them at once.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATmath",
+   "#Desmos",
+   "#MathHacks",
+   "#DigitalSAT"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#desmos"
+  ],
+  "youtube": {
+   "title": "Test Every Answer Choice at Once With a Desmos List",
+   "description": "Use a bracket list in Desmos to plug all four percent choices into a growth model at once. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#Desmos",
+    "#SATmath",
+    "#DigitalSAT"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-19-26_1.MP4"
+ },
+ {
+  "id": "2027-02-03_1500_C2-042",
+  "folder": "2027-02-03_1500_C2-042",
+  "publish_at": "2026-11-05T07:30:00-06:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "Here's what the reference sheet won't tell you.\n\nIt has areas, volumes, the Pythagorean theorem and special right triangles. It does NOT have slope, the quadratic formula, the vertex formula, the circle equation or SOH-CAH-TOA.\n\nSave this for test day.",
+  "tiktok_caption": "What the SAT reference sheet won't tell you, and what to memorize.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATpractice"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satmath"
+  ],
+  "youtube": {
+   "title": "What's on the SAT Math Reference Sheet",
+   "description": "The SAT reference sheet gives area, volume, Pythagorean theorem and special right triangle facts, but not slope, the quadratic formula, the vertex formula or the circle equation.",
+   "hashtags": [
+    "#SAT",
+    "#SATmath",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-20-07_1.MP4"
+ },
+ {
   "id": "2026-11-05_1500_P0-025",
   "folder": "2026-11-05_1500_P0-025",
   "publish_at": "2026-11-05T16:00:00-06:00",
@@ -5328,6 +5790,90 @@
   "music": "ScreenRecording_10-05-2026 17-18-18_1.mov"
  },
  {
+  "id": "2026-11-20_1700_M7-001",
+  "folder": "2026-11-20_1700_M7-001",
+  "publish_at": "2026-11-05T19:30:00-06:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "No side lengths. Find the area anyway.\n\nPerimeter 34, diagonal 13. Square the sum of the sides, subtract the squares, and the area falls out.\n\nComment your answer before you check.",
+  "tiktok_caption": "No side lengths? Square the sum and find the area anyway.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATpractice"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satmath"
+  ],
+  "youtube": {
+   "title": "Rectangle Area With No Side Lengths | SAT Geometry",
+   "description": "Use the perimeter and the diagonal to get a rectangle's area without solving for its sides. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#SATmath",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-21-29_1.MP4"
+ },
+ {
+  "id": "2027-01-04_1930_M1-004",
+  "folder": "2027-01-04_1930_M1-004",
+  "publish_at": "2026-11-06T07:30:00-06:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "x canceled out? Don't say no solution yet.\n\nBoth sides become 10x + 2. When x cancels and what's left is true, every x works.\n\nSave this for test day.",
+  "tiktok_caption": "x canceled out? That doesn't automatically mean no solution.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATpractice"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satmath"
+  ],
+  "youtube": {
+   "title": "No Solution vs Infinitely Many Solutions (SAT Algebra)",
+   "description": "When x cancels, check whether the leftover statement is true or false. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#SATmath",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-19-26_1.MP4"
+ },
+ {
   "id": "2026-11-06_1500_T3-006",
   "folder": "2026-11-06_1500_T3-006",
   "publish_at": "2026-11-06T16:00:00-06:00",
@@ -5368,6 +5914,48 @@
   "tiktok_mode": "direct",
   "ai_label": true,
   "music": "ScreenRecording_10-05-2026 17-19-26_1.MP4"
+ },
+ {
+  "id": "2027-05-01_2130_N02-015",
+  "folder": "2027-05-01_2130_N02-015",
+  "publish_at": "2026-11-06T19:30:00-06:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "The slope here is two point five, and that's exactly why the answer isn't.\n\n2.5 is dollars per mile. The question flips it and asks for miles per dollar, so the rate has to flip too.\n\nComment your answer in miles.",
+  "tiktok_caption": "The slope is 2.5. The answer isn't. Here's why.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATpractice"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satmath"
+  ],
+  "youtube": {
+   "title": "Miles per Dollar From a Linear Fare Model (SAT)",
+   "description": "Flip the slope when the question swaps input and output. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#SATmath",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-20-07_1.MP4"
  },
  {
   "id": "2026-11-07_0600_T3-007",
@@ -5454,6 +6042,90 @@
   "music": "ScreenRecording_10-05-2026 17-21-29_1.MP4"
  },
  {
+  "id": "2027-04-26_2130_N03-005",
+  "folder": "2027-04-26_2130_N03-005",
+  "publish_at": "2026-11-07T19:30:00-06:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "Price up, sales down. Revenue?\n\nUp 20% and down 15% is not up 5%. Revenue is price times quantity, so multiply 1.20 × 0.85.\n\nComment your answer before you check.",
+  "tiktok_caption": "Price up 20%, sales down 15%. Revenue isn't up 5%.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATpractice"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satmath"
+  ],
+  "youtube": {
+   "title": "SAT Percent Problem: Price Up, Sales Down, Revenue?",
+   "description": "Revenue is price times quantity, so multiply the percent-change multipliers. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#SATmath",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-20-46_1.MP4"
+ },
+ {
+  "id": "2027-02-18_1500_M1-043",
+  "folder": "2027-02-18_1500_M1-043",
+  "publish_at": "2026-11-08T07:30:00-06:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "Scoring eighty six won't get you an eighty six average.\n\nA mean of 86 over 5 quizzes needs a total of 430. Subtract what you already have.\n\nComment your answer before you check.",
+  "tiktok_caption": "Scoring 86 won't get you an 86 average. Here's why.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATpractice"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satmath"
+  ],
+  "youtube": {
+   "title": "Missing Score for a Target Average (SAT Algebra)",
+   "description": "Set up a linear equation for the score needed to reach a target mean. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#SATmath",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-15-36_1.MP4"
+ },
+ {
   "id": "2026-11-08_1930_T3-008",
   "folder": "2026-11-08_1930_T3-008",
   "publish_at": "2026-11-08T16:00:00-06:00",
@@ -5494,6 +6166,508 @@
   "tiktok_mode": "direct",
   "ai_label": true,
   "music": "ScreenRecording_10-05-2026 17-15-36_1.MP4"
+ },
+ {
+  "id": "2027-04-14_2130_N03-011",
+  "folder": "2027-04-14_2130_N03-011",
+  "publish_at": "2026-11-08T19:30:00-06:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "Three towns, two percents, one trap.\n\n40% more, then 25% less is not 115%. Each percent has a different base, so multiply 1.4 × 0.75.\n\nType your value of p in the comments.",
+  "tiktok_caption": "40% more than B, B is 25% less than C. A is what % of C?",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATpractice"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satmath"
+  ],
+  "youtube": {
+   "title": "SAT Percent Problem: Chaining Two Percent Comparisons",
+   "description": "Write each percent comparison as a multiplier and chain them. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#SATmath",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-21-29_1.MP4"
+ },
+ {
+  "id": "2026-11-25_1930_M5-010",
+  "folder": "2026-11-25_1930_M5-010",
+  "publish_at": "2026-11-09T07:30:00-06:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "3 to 5 doesn't mean 3/5.\n\nA part-to-part ratio of 3:5 means 8 parts total, so red is 3/8 of the bag.\n\nFollow @samsonsatprep for daily SAT tips.",
+  "tiktok_caption": "A 3 to 5 ratio means red is 3/8, not 3/5.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATpractice"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satmath"
+  ],
+  "youtube": {
+   "title": "SAT Ratio Trap: Part-to-Part vs Part-to-Whole",
+   "description": "Add the parts to get the whole before you find a fraction. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#SATmath",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-20-46_1.MP4"
+ },
+ {
+  "id": "2027-03-13_0730_N14-023",
+  "folder": "2027-03-13_0730_N14-023",
+  "publish_at": "2026-11-09T16:00:00-06:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "Was the family a teenager?\n\n“As a teenager, Ana's family moved” says the family was the teenager. The person the opener describes has to come right after the comma.\n\nComment your score out of 2.",
+  "tiktok_caption": "Was the family a teenager? Fix the opener.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATreading",
+   "#SATgrammar",
+   "#DigitalSAT"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satgrammar"
+  ],
+  "youtube": {
+   "title": "Dangling As-a Phrases | SAT Modifier Quickfire",
+   "description": "Two quick SAT modifier checks with openers like as a teenager. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#SATgrammar",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-19-26_1.MP4"
+ },
+ {
+  "id": "2027-03-25_2130_N03-015",
+  "folder": "2027-03-25_2130_N03-015",
+  "publish_at": "2026-11-09T19:30:00-06:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "No table given? Build one.\n\nImagine 100 visitors: 12 online buyers and 18 door buyers rent guides. The given group is those 30.\n\nComment your answer before you check.",
+  "tiktok_caption": "Only percents, no table? Imagine 100 people.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATpractice"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satmath"
+  ],
+  "youtube": {
+   "title": "SAT Probability: Build a Table From Percents",
+   "description": "Turn percents into counts out of 100 to find a conditional probability. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#SATmath",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-15-36_1.MP4"
+ },
+ {
+  "id": "2027-02-14_1930_M3-014",
+  "folder": "2027-02-14_1930_M3-014",
+  "publish_at": "2026-11-10T07:30:00-06:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "Dividing both sides by x just deleted an answer.\n\nFactor out x instead of dividing by it, so every solution survives. Then multiply them all.\n\nComment your answer before you check.",
+  "tiktok_caption": "Dividing both sides by x just deleted an answer. Factor it out instead.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATpractice"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satmath"
+  ],
+  "youtube": {
+   "title": "SAT Trap: Never Divide Both Sides by x",
+   "description": "Factor out x instead of dividing by it so no solution goes missing. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#SATmath",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-20-46_1.MP4"
+ },
+ {
+  "id": "2026-12-15_1230_Q2-017",
+  "folder": "2026-12-15_1230_Q2-017",
+  "publish_at": "2026-11-10T16:00:00-06:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "Right answer, rejected by one symbol?\n\nNo commas, units, % or $ in the answer box. $1,250 goes in as 1250.\n\nSend this to someone taking the SAT.",
+  "tiktok_caption": "Can one symbol get a right answer rejected? A comma or a dollar sign in the answer box? Not accepted.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#DigitalSAT",
+   "#SATtips",
+   "#StudyTips"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat"
+  ],
+  "youtube": {
+   "title": "Commas and Dollar Signs in SAT Answer Boxes",
+   "description": "Three quick checks on typing student-produced response answers: no commas, units, % or $. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#SATtips",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-18-18_1.mov"
+ },
+ {
+  "id": "2027-03-23_1700_N04-007",
+  "folder": "2027-03-23_1700_N04-007",
+  "publish_at": "2026-11-10T19:30:00-06:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "All four of these choices are true, so how do you pick?\n\nEvery choice here is accurate. Only one matches the claim's two parts: lowest starting visits AND biggest gains.\n\nComment your answer before you check.",
+  "tiktok_caption": "All four choices are true. Only one matches the claim.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATreading",
+   "#SATgrammar",
+   "#DigitalSAT"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satgrammar"
+  ],
+  "youtube": {
+   "title": "SAT Data Question: All Four Choices Are True",
+   "description": "When every choice is accurate, match each one against the exact claim. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#SATgrammar",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-20-46_1.MP4"
+ },
+ {
+  "id": "2026-12-07_1230_M5-025",
+  "folder": "2026-12-07_1230_M5-025",
+  "publish_at": "2026-11-11T07:30:00-06:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "Down 30%, then up 30%. Back to even?\n\nThe 30% increase is taken on a smaller number. Think multipliers: 0.7 × 1.3 = 0.91.\n\nComment your answer before you check.",
+  "tiktok_caption": "Down 30%, then up 30%. Back to even? Not quite.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATpractice"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satmath"
+  ],
+  "youtube": {
+   "title": "SAT Successive Percent Changes: Spot the Error",
+   "description": "Percent changes multiply; they don't cancel. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#SATmath",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-21-29_1.MP4"
+ },
+ {
+  "id": "2027-04-09_0930_N08-008",
+  "folder": "2027-04-09_0930_N08-008",
+  "publish_at": "2026-11-11T16:00:00-06:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "Respectable is technically true here, and it's still wrong.\n\nThe festival more than doubled a forty-year record. The word has to be as big as the clue.\n\nComment your answer before you check.",
+  "tiktok_caption": "Respectable is technically true here, and it's still wrong. Match the clue's size.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATreading",
+   "#SATgrammar",
+   "#DigitalSAT"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satgrammar"
+  ],
+  "youtube": {
+   "title": "SAT Vocab Trap: True but Too Weak",
+   "description": "Pick the word that matches the strength of the clue. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#SATgrammar",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-18-18_1.mov"
+ },
+ {
+  "id": "2027-04-27_1700_N04-015",
+  "folder": "2027-04-27_1700_N04-015",
+  "publish_at": "2026-11-11T19:30:00-06:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "The pianist on these old recordings wasn't slow. The machine was.\n\nText 1 calls the slow tempos a style choice. Text 2 shows they come from mismatched machine speeds. That's a mistaken cause.\n\nSend this to a friend who's studying for the SAT.",
+  "tiktok_caption": "The pianist wasn't slow. The machine was. How would Text 2 respond?",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATreading",
+   "#SATgrammar",
+   "#DigitalSAT"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satgrammar"
+  ],
+  "youtube": {
+   "title": "SAT Cross-Text: The Pianist Wasn't Slow",
+   "description": "Text 2 explains away the evidence behind Text 1's interpretation. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#SATgrammar",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-19-26_1.MP4"
+ },
+ {
+  "id": "2027-01-08_1230_M5-030",
+  "folder": "2027-01-08_1230_M5-030",
+  "publish_at": "2026-11-12T07:30:00-06:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "Right math. Wrong question.\n\n\"What percent of\" and \"what percent greater than\" are different questions with different answers.\n\nComment your answer before you check.",
+  "tiktok_caption": "Percent of vs percent greater than: different answers.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATpractice"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satmath"
+  ],
+  "youtube": {
+   "title": "SAT Trap: Percent Of vs Percent Greater Than",
+   "description": "Percent greater uses the difference over the base. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#SATmath",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-20-07_1.MP4"
+ },
+ {
+  "id": "2026-11-17_0730_Q2-018",
+  "folder": "2026-11-17_0730_Q2-018",
+  "publish_at": "2026-11-12T16:00:00-06:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "Your decimal might be too short.\n\nFor 5/9, type 0.555 or 0.556, not 0.56. Or just type 5/9.\n\nSave this for test day.",
+  "tiktok_caption": "Your decimal might be too short. 0.56 for 5/9? Not accepted. Fill the box.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#DigitalSAT",
+   "#SATtips",
+   "#StudyTips"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat"
+  ],
+  "youtube": {
+   "title": "Repeating Decimals in SAT Answer Boxes: Fill the Box",
+   "description": "Three quick checks on typing long decimals in student-produced response questions. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#SATtips",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-20-46_1.MP4"
  },
  {
   "id": "2026-11-09_2130_D1-003",
@@ -5539,6 +6713,48 @@
   "music": "ScreenRecording_10-05-2026 17-19-26_1.MP4"
  },
  {
+  "id": "2027-01-10_0730_M6-005",
+  "folder": "2027-01-10_0730_M6-005",
+  "publish_at": "2026-11-13T07:30:00-06:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "Same range, same mean. Same spread?\n\nNope. Standard deviation cares how far every value sits from the mean, not just the two ends.\n\nSave this for test day.",
+  "tiktok_caption": "Same range, same mean, different spread. Find the bad step.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATpractice"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satmath"
+  ],
+  "youtube": {
+   "title": "SAT Math: Same Range but Different Standard Deviation",
+   "description": "Spot the flawed step when comparing the standard deviations of two data sets. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#SATmath",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-20-07_1.MP4"
+ },
+ {
   "id": "2026-11-05_0930_R2-010",
   "folder": "2026-11-05_0930_R2-010",
   "publish_at": "2026-11-13T16:00:00-06:00",
@@ -5580,6 +6796,48 @@
   "tiktok_mode": "direct",
   "ai_label": true,
   "music": "ScreenRecording_10-05-2026 17-21-29_1.MP4"
+ },
+ {
+  "id": "2027-01-18_2130_D1-005",
+  "folder": "2027-01-18_2130_D1-005",
+  "publish_at": "2026-11-13T19:30:00-06:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "Find the minimum with one click.\n\nGraph g in Desmos and click the bottom of the parabola. The minimum value is the y-coordinate, not the x.\n\nComment your answer before you check.",
+  "tiktok_caption": "Minimum value? Click the bottom of the parabola in Desmos. Read the y.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATmath",
+   "#Desmos",
+   "#MathHacks",
+   "#DigitalSAT"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#desmos"
+  ],
+  "youtube": {
+   "title": "Find a Quadratic's Minimum Value in Desmos",
+   "description": "Click the vertex in Desmos and read its y-coordinate for the minimum value. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#Desmos",
+    "#SATmath",
+    "#DigitalSAT"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-20-07_1.MP4"
  },
  {
   "id": "2026-11-07_1700_M1-012",

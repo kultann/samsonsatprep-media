@@ -1,0 +1,41 @@
+{
+ "id": "2026-11-17_0730_Q2-018",
+ "folder": "2026-11-17_0730_Q2-018",
+ "publish_at": "2026-11-12T16:00:00-06:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Your decimal might be too short.\n\nFor 5/9, type 0.555 or 0.556, not 0.56. Or just type 5/9.\n\nSave this for test day.",
+ "tiktok_caption": "Your decimal might be too short. 0.56 for 5/9? Not accepted. Fill the box.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#DigitalSAT",
+  "#SATtips",
+  "#StudyTips"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat"
+ ],
+ "youtube": {
+  "title": "Repeating Decimals in SAT Answer Boxes: Fill the Box",
+  "description": "Three quick checks on typing long decimals in student-produced response questions. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATtips",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-20-46_1.MP4"
+}

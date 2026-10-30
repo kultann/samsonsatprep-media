@@ -1,0 +1,41 @@
+{
+ "id": "2026-12-15_1230_Q2-017",
+ "folder": "2026-12-15_1230_Q2-017",
+ "publish_at": "2026-11-10T16:00:00-06:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Right answer, rejected by one symbol?\n\nNo commas, units, % or $ in the answer box. $1,250 goes in as 1250.\n\nSend this to someone taking the SAT.",
+ "tiktok_caption": "Can one symbol get a right answer rejected? A comma or a dollar sign in the answer box? Not accepted.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#DigitalSAT",
+  "#SATtips",
+  "#StudyTips"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat"
+ ],
+ "youtube": {
+  "title": "Commas and Dollar Signs in SAT Answer Boxes",
+  "description": "Three quick checks on typing student-produced response answers: no commas, units, % or $. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATtips",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-18-18_1.mov"
+}

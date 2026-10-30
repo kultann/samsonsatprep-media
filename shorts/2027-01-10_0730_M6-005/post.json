@@ -1,0 +1,42 @@
+{
+ "id": "2027-01-10_0730_M6-005",
+ "folder": "2027-01-10_0730_M6-005",
+ "publish_at": "2026-11-13T07:30:00-06:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Same range, same mean. Same spread?\n\nNope. Standard deviation cares how far every value sits from the mean, not just the two ends.\n\nSave this for test day.",
+ "tiktok_caption": "Same range, same mean, different spread. Find the bad step.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATmath",
+  "#DigitalSAT",
+  "#SATpractice"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satmath"
+ ],
+ "youtube": {
+  "title": "SAT Math: Same Range but Different Standard Deviation",
+  "description": "Spot the flawed step when comparing the standard deviations of two data sets. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-20-07_1.MP4"
+}

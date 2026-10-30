@@ -1,0 +1,42 @@
+{
+ "id": "2026-11-25_1930_M5-010",
+ "folder": "2026-11-25_1930_M5-010",
+ "publish_at": "2026-11-09T07:30:00-06:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "3 to 5 doesn't mean 3/5.\n\nA part-to-part ratio of 3:5 means 8 parts total, so red is 3/8 of the bag.\n\nFollow @samsonsatprep for daily SAT tips.",
+ "tiktok_caption": "A 3 to 5 ratio means red is 3/8, not 3/5.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATmath",
+  "#DigitalSAT",
+  "#SATpractice"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satmath"
+ ],
+ "youtube": {
+  "title": "SAT Ratio Trap: Part-to-Part vs Part-to-Whole",
+  "description": "Add the parts to get the whole before you find a fraction. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-20-46_1.MP4"
+}

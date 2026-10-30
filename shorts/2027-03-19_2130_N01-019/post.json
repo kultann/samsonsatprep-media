@@ -1,0 +1,42 @@
+{
+ "id": "2027-03-19_2130_N01-019",
+ "folder": "2027-03-19_2130_N01-019",
+ "publish_at": "2026-11-04T19:30:00-06:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Test all four rates in one line.\n\nType 64000(1 + [0.052, 0.06, 0.066, 0.266])^4 into Desmos. You get four populations at once; pick the one closest to 81,000.\n\nSave this for test day.",
+ "tiktok_caption": "Put all four answer choices in brackets and Desmos checks them at once.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATmath",
+  "#Desmos",
+  "#MathHacks",
+  "#DigitalSAT"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#desmos"
+ ],
+ "youtube": {
+  "title": "Test Every Answer Choice at Once With a Desmos List",
+  "description": "Use a bracket list in Desmos to plug all four percent choices into a growth model at once. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#Desmos",
+   "#SATmath",
+   "#DigitalSAT"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-19-26_1.MP4"
+}

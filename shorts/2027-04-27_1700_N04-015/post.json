@@ -1,0 +1,42 @@
+{
+ "id": "2027-04-27_1700_N04-015",
+ "folder": "2027-04-27_1700_N04-015",
+ "publish_at": "2026-11-11T19:30:00-06:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "The pianist on these old recordings wasn't slow. The machine was.\n\nText 1 calls the slow tempos a style choice. Text 2 shows they come from mismatched machine speeds. That's a mistaken cause.\n\nSend this to a friend who's studying for the SAT.",
+ "tiktok_caption": "The pianist wasn't slow. The machine was. How would Text 2 respond?",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATreading",
+  "#SATgrammar",
+  "#DigitalSAT"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satgrammar"
+ ],
+ "youtube": {
+  "title": "SAT Cross-Text: The Pianist Wasn't Slow",
+  "description": "Text 2 explains away the evidence behind Text 1's interpretation. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATgrammar",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-19-26_1.MP4"
+}

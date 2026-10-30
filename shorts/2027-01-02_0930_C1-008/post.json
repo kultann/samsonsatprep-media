@@ -1,0 +1,42 @@
+{
+ "id": "2027-01-02_0930_C1-008",
+ "folder": "2027-01-02_0930_C1-008",
+ "publish_at": "2026-11-01T07:30:00-06:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Do 53² − 47² in your head.\n\na² − b² = (a + b)(a − b), so 53² − 47² = 100 × 6 = 600. Difference of squares isn't on the reference sheet.\n\nSend this to a friend who's studying for the SAT.",
+ "tiktok_caption": "53² − 47² = 100 × 6 = 600. Difference of squares, in your head.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATmath",
+  "#DigitalSAT",
+  "#SATpractice"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satmath"
+ ],
+ "youtube": {
+  "title": "Difference of Squares: SAT Mental Math Trick",
+  "description": "The difference of squares pattern isn't on the SAT reference sheet. Worked example: 53² − 47² = (100)(6) = 600.",
+  "hashtags": [
+   "#SAT",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-19-26_1.MP4"
+}

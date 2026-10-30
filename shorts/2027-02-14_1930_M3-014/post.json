@@ -1,0 +1,42 @@
+{
+ "id": "2027-02-14_1930_M3-014",
+ "folder": "2027-02-14_1930_M3-014",
+ "publish_at": "2026-11-10T07:30:00-06:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Dividing both sides by x just deleted an answer.\n\nFactor out x instead of dividing by it, so every solution survives. Then multiply them all.\n\nComment your answer before you check.",
+ "tiktok_caption": "Dividing both sides by x just deleted an answer. Factor it out instead.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATmath",
+  "#DigitalSAT",
+  "#SATpractice"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satmath"
+ ],
+ "youtube": {
+  "title": "SAT Trap: Never Divide Both Sides by x",
+  "description": "Factor out x instead of dividing by it so no solution goes missing. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-20-46_1.MP4"
+}

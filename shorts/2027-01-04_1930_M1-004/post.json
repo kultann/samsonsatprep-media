@@ -1,0 +1,42 @@
+{
+ "id": "2027-01-04_1930_M1-004",
+ "folder": "2027-01-04_1930_M1-004",
+ "publish_at": "2026-11-06T07:30:00-06:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "x canceled out? Don't say no solution yet.\n\nBoth sides become 10x + 2. When x cancels and what's left is true, every x works.\n\nSave this for test day.",
+ "tiktok_caption": "x canceled out? That doesn't automatically mean no solution.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATmath",
+  "#DigitalSAT",
+  "#SATpractice"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satmath"
+ ],
+ "youtube": {
+  "title": "No Solution vs Infinitely Many Solutions (SAT Algebra)",
+  "description": "When x cancels, check whether the leftover statement is true or false. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-19-26_1.MP4"
+}

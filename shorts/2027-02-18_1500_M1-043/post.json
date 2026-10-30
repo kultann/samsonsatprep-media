@@ -1,0 +1,42 @@
+{
+ "id": "2027-02-18_1500_M1-043",
+ "folder": "2027-02-18_1500_M1-043",
+ "publish_at": "2026-11-08T07:30:00-06:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Scoring eighty six won't get you an eighty six average.\n\nA mean of 86 over 5 quizzes needs a total of 430. Subtract what you already have.\n\nComment your answer before you check.",
+ "tiktok_caption": "Scoring 86 won't get you an 86 average. Here's why.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATmath",
+  "#DigitalSAT",
+  "#SATpractice"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satmath"
+ ],
+ "youtube": {
+  "title": "Missing Score for a Target Average (SAT Algebra)",
+  "description": "Set up a linear equation for the score needed to reach a target mean. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-15-36_1.MP4"
+}

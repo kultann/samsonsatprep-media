@@ -1,0 +1,42 @@
+{
+ "id": "2027-03-25_2130_N03-015",
+ "folder": "2027-03-25_2130_N03-015",
+ "publish_at": "2026-11-09T19:30:00-06:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "No table given? Build one.\n\nImagine 100 visitors: 12 online buyers and 18 door buyers rent guides. The given group is those 30.\n\nComment your answer before you check.",
+ "tiktok_caption": "Only percents, no table? Imagine 100 people.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATmath",
+  "#DigitalSAT",
+  "#SATpractice"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satmath"
+ ],
+ "youtube": {
+  "title": "SAT Probability: Build a Table From Percents",
+  "description": "Turn percents into counts out of 100 to find a conditional probability. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-15-36_1.MP4"
+}

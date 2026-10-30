@@ -1,0 +1,42 @@
+{
+ "id": "2027-01-10_1700_D2-032",
+ "folder": "2027-01-10_1700_D2-032",
+ "publish_at": "2026-11-01T19:30:00-06:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Up 40%, down 25% isn't up 15%.\n\nType 1.4*0.75 in Desmos. Back-to-back percent changes multiply, they don't add.\n\nComment your answer before you check.",
+ "tiktok_caption": "Up 40% then down 25%? Multiply 1.4 by 0.75.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATmath",
+  "#Desmos",
+  "#MathHacks",
+  "#DigitalSAT"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#desmos"
+ ],
+ "youtube": {
+  "title": "Back-to-Back Percent Changes on the SAT",
+  "description": "Multiply the multipliers for successive percent changes. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#Desmos",
+   "#SATmath",
+   "#DigitalSAT"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-18-18_1.mov"
+}

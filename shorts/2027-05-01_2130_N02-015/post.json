@@ -1,0 +1,42 @@
+{
+ "id": "2027-05-01_2130_N02-015",
+ "folder": "2027-05-01_2130_N02-015",
+ "publish_at": "2026-11-06T19:30:00-06:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "The slope here is two point five, and that's exactly why the answer isn't.\n\n2.5 is dollars per mile. The question flips it and asks for miles per dollar, so the rate has to flip too.\n\nComment your answer in miles.",
+ "tiktok_caption": "The slope is 2.5. The answer isn't. Here's why.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATmath",
+  "#DigitalSAT",
+  "#SATpractice"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satmath"
+ ],
+ "youtube": {
+  "title": "Miles per Dollar From a Linear Fare Model (SAT)",
+  "description": "Flip the slope when the question swaps input and output. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-20-07_1.MP4"
+}

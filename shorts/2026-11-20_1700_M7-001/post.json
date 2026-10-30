@@ -1,0 +1,42 @@
+{
+ "id": "2026-11-20_1700_M7-001",
+ "folder": "2026-11-20_1700_M7-001",
+ "publish_at": "2026-11-05T19:30:00-06:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "No side lengths. Find the area anyway.\n\nPerimeter 34, diagonal 13. Square the sum of the sides, subtract the squares, and the area falls out.\n\nComment your answer before you check.",
+ "tiktok_caption": "No side lengths? Square the sum and find the area anyway.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATmath",
+  "#DigitalSAT",
+  "#SATpractice"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satmath"
+ ],
+ "youtube": {
+  "title": "Rectangle Area With No Side Lengths | SAT Geometry",
+  "description": "Use the perimeter and the diagonal to get a rectangle's area without solving for its sides. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-21-29_1.MP4"
+}
