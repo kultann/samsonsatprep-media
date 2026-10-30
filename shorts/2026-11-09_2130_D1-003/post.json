@@ -8,7 +8,8 @@
  "cover_time_ms": 500,
  "platforms": [
   "instagram",
-  "tiktok"
+  "tiktok",
+  "youtube"
  ],
  "caption": "Hate fractions? Graph both sides.\n\nType y = left side and y = right side in Desmos. The x-value where they cross solves the equation.\n\nComment your answer before you check.",
  "tiktok_caption": "Fraction equation? Graph each side in Desmos and click the crossing.",

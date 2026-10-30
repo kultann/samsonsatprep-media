@@ -8,7 +8,8 @@
  "cover_time_ms": 500,
  "platforms": [
   "instagram",
-  "tiktok"
+  "tiktok",
+  "youtube"
  ],
  "caption": "3% growth means multiply by 1.03.\n\nGrowth: P = P₀(1 + r)ᵗ, so $500 for 2 years is 500(1.03)² ≈ $530.45. It's not on the reference sheet.\n\nSave this for test day.",
  "tiktok_caption": "3% growth means multiply by 1.03, not 0.03.",

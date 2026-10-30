@@ -8,7 +8,8 @@
  "cover_time_ms": 500,
  "platforms": [
   "instagram",
-  "tiktok"
+  "tiktok",
+  "youtube"
  ],
  "caption": "Two equal outputs give away the axis.\n\nf(1) = f(3) means the axis of symmetry is x = 2. Use that with c = 5 to pin down a, then b.\n\nComment your answer before you check.",
  "tiktok_caption": "Three points, one quadratic. Find b using symmetry.",

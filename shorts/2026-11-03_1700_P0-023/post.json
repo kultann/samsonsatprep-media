@@ -8,7 +8,8 @@
  "cover_time_ms": 500,
  "platforms": [
   "instagram",
-  "tiktok"
+  "tiktok",
+  "youtube"
  ],
  "caption": "Which point works? Let Desmos shade it.\n\nGraph both inequalities. The double-shaded region is where both are true.\n\nComment your answer before you check.",
  "tiktok_caption": "Which point satisfies both inequalities? Let Desmos shade it.",

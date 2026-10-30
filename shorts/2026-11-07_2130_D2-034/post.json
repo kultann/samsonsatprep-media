@@ -8,7 +8,8 @@
  "cover_time_ms": 500,
  "platforms": [
   "instagram",
-  "tiktok"
+  "tiktok",
+  "youtube"
  ],
  "caption": "One missing parenthesis ruins this question.\n\nType sqrt((4-(-3))^2+(-1-2)^2) in Desmos, then sqrt(58) to match. Parentheses around every negative.\n\nSave this for test day.",
  "tiktok_caption": "Distance formula in Desmos: parentheses around every negative.",

@@ -8,7 +8,8 @@
  "cover_time_ms": 500,
  "platforms": [
   "instagram",
-  "tiktok"
+  "tiktok",
+  "youtube"
  ],
  "caption": "Work backward to find where it started.\n\n405 ÷ 45 = 9 over two steps, so b = 3. Now walk back two steps from f(2) to reach f(0).\n\nComment your answer before you check.",
  "tiktok_caption": "f(2) = 45 and f(4) = 405 for an exponential. What's f(0)?",

@@ -8,7 +8,8 @@
  "cover_time_ms": 500,
  "platforms": [
   "instagram",
-  "tiktok"
+  "tiktok",
+  "youtube"
  ],
  "caption": "One step in this polygon solution is wrong.\n\nInterior angle sum is (n − 2) × 180°, not n × 180°. Redo Step 2 with that formula.\n\nComment the step number before you check.",
  "tiktok_caption": "One step in this polygon solution is wrong. Can you find it?",

@@ -8,7 +8,8 @@
  "cover_time_ms": 500,
  "platforms": [
   "instagram",
-  "tiktok"
+  "tiktok",
+  "youtube"
  ],
  "caption": "Only one of these lines fits.\n\nPut the data in a Desmos table, type all four choices, and see which line runs through the dots.\n\nComment your answer before you check.",
  "tiktok_caption": "Graph all four choices over the data. One line fits.",

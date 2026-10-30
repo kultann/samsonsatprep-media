@@ -8,7 +8,8 @@
  "cover_time_ms": 500,
  "platforms": [
   "instagram",
-  "tiktok"
+  "tiktok",
+  "youtube"
  ],
  "caption": "Top slides 4 feet. The base doesn't.\n\nThe ladder's length is fixed at 25, so rebuild the right triangle after the slide and compare the bases.\n\nComment your answer before you check.",
  "tiktok_caption": "Top slides 4 feet. The base doesn't. Run Pythagoras twice and compare.",

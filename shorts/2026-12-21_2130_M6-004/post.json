@@ -8,7 +8,8 @@
  "cover_time_ms": 500,
  "platforms": [
   "instagram",
-  "tiktok"
+  "tiktok",
+  "youtube"
  ],
  "caption": "Delete one number. Watch the mean drop.\n\nRemoving one outlier moves the mean a lot and the median only a little. Work out how much the mean drops.\n\nComment your answer before you check.",
  "tiktok_caption": "Delete one outlier and the mean drops a lot. The median barely moves. By how much?",

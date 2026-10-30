@@ -8,7 +8,8 @@
  "cover_time_ms": 500,
  "platforms": [
   "instagram",
-  "tiktok"
+  "tiktok",
+  "youtube"
  ],
  "caption": "The circle equation isn't on the reference sheet.\n\n(x − h)² + (y − k)² = r² has center (h, k) and radius r. x² + y² − 6x + 4y = 12 becomes (x − 3)² + (y + 2)² = 25: center (3, −2), radius 5.\n\nSave this for test day.",
  "tiktok_caption": "The circle equation isn't on the reference sheet. Flip the signs, root the r².",

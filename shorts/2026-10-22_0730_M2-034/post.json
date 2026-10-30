@@ -8,7 +8,8 @@
  "cover_time_ms": 500,
  "platforms": [
   "instagram",
-  "tiktok"
+  "tiktok",
+  "youtube"
  ],
  "caption": "6 makes it equal. That's not enough.\n\nk > 6 is strict, so 6 itself fails. The least integer that works is the next one up.\n\nComment your answer before you check.",
  "tiktok_caption": "6 makes it equal. That's not enough. Find the least integer k.",
