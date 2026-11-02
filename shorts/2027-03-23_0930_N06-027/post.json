@@ -1,0 +1,42 @@
+{
+ "id": "2027-03-23_0930_N06-027",
+ "folder": "2027-03-23_0930_N06-027",
+ "publish_at": "2026-11-15T07:30:00-06:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "25% faster doesn't mean 25% less time.\n\nTime = distance ÷ speed, so the new time is the old time divided by 1.25. Turn that into a percent decrease.\n\nFollow @samsonsatprep for more rate traps.",
+ "tiktok_caption": "25% faster isn't 25% less time. Divide by 1.25 and see.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATmath",
+  "#DigitalSAT",
+  "#SATpractice"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satmath"
+ ],
+ "youtube": {
+  "title": "Speed Up 25%: How Much Time Do You Save? | SAT",
+  "description": "For a fixed distance, time divides by the speed factor. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-18-18_1.mov"
+}

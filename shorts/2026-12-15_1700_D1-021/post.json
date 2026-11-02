@@ -1,0 +1,42 @@
+{
+ "id": "2026-12-15_1700_D1-021",
+ "folder": "2026-12-15_1700_D1-021",
+ "publish_at": "2026-11-15T19:30:00-06:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "One of your two answers is fake.\n\nSolving |x − 4| = 2x + 1 by cases gives −5 and 1, but the graphs cross only once. Always check.\n\nSave this for test day.",
+ "tiktok_caption": "Absolute value casework gave two answers? Desmos shows only one is real.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATmath",
+  "#Desmos",
+  "#MathHacks",
+  "#DigitalSAT"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#desmos"
+ ],
+ "youtube": {
+  "title": "Absolute Value Trap: Desmos Exposes the Fake Solution",
+  "description": "Casework gives −5 and 1, but graphing both sides shows only x = 1 works. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#Desmos",
+   "#SATmath",
+   "#DigitalSAT"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-20-07_1.MP4"
+}

@@ -1,0 +1,42 @@
+{
+ "id": "2026-11-16_2130_D1-019",
+ "folder": "2026-11-16_2130_D1-019",
+ "publish_at": "2026-11-14T19:30:00-06:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Messy decimals? Let Desmos find the peak.\n\nGraph the height function with x instead of t, zoom out, and click the top of the arc. The y-coordinate is the max height.\n\nSave this for test day.",
+ "tiktok_caption": "Max height with ugly decimals? Click the top of the arc in Desmos.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATmath",
+  "#Desmos",
+  "#MathHacks",
+  "#DigitalSAT"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#desmos"
+ ],
+ "youtube": {
+  "title": "Maximum Height Questions in Desmos: Click the Peak",
+  "description": "Graph the rocket's height, zoom out, and click the vertex to read the maximum height. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#Desmos",
+   "#SATmath",
+   "#DigitalSAT"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-20-07_1.MP4"
+}

@@ -6840,6 +6840,257 @@
   "music": "ScreenRecording_10-05-2026 17-20-07_1.MP4"
  },
  {
+  "id": "2027-02-04_1230_M7-018",
+  "folder": "2027-02-04_1230_M7-018",
+  "publish_at": "2026-11-14T07:30:00-06:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "They want you to pick 7.5.\n\nDE ∥ BC makes triangle ADE similar to triangle ABC. Compare AD to the whole side AB, not to DB, then set up the proportion.\n\nComment your answer before you check.",
+  "tiktok_caption": "They want you to pick 7.5. Compare whole sides, never pieces.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATpractice"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satmath"
+  ],
+  "youtube": {
+   "title": "Parallel Segment in a Triangle: Similar Triangles | SAT",
+   "description": "Set up the proportion small triangle to big triangle, not piece to piece. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#SATmath",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-20-07_1.MP4"
+ },
+ {
+  "id": "2026-11-14_1500_T3-010",
+  "folder": "2026-11-14_1500_T3-010",
+  "publish_at": "2026-11-14T16:00:00-06:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "Practice the tools, not just the questions.\n\nIn every Bluebook practice test, use cross out, mark for review, highlight and annotate, the reference sheet and the calculator. Three weeks before the Dec 5 SAT, make them automatic.\n\nFollow @samsonsatprep for daily SAT tips.",
+  "tiktok_caption": "3 weeks to the Dec 5 SAT: practice the Bluebook tools, not just the questions.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#DigitalSAT",
+   "#SATtips",
+   "#StudyTips"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat"
+  ],
+  "youtube": {
+   "title": "Practice the Bluebook Tools Before the Dec 5 SAT",
+   "description": "Three weeks before the December 5, 2026 SAT, use every Bluebook tool in your practice tests so they feel automatic on test day.",
+   "hashtags": [
+    "#SAT",
+    "#SATtips",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-20-46_1.MP4"
+ },
+ {
+  "id": "2026-11-16_2130_D1-019",
+  "folder": "2026-11-16_2130_D1-019",
+  "publish_at": "2026-11-14T19:30:00-06:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "Messy decimals? Let Desmos find the peak.\n\nGraph the height function with x instead of t, zoom out, and click the top of the arc. The y-coordinate is the max height.\n\nSave this for test day.",
+  "tiktok_caption": "Max height with ugly decimals? Click the top of the arc in Desmos.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATmath",
+   "#Desmos",
+   "#MathHacks",
+   "#DigitalSAT"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#desmos"
+  ],
+  "youtube": {
+   "title": "Maximum Height Questions in Desmos: Click the Peak",
+   "description": "Graph the rocket's height, zoom out, and click the vertex to read the maximum height. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#Desmos",
+    "#SATmath",
+    "#DigitalSAT"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-20-07_1.MP4"
+ },
+ {
+  "id": "2027-03-23_0930_N06-027",
+  "folder": "2027-03-23_0930_N06-027",
+  "publish_at": "2026-11-15T07:30:00-06:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "25% faster doesn't mean 25% less time.\n\nTime = distance ÷ speed, so the new time is the old time divided by 1.25. Turn that into a percent decrease.\n\nFollow @samsonsatprep for more rate traps.",
+  "tiktok_caption": "25% faster isn't 25% less time. Divide by 1.25 and see.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATpractice"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satmath"
+  ],
+  "youtube": {
+   "title": "Speed Up 25%: How Much Time Do You Save? | SAT",
+   "description": "For a fixed distance, time divides by the speed factor. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#SATmath",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-18-18_1.mov"
+ },
+ {
+  "id": "2026-12-03_0730_R2-048",
+  "folder": "2026-12-03_0730_R2-048",
+  "publish_at": "2026-11-15T16:00:00-06:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "The owners weren't built in the 1700s.\n\nAn opening \"Built in...\" phrase has to land on the thing that was built. A possessive in front doesn't fix it.\n\nComment the wrong word before you check.",
+  "tiktok_caption": "Built in the 1700s... the owners? Nope. The mill.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATreading",
+   "#SATgrammar",
+   "#DigitalSAT"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satgrammar"
+  ],
+  "youtube": {
+   "title": "SAT Grammar: Dangling Modifier With Built In",
+   "description": "Spot the error: an opening past-participle phrase attached to the wrong noun. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#SATgrammar",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-21-29_1.MP4"
+ },
+ {
+  "id": "2026-12-15_1700_D1-021",
+  "folder": "2026-12-15_1700_D1-021",
+  "publish_at": "2026-11-15T19:30:00-06:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "One of your two answers is fake.\n\nSolving |x − 4| = 2x + 1 by cases gives −5 and 1, but the graphs cross only once. Always check.\n\nSave this for test day.",
+  "tiktok_caption": "Absolute value casework gave two answers? Desmos shows only one is real.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATmath",
+   "#Desmos",
+   "#MathHacks",
+   "#DigitalSAT"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#desmos"
+  ],
+  "youtube": {
+   "title": "Absolute Value Trap: Desmos Exposes the Fake Solution",
+   "description": "Casework gives −5 and 1, but graphing both sides shows only x = 1 works. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#Desmos",
+    "#SATmath",
+    "#DigitalSAT"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-20-07_1.MP4"
+ },
+ {
   "id": "2026-11-07_1700_M1-012",
   "folder": "2026-11-07_1700_M1-012",
   "publish_at": "2026-11-19T19:30:00-06:00",
