@@ -1,0 +1,42 @@
+{
+ "id": "2027-02-11_1500_C2-005",
+ "folder": "2027-02-11_1500_C2-005",
+ "publish_at": "2026-11-20T07:30:00-06:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "One number counts a quadratic's solutions.\n\nb² − 4ac: positive means two real solutions, zero means one, negative means none.\n\nComment your answer to the check question before you peek.",
+ "tiktok_caption": "One number counts a quadratic's solutions before you solve anything.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATmath",
+  "#DigitalSAT",
+  "#SATpractice"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satmath"
+ ],
+ "youtube": {
+  "title": "The Discriminant: Count Solutions Without Solving",
+  "description": "The discriminant b² − 4ac tells you whether a quadratic has two, one, or no real solutions. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-21-29_1.MP4"
+}

@@ -1,0 +1,42 @@
+{
+ "id": "2026-12-24_1700_D1-033",
+ "folder": "2026-12-24_1700_D1-033",
+ "publish_at": "2026-11-16T19:30:00-06:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Don't expand it. Just graph it.\n\nType y = (x − 7)(x + 3) straight into Desmos and click the vertex. No FOIL needed.\n\nComment your answer before you check.",
+ "tiktok_caption": "Factored form? Type it straight into Desmos and click the vertex.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATmath",
+  "#Desmos",
+  "#MathHacks",
+  "#DigitalSAT"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#desmos"
+ ],
+ "youtube": {
+  "title": "Vertex of a Factored Parabola in Desmos, No Expanding",
+  "description": "Graph a factored-form parabola as written and click its vertex. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#Desmos",
+   "#SATmath",
+   "#DigitalSAT"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-21-29_1.MP4"
+}

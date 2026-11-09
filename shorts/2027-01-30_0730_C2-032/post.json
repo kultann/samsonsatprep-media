@@ -1,0 +1,42 @@
+{
+ "id": "2027-01-30_0730_C2-032",
+ "folder": "2027-01-30_0730_C2-032",
+ "publish_at": "2026-11-21T07:30:00-06:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "This line predicts a 243-pound dog.\n\nw = 4m + 3 fits a puppy from 2 to 6 months, but at 60 months it predicts 243 pounds. Lines of best fit only work inside the data's range.\n\nFollow @samsonsatprep for daily SAT tips.",
+ "tiktok_caption": "This line predicts a 243-pound dog. Don't trust a line of best fit outside the data.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATmath",
+  "#DigitalSAT",
+  "#SATpractice"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satmath"
+ ],
+ "youtube": {
+  "title": "Why You Can't Trust a Line Outside the Data",
+  "description": "A line of best fit is reliable only within the range of the data. Using it far outside that range, called extrapolation, can give absurd predictions.",
+  "hashtags": [
+   "#SAT",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-20-07_1.MP4"
+}

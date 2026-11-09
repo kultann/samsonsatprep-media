@@ -1,0 +1,41 @@
+{
+ "id": "2026-11-21_1500_T3-012",
+ "folder": "2026-11-21_1500_T3-012",
+ "publish_at": "2026-11-21T16:00:00-06:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Which device are you testing on?\n\nTwo weeks before the Dec 5 SAT, pick one device, install Bluebook, and take your next practice test on it. Then put exam setup on your calendar so it's done before test day.\n\nSave this for test prep.",
+ "tiktok_caption": "2 weeks to the Dec 5 SAT: pick your testing device and practice on it.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#DigitalSAT",
+  "#SATtips",
+  "#StudyTips"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat"
+ ],
+ "youtube": {
+  "title": "Dec 5 SAT in 2 Weeks: Lock In Your Testing Device",
+  "description": "Two weeks before the December 5, 2026 SAT, choose your testing device, install Bluebook, practice on it, and plan to finish exam setup before test day.",
+  "hashtags": [
+   "#SAT",
+   "#SATtips",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-21-29_1.MP4"
+}

@@ -1,0 +1,42 @@
+{
+ "id": "2027-01-25_1930_R2-022",
+ "folder": "2027-01-25_1930_R2-022",
+ "publish_at": "2026-11-17T16:00:00-06:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Everyone says \"neither were.\" Don't.\n\nNeither means not either ONE. It takes a singular verb, even when a plural noun follows \"of.\"\n\nSave this for test day.",
+ "tiktok_caption": "Everyone says neither were. It's neither was.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATreading",
+  "#SATgrammar",
+  "#DigitalSAT"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satgrammar"
+ ],
+ "youtube": {
+  "title": "SAT Grammar: Neither Of Is Singular",
+  "description": "Why neither of the proposals takes the verb it does on the SAT. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATgrammar",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-20-07_1.MP4"
+}

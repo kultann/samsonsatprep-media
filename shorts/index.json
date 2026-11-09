@@ -7091,6 +7091,383 @@
   "music": "ScreenRecording_10-05-2026 17-20-07_1.MP4"
  },
  {
+  "id": "2027-03-02_0730_N06-030",
+  "folder": "2027-03-02_0730_N06-030",
+  "publish_at": "2026-11-16T07:30:00-06:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "Twice the area doesn't mean twice the side.\n\nA 12-meter side would give 144, four times the area. Find the doubled area first, then take its square root and simplify.\n\nSave this for your next area question.",
+  "tiktok_caption": "Twice the area isn't twice the side. Start from the new area.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATpractice"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satmath"
+  ],
+  "youtube": {
+   "title": "Double a Square's Area: The Side Length Trap | SAT",
+   "description": "Find the new area first, then take its square root to get the side length. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#SATmath",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-20-07_1.MP4"
+ },
+ {
+  "id": "2027-02-04_1500_T4-013",
+  "folder": "2027-02-04_1500_T4-013",
+  "publish_at": "2026-11-16T16:00:00-06:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "If module two feels harder, that's good news.\n\nThe SAT adapts by module. If Module 2 is harder, you did well on Module 1. Keep crossing out, flagging and leaving nothing blank.\n\nFollow @samsonsatprep for daily SAT tips.",
+  "tiktok_caption": "If module two feels harder, that's good news. It means you did well on module one.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#DigitalSAT",
+   "#SATtips",
+   "#StudyTips"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat"
+  ],
+  "youtube": {
+   "title": "SAT Module 2 Feels Harder? Here's Why That's Good",
+   "description": "The digital SAT adapts by module, so a harder second module means you did well on the first; keep the same strategy.",
+   "hashtags": [
+    "#SAT",
+    "#SATtips",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-20-46_1.MP4"
+ },
+ {
+  "id": "2026-12-24_1700_D1-033",
+  "folder": "2026-12-24_1700_D1-033",
+  "publish_at": "2026-11-16T19:30:00-06:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "Don't expand it. Just graph it.\n\nType y = (x − 7)(x + 3) straight into Desmos and click the vertex. No FOIL needed.\n\nComment your answer before you check.",
+  "tiktok_caption": "Factored form? Type it straight into Desmos and click the vertex.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATmath",
+   "#Desmos",
+   "#MathHacks",
+   "#DigitalSAT"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#desmos"
+  ],
+  "youtube": {
+   "title": "Vertex of a Factored Parabola in Desmos, No Expanding",
+   "description": "Graph a factored-form parabola as written and click its vertex. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#Desmos",
+    "#SATmath",
+    "#DigitalSAT"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-21-29_1.MP4"
+ },
+ {
+  "id": "2027-01-25_1930_R2-022",
+  "folder": "2027-01-25_1930_R2-022",
+  "publish_at": "2026-11-17T16:00:00-06:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "Everyone says \"neither were.\" Don't.\n\nNeither means not either ONE. It takes a singular verb, even when a plural noun follows \"of.\"\n\nSave this for test day.",
+  "tiktok_caption": "Everyone says neither were. It's neither was.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATreading",
+   "#SATgrammar",
+   "#DigitalSAT"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satgrammar"
+  ],
+  "youtube": {
+   "title": "SAT Grammar: Neither Of Is Singular",
+   "description": "Why neither of the proposals takes the verb it does on the SAT. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#SATgrammar",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-20-07_1.MP4"
+ },
+ {
+  "id": "2027-01-23_1700_D1-036",
+  "folder": "2027-01-23_1700_D1-036",
+  "publish_at": "2026-11-17T19:30:00-06:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "Decaying 15%? Don't type 0.15.\n\nA 15% loss each week keeps 85%, so the factor is 0.85. Graph y = 800(0.85)^x and y = 200, then click the crossing.\n\nSave this for test day.",
+  "tiktok_caption": "15% decay means multiply by 0.85, not 0.15. Then let Desmos find the crossing.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATmath",
+   "#Desmos",
+   "#MathHacks",
+   "#DigitalSAT"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#desmos"
+  ],
+  "youtube": {
+   "title": "Exponential Decay in Desmos: Use 0.85, Not 0.15",
+   "description": "Build the decay model with factor 0.85, graph it against y = 200, and round the crossing. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#Desmos",
+    "#SATmath",
+    "#DigitalSAT"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-15-36_1.MP4"
+ },
+ {
+  "id": "2027-04-12_1500_N14-016",
+  "folder": "2027-04-12_1500_N14-016",
+  "publish_at": "2026-11-18T07:30:00-06:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "12% of 25? Flip it.\n\na% of b always equals b% of a. So 12% of 25 is the same as 25% of 12, which is just a quarter of 12.\n\nSave this for test day.",
+  "tiktok_caption": "12% of 25? Flip it to 25% of 12.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATpractice"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satmath"
+  ],
+  "youtube": {
+   "title": "The Percent Flip Trick: 12% of 25 in 2 Seconds | SAT",
+   "description": "Two quick percent calculations using the swap trick a% of b = b% of a. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#SATmath",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-20-46_1.MP4"
+ },
+ {
+  "id": "2027-01-18_0730_C3-002",
+  "folder": "2027-01-18_0730_C3-002",
+  "publish_at": "2026-11-18T16:00:00-06:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "Your ear is matching the verb to the wrong noun.\n\n\"The list of required supplies is…\" The subject is list, not supplies. Cross out the \"of\" phrase and match the verb to what's left.\n\nComment if your ear picked \"are.\"",
+  "tiktok_caption": "Cross out the \"of\" phrase and match the verb to the real subject.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATreading",
+   "#SATgrammar",
+   "#DigitalSAT"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satgrammar"
+  ],
+  "youtube": {
+   "title": "SAT Subject-Verb Agreement: Ignore the Middle Phrase",
+   "description": "The verb matches the subject, not the nearest noun. Cross out phrases like \"of required supplies\" to find it.",
+   "hashtags": [
+    "#SAT",
+    "#SATgrammar",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-20-07_1.MP4"
+ },
+ {
+  "id": "2026-11-12_1930_R4-028",
+  "folder": "2026-11-12_1930_R4-028",
+  "publish_at": "2026-11-19T07:30:00-06:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "Concealed seems right. Her hands disagree.\n\nShe claimed she was calm, but her trembling hands gave her away. Betray can mean reveal by accident.\n\nComment your answer before you check.",
+  "tiktok_caption": "Concealed seems right. Her hands disagree.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATreading",
+   "#SATgrammar",
+   "#DigitalSAT"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satgrammar"
+  ],
+  "youtube": {
+   "title": "SAT Words in Context Trap: Concealed vs Betrayed",
+   "description": "When something gives away a hidden feeling, it betrays it. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#SATgrammar",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-20-46_1.MP4"
+ },
+ {
+  "id": "2027-02-03_1230_C1-035",
+  "folder": "2027-02-03_1230_C1-035",
+  "publish_at": "2026-11-19T16:00:00-06:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "Averaging two averages is a trap.\n\n20 students averaging 80 and 30 averaging 90 combine to (1600 + 2700)/50 = 86, not 85. The weighted average isn't on the reference sheet.\n\nSend this to a friend who's studying for the SAT.",
+  "tiktok_caption": "Averaging two averages is a trap. 20 at 80 + 30 at 90 = 86, not 85.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATpractice"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satmath"
+  ],
+  "youtube": {
+   "title": "Weighted Average on the SAT: Why It's 86, Not 85",
+   "description": "The weighted average formula isn't on the SAT reference sheet. Worked example: 20 students averaging 80 and 30 averaging 90 combine to an average of 86.",
+   "hashtags": [
+    "#SAT",
+    "#SATmath",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-19-26_1.MP4"
+ },
+ {
   "id": "2026-11-07_1700_M1-012",
   "folder": "2026-11-07_1700_M1-012",
   "publish_at": "2026-11-19T19:30:00-06:00",
@@ -7132,6 +7509,256 @@
   "tiktok_mode": "direct",
   "ai_label": true,
   "music": "ScreenRecording_10-05-2026 17-20-46_1.MP4"
+ },
+ {
+  "id": "2027-02-11_1500_C2-005",
+  "folder": "2027-02-11_1500_C2-005",
+  "publish_at": "2026-11-20T07:30:00-06:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "One number counts a quadratic's solutions.\n\nb² − 4ac: positive means two real solutions, zero means one, negative means none.\n\nComment your answer to the check question before you peek.",
+  "tiktok_caption": "One number counts a quadratic's solutions before you solve anything.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATpractice"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satmath"
+  ],
+  "youtube": {
+   "title": "The Discriminant: Count Solutions Without Solving",
+   "description": "The discriminant b² − 4ac tells you whether a quadratic has two, one, or no real solutions. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#SATmath",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-21-29_1.MP4"
+ },
+ {
+  "id": "2026-11-20_1500_T3-011",
+  "folder": "2026-11-20_1500_T3-011",
+  "publish_at": "2026-11-20T16:00:00-06:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "Skip December and you wait till March.\n\nDec 5 SAT registration closes tonight, Nov 20, at 11:59 p.m. ET. After Dec 5, the next date on the list is Mar 6.\n\nSend this to a friend who's still on the fence.",
+  "tiktok_caption": "Dec 5 SAT registration closes tonight. Next date after that: March 6.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#DigitalSAT",
+   "#SATtips",
+   "#StudyTips"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat"
+  ],
+  "youtube": {
+   "title": "Dec 5 SAT Deadline Tonight: Next Date Is March 6",
+   "description": "Registration for the December 5, 2026 SAT closes November 20 at 11:59 p.m. ET. After that, the next weekend date is March 6, 2027.",
+   "hashtags": [
+    "#SAT",
+    "#SATtips",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-20-46_1.MP4"
+ },
+ {
+  "id": "2027-01-30_0730_C2-032",
+  "folder": "2027-01-30_0730_C2-032",
+  "publish_at": "2026-11-21T07:30:00-06:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "This line predicts a 243-pound dog.\n\nw = 4m + 3 fits a puppy from 2 to 6 months, but at 60 months it predicts 243 pounds. Lines of best fit only work inside the data's range.\n\nFollow @samsonsatprep for daily SAT tips.",
+  "tiktok_caption": "This line predicts a 243-pound dog. Don't trust a line of best fit outside the data.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATpractice"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satmath"
+  ],
+  "youtube": {
+   "title": "Why You Can't Trust a Line Outside the Data",
+   "description": "A line of best fit is reliable only within the range of the data. Using it far outside that range, called extrapolation, can give absurd predictions.",
+   "hashtags": [
+    "#SAT",
+    "#SATmath",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-20-07_1.MP4"
+ },
+ {
+  "id": "2026-11-21_1500_T3-012",
+  "folder": "2026-11-21_1500_T3-012",
+  "publish_at": "2026-11-21T16:00:00-06:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "Which device are you testing on?\n\nTwo weeks before the Dec 5 SAT, pick one device, install Bluebook, and take your next practice test on it. Then put exam setup on your calendar so it's done before test day.\n\nSave this for test prep.",
+  "tiktok_caption": "2 weeks to the Dec 5 SAT: pick your testing device and practice on it.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#DigitalSAT",
+   "#SATtips",
+   "#StudyTips"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat"
+  ],
+  "youtube": {
+   "title": "Dec 5 SAT in 2 Weeks: Lock In Your Testing Device",
+   "description": "Two weeks before the December 5, 2026 SAT, choose your testing device, install Bluebook, practice on it, and plan to finish exam setup before test day.",
+   "hashtags": [
+    "#SAT",
+    "#SATtips",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-21-29_1.MP4"
+ },
+ {
+  "id": "2027-01-01_1700_M2-003",
+  "folder": "2027-01-01_1700_M2-003",
+  "publish_at": "2026-11-21T19:30:00-06:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "Don't solve for x or y.\n\nWhen the coefficients are mirror images (5 and 3, then 3 and 5), add the equations and divide. x + y falls right out.\n\nSave this for test day.",
+  "tiktok_caption": "Don't solve for x or y. Add the equations instead.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATpractice"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satmath"
+  ],
+  "youtube": {
+   "title": "SAT Shortcut: Find x + y Without Solving",
+   "description": "Add mirrored equations to get x + y directly. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#SATmath",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-20-46_1.MP4"
+ },
+ {
+  "id": "2026-12-01_1500_C2-052",
+  "folder": "2026-12-01_1500_C2-052",
+  "publish_at": "2026-11-22T07:30:00-06:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "Every tricky average problem is secretly about totals.\n\nTotal = mean × count. Find both totals, and the gap between them is the removed number.\n\nComment your answer before you check.",
+  "tiktok_caption": "Every tricky average problem is secretly about totals.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATpractice"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satmath"
+  ],
+  "youtube": {
+   "title": "Average Problems: Turn the Mean Into a Total",
+   "description": "Multiply the mean by the count to get the total, then compare totals when values are added or removed. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#SATmath",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-19-26_1.MP4"
  },
  {
   "id": "2026-11-04_1230_C3-009",

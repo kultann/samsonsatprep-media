@@ -1,0 +1,42 @@
+{
+ "id": "2027-02-03_1230_C1-035",
+ "folder": "2027-02-03_1230_C1-035",
+ "publish_at": "2026-11-19T16:00:00-06:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Averaging two averages is a trap.\n\n20 students averaging 80 and 30 averaging 90 combine to (1600 + 2700)/50 = 86, not 85. The weighted average isn't on the reference sheet.\n\nSend this to a friend who's studying for the SAT.",
+ "tiktok_caption": "Averaging two averages is a trap. 20 at 80 + 30 at 90 = 86, not 85.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATmath",
+  "#DigitalSAT",
+  "#SATpractice"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satmath"
+ ],
+ "youtube": {
+  "title": "Weighted Average on the SAT: Why It's 86, Not 85",
+  "description": "The weighted average formula isn't on the SAT reference sheet. Worked example: 20 students averaging 80 and 30 averaging 90 combine to an average of 86.",
+  "hashtags": [
+   "#SAT",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-19-26_1.MP4"
+}

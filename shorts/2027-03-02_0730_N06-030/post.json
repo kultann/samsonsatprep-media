@@ -1,0 +1,42 @@
+{
+ "id": "2027-03-02_0730_N06-030",
+ "folder": "2027-03-02_0730_N06-030",
+ "publish_at": "2026-11-16T07:30:00-06:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Twice the area doesn't mean twice the side.\n\nA 12-meter side would give 144, four times the area. Find the doubled area first, then take its square root and simplify.\n\nSave this for your next area question.",
+ "tiktok_caption": "Twice the area isn't twice the side. Start from the new area.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATmath",
+  "#DigitalSAT",
+  "#SATpractice"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satmath"
+ ],
+ "youtube": {
+  "title": "Double a Square's Area: The Side Length Trap | SAT",
+  "description": "Find the new area first, then take its square root to get the side length. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-20-07_1.MP4"
+}

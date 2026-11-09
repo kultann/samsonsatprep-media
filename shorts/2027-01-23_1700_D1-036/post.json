@@ -1,0 +1,42 @@
+{
+ "id": "2027-01-23_1700_D1-036",
+ "folder": "2027-01-23_1700_D1-036",
+ "publish_at": "2026-11-17T19:30:00-06:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Decaying 15%? Don't type 0.15.\n\nA 15% loss each week keeps 85%, so the factor is 0.85. Graph y = 800(0.85)^x and y = 200, then click the crossing.\n\nSave this for test day.",
+ "tiktok_caption": "15% decay means multiply by 0.85, not 0.15. Then let Desmos find the crossing.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATmath",
+  "#Desmos",
+  "#MathHacks",
+  "#DigitalSAT"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#desmos"
+ ],
+ "youtube": {
+  "title": "Exponential Decay in Desmos: Use 0.85, Not 0.15",
+  "description": "Build the decay model with factor 0.85, graph it against y = 200, and round the crossing. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#Desmos",
+   "#SATmath",
+   "#DigitalSAT"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-15-36_1.MP4"
+}

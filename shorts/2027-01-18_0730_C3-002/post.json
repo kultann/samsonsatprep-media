@@ -1,0 +1,42 @@
+{
+ "id": "2027-01-18_0730_C3-002",
+ "folder": "2027-01-18_0730_C3-002",
+ "publish_at": "2026-11-18T16:00:00-06:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Your ear is matching the verb to the wrong noun.\n\n\"The list of required supplies is…\" The subject is list, not supplies. Cross out the \"of\" phrase and match the verb to what's left.\n\nComment if your ear picked \"are.\"",
+ "tiktok_caption": "Cross out the \"of\" phrase and match the verb to the real subject.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATreading",
+  "#SATgrammar",
+  "#DigitalSAT"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satgrammar"
+ ],
+ "youtube": {
+  "title": "SAT Subject-Verb Agreement: Ignore the Middle Phrase",
+  "description": "The verb matches the subject, not the nearest noun. Cross out phrases like \"of required supplies\" to find it.",
+  "hashtags": [
+   "#SAT",
+   "#SATgrammar",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-20-07_1.MP4"
+}

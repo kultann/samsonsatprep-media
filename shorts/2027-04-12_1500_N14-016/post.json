@@ -1,0 +1,42 @@
+{
+ "id": "2027-04-12_1500_N14-016",
+ "folder": "2027-04-12_1500_N14-016",
+ "publish_at": "2026-11-18T07:30:00-06:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "12% of 25? Flip it.\n\na% of b always equals b% of a. So 12% of 25 is the same as 25% of 12, which is just a quarter of 12.\n\nSave this for test day.",
+ "tiktok_caption": "12% of 25? Flip it to 25% of 12.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATmath",
+  "#DigitalSAT",
+  "#SATpractice"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satmath"
+ ],
+ "youtube": {
+  "title": "The Percent Flip Trick: 12% of 25 in 2 Seconds | SAT",
+  "description": "Two quick percent calculations using the swap trick a% of b = b% of a. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-20-46_1.MP4"
+}
