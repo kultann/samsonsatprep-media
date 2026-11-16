@@ -1,0 +1,42 @@
+{
+ "id": "2026-12-31_1500_M2-036",
+ "folder": "2026-12-31_1500_M2-036",
+ "publish_at": "2026-11-29T07:30:00-06:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "12 what? Weeks or dollars?\n\nBefore interpreting a solution, name the variable and its units. Here w counts weeks, so w ≥ 12 means 12 or more weeks.\n\nComment the letter you'd pick.",
+ "tiktok_caption": "12 what? Weeks or dollars? Interpret this inequality.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATmath",
+  "#DigitalSAT",
+  "#SATpractice"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satmath"
+ ],
+ "youtube": {
+  "title": "SAT: Interpreting an Inequality's Solution in Context",
+  "description": "Name the variable and its units before choosing an interpretation. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-21-29_1.MP4"
+}

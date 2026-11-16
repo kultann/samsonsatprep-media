@@ -1,0 +1,42 @@
+{
+ "id": "2027-01-18_1500_M1-031",
+ "folder": "2027-01-18_1500_M1-031",
+ "publish_at": "2026-11-23T16:00:00-06:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Zero is a real answer. It isn't no solution.\n\n6x = 0 means x = 0, a perfectly good solution. 'No solution' only happens when you get something false, like 5 = 2.\n\nComment your answer before you check.",
+ "tiktok_caption": "6x = 0 doesn't mean no solution. x = 0 is an answer.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATmath",
+  "#DigitalSAT",
+  "#SATpractice"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satmath"
+ ],
+ "youtube": {
+  "title": "x = 0 Is a Solution: SAT Linear Equation Trap",
+  "description": "Learn the difference between x = 0 and no solution. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-15-36_1.MP4"
+}

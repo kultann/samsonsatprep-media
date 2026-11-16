@@ -1,0 +1,42 @@
+{
+ "id": "2026-11-28_1230_M2-025",
+ "folder": "2026-11-28_1230_M2-025",
+ "publish_at": "2026-11-28T07:30:00-06:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Round up on this one, and you're over budget.\n\nThe inequality gives a decimal. When there's a cap, which way does it round?\n\nComment your answer before you check.",
+ "tiktok_caption": "Round up on this one, and you're over budget. How many cupcakes?",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATmath",
+  "#DigitalSAT",
+  "#SATpractice"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satmath"
+ ],
+ "youtube": {
+  "title": "SAT Inequality Word Problem: Don't Round Up",
+  "description": "A budget inequality where rounding up breaks the limit. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-20-46_1.MP4"
+}

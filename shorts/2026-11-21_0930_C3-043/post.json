@@ -1,0 +1,42 @@
+{
+ "id": "2026-11-21_0930_C3-043",
+ "folder": "2026-11-21_0930_C3-043",
+ "publish_at": "2026-11-24T07:30:00-06:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "One tiny word flips this verb.\n\n\"The number of students has doubled\" (one total). \"A number of students have joined\" (several). Read \"the number\" as \"the total.\"\n\nSave this for test day.",
+ "tiktok_caption": "The number of = singular. A number of = plural.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATreading",
+  "#SATgrammar",
+  "#DigitalSAT"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satgrammar"
+ ],
+ "youtube": {
+  "title": "\"The Number Of\" vs. \"A Number Of\": SAT Agreement",
+  "description": "\"The number of\" is one total and takes a singular verb; \"a number of\" means several and takes a plural verb.",
+  "hashtags": [
+   "#SAT",
+   "#SATgrammar",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-20-07_1.MP4"
+}

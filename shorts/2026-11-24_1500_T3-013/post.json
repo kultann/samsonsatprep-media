@@ -1,0 +1,41 @@
+{
+ "id": "2026-11-24_1500_T3-013",
+ "folder": "2026-11-24_1500_T3-013",
+ "publish_at": "2026-11-24T16:00:00-06:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Beat the deadline before Thanksgiving hits.\n\nLate registration for the Dec 5 SAT closes tonight, Nov 24, at 11:59 p.m. ET. Then use the long weekend for one full Bluebook practice test.\n\nSend this to a friend who hasn't registered.",
+ "tiktok_caption": "Late registration for the Dec 5 SAT closes tonight. Register, then practice over the long weekend.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#DigitalSAT",
+  "#SATtips",
+  "#StudyTips"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat"
+ ],
+ "youtube": {
+  "title": "Dec 5 SAT Late Registration Closes Tonight",
+  "description": "Late registration for the December 5, 2026 SAT closes November 24 at 11:59 p.m. ET. Register, then use the holiday weekend for a full practice test.",
+  "hashtags": [
+   "#SAT",
+   "#SATtips",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-18-18_1.mov"
+}

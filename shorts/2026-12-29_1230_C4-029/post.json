@@ -1,0 +1,42 @@
+{
+ "id": "2026-12-29_1230_C4-029",
+ "folder": "2026-12-29_1230_C4-029",
+ "publish_at": "2026-11-25T07:30:00-06:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Stuck between two choices? Find the one word that's different.\n\nLine the two choices up word by word. The one word that differs is the one to check against the text.\n\nComment your answer before you check.",
+ "tiktok_caption": "Stuck between two answers? Find the one word that's different.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATreading",
+  "#SATgrammar",
+  "#DigitalSAT"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satgrammar"
+ ],
+ "youtube": {
+  "title": "SAT Reading: Stuck Between Two Answers? Compare Words",
+  "description": "Line up two close choices word by word and test the one word that differs. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATgrammar",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-19-26_1.MP4"
+}

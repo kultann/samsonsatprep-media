@@ -1,0 +1,42 @@
+{
+ "id": "2027-02-16_2130_M3-004",
+ "folder": "2027-02-16_2130_M3-004",
+ "publish_at": "2026-11-24T19:30:00-06:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Most people solve this, then answer the wrong variable.\n\nSet the equations equal, solve for x, then plug back in for y.\n\nComment your answer before you check.",
+ "tiktok_caption": "Solved it? Make sure you answered for the right variable.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATmath",
+  "#DigitalSAT",
+  "#SATpractice"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satmath"
+ ],
+ "youtube": {
+  "title": "SAT Line and Parabola System: Find the y-Value",
+  "description": "Set a linear and a quadratic expression equal to find where the graphs intersect. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-18-18_1.mov"
+}
