@@ -1,0 +1,41 @@
+{
+ "id": "2026-12-04_1500_T3-018",
+ "folder": "2026-12-04_1500_T3-018",
+ "publish_at": "2026-12-04T16:00:00-06:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "The night before the Dec 5 SAT, pack your break snack.\n\nYou get one 10-minute break between the two sections. Snacks and drinks are optional on the bring list, so they're easy to forget. Pack them tonight.\n\nSave this for tonight.",
+ "tiktok_caption": "The night before the Dec 5 SAT, pack your break snack and water.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#DigitalSAT",
+  "#SATtips",
+  "#StudyTips"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat"
+ ],
+ "youtube": {
+  "title": "Night Before the SAT: Pack Your Break Snack",
+  "description": "The night before the December 5, 2026 SAT, pack a quick snack and a drink for the one 10-minute break between sections.",
+  "hashtags": [
+   "#SAT",
+   "#SATtips",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-20-07_1.MP4"
+}

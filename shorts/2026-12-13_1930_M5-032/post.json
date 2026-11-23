@@ -1,0 +1,42 @@
+{
+ "id": "2026-12-13_1930_M5-032",
+ "folder": "2026-12-13_1930_M5-032",
+ "publish_at": "2026-12-05T16:00:00-06:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Up 60%? Down 60% won't fix it.\n\nThe decrease is measured from the higher price, so it's a smaller percent.\n\nComment your answer before you check.",
+ "tiktok_caption": "Up 60%? Down 60% won't fix it. Undo a 60% increase with a 37.5% decrease.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATmath",
+  "#DigitalSAT",
+  "#SATpractice"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satmath"
+ ],
+ "youtube": {
+  "title": "SAT Trap: Percent Decrease to Undo an Increase",
+  "description": "A decrease starts from the new, larger price. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-19-26_1.MP4"
+}

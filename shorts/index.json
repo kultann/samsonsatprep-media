@@ -8435,6 +8435,173 @@
   "music": "ScreenRecording_10-05-2026 17-20-07_1.MP4"
  },
  {
+  "id": "2026-11-30_1500_T3-015",
+  "folder": "2026-11-30_1500_T3-015",
+  "publish_at": "2026-11-30T16:00:00-06:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "On test day, stop guessing which Module 2 you got.\n\nModule 2 is set harder or easier based on Module 1, but Module 1 is locked by then. Whichever you get, the job is the same: keep your pace, answer everything, mark and revisit.\n\nFollow @samsonsatprep for daily SAT tips.",
+  "tiktok_caption": "On test day, stop guessing which Module 2 you got. Dec 5 SAT: same job either way.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#DigitalSAT",
+   "#SATtips",
+   "#StudyTips"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat"
+  ],
+  "youtube": {
+   "title": "Don't Try to Decode Your SAT Module 2",
+   "description": "The digital SAT's second module adapts to how you did on the first, but guessing which version you got only burns focus. A reminder five days before the December 5, 2026 SAT.",
+   "hashtags": [
+    "#SAT",
+    "#SATtips",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-18-18_1.mov"
+ },
+ {
+  "id": "2026-11-27_2130_M6-017",
+  "folder": "2026-11-27_2130_M6-017",
+  "publish_at": "2026-11-30T19:30:00-06:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "Overestimate means above or below?\n\nIf the prediction is too high, the actual point sits below the line.\n\nComment your answer before you check.",
+  "tiktok_caption": "Does overestimate mean the point is above or below the line?",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATpractice"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satmath"
+  ],
+  "youtube": {
+   "title": "SAT Math: When Does a Best Fit Line Overestimate?",
+   "description": "Count the data points a line of best fit overestimates. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#SATmath",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-18-18_1.mov"
+ },
+ {
+  "id": "2026-12-05_1500_M5-012",
+  "folder": "2026-12-05_1500_M5-012",
+  "publish_at": "2026-12-01T07:30:00-06:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "More pancakes, but less sugar? Something's off.\n\nScale factor = new ÷ old. A bigger batch always needs more.\n\nSave this for test day.",
+  "tiktok_caption": "More pancakes, but less sugar? Something's off. Scale factor is new over old.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATpractice"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satmath"
+  ],
+  "youtube": {
+   "title": "SAT Proportion Mistake: Scaling a Recipe",
+   "description": "A student flips the scale factor. Find the wrong step and fix it. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#SATmath",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-20-46_1.MP4"
+ },
+ {
+  "id": "2027-03-23_1500_N07-006",
+  "folder": "2027-03-23_1500_N07-006",
+  "publish_at": "2026-12-01T16:00:00-06:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "That however makes the comma feel safe. It isn't.\n\nTwo full sentences meet at the blank. The however sits inside sentence two, so it can't hold them together. Use a semicolon.\n\nFollow @samsonsatprep for daily SAT tips.",
+  "tiktok_caption": "That however makes the comma feel safe. It's still a comma splice.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATreading",
+   "#SATgrammar",
+   "#DigitalSAT"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satgrammar"
+  ],
+  "youtube": {
+   "title": "Comma Splice Hiding Behind 'However' (SAT Trap)",
+   "description": "A however inside the second clause can't join two sentences, so the comma is still a splice. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#SATgrammar",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-20-07_1.MP4"
+ },
+ {
   "id": "2026-11-08_1700_M4-036",
   "folder": "2026-11-08_1700_M4-036",
   "publish_at": "2026-12-01T19:30:00-06:00",
@@ -8476,6 +8643,631 @@
   "tiktok_mode": "direct",
   "ai_label": true,
   "music": "ScreenRecording_10-05-2026 17-21-29_1.MP4"
+ },
+ {
+  "id": "2027-01-31_0930_M5-021",
+  "folder": "2027-01-31_0930_M5-021",
+  "publish_at": "2026-12-02T07:30:00-06:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "0.5% is not one half.\n\n0.5% = 0.005. Quick check: find 1% first, then halve it.\n\nSave this for test day.",
+  "tiktok_caption": "0.5% is not one half. It's 0.005.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATpractice"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satmath"
+  ],
+  "youtube": {
+   "title": "SAT Percent Trap: What Is 0.5% of a Number?",
+   "description": "Percent means per hundred, so 0.5% is 0.005. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#SATmath",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-21-29_1.MP4"
+ },
+ {
+  "id": "2026-12-02_1500_T3-016",
+  "folder": "2026-12-02_1500_T3-016",
+  "publish_at": "2026-12-02T16:00:00-06:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "Bringing a calculator to the Dec 5 SAT? Test it today.\n\nCalculators are allowed on all of SAT Math, and Desmos is built into Bluebook. If you bring your own acceptable calculator, check it and its batteries now.\n\nSave this for test week.",
+  "tiktok_caption": "Bringing a calculator to the Dec 5 SAT? Test it today. Desmos is your backup.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#DigitalSAT",
+   "#SATtips",
+   "#StudyTips"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat"
+  ],
+  "youtube": {
+   "title": "Bringing a Calculator to the SAT? Test It Today",
+   "description": "Three days before the December 5, 2026 SAT, check your acceptable calculator and practice in Bluebook's built-in Desmos as a backup.",
+   "hashtags": [
+    "#SAT",
+    "#SATtips",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-19-26_1.MP4"
+ },
+ {
+  "id": "2027-02-14_2130_M6-021",
+  "folder": "2027-02-14_2130_M6-021",
+  "publish_at": "2026-12-02T19:30:00-06:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "One cell. Three possible denominators.\n\n54 could go over 150, 96 or 90. The word \"given\" decides which.\n\nComment your answer before you check.",
+  "tiktok_caption": "One cell, three possible denominators. Which one is right?",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATpractice"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satmath"
+  ],
+  "youtube": {
+   "title": "SAT Math: Pick the Right Denominator in a Two-Way Table",
+   "description": "Find a conditional probability when the given group is a row of a two-way table. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#SATmath",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-21-29_1.MP4"
+ },
+ {
+  "id": "2026-11-29_1930_M5-024",
+  "folder": "2026-11-29_1930_M5-024",
+  "publish_at": "2026-12-03T07:30:00-06:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "Undoing a discount? Don't add it back.\n\nAfter 15% off, the price is 85% of the original. Divide by 0.85.\n\nSave this for test day.",
+  "tiktok_caption": "Undoing a discount? Don't add it back. Divide by 0.85, don't multiply by 1.15.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATpractice"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satmath"
+  ],
+  "youtube": {
+   "title": "SAT Reverse Percent Trap: Find the Original Price",
+   "description": "The discount came off the original price, so divide by the multiplier. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#SATmath",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-19-26_1.MP4"
+ },
+ {
+  "id": "2026-12-03_1500_T3-017",
+  "folder": "2026-12-03_1500_T3-017",
+  "publish_at": "2026-12-03T16:00:00-06:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "Two days before the Dec 5 SAT, print your admission ticket.\n\nYour admission ticket comes from Bluebook and a printed copy is preferred. Print it and pack it next to your photo ID.\n\nSend this to a friend testing Saturday.",
+  "tiktok_caption": "Two days before the Dec 5 SAT, print your admission ticket and pack it with your ID.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#DigitalSAT",
+   "#SATtips",
+   "#StudyTips"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat"
+  ],
+  "youtube": {
+   "title": "SAT Admission Ticket: Print It 2 Days Before",
+   "description": "Two days before the December 5, 2026 SAT, finish exam setup in Bluebook, print your admission ticket, and pack it with your photo ID.",
+   "hashtags": [
+    "#SAT",
+    "#SATtips",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-19-26_1.MP4"
+ },
+ {
+  "id": "2027-01-16_1700_M6-040",
+  "folder": "2027-01-16_1700_M6-040",
+  "publish_at": "2026-12-03T19:30:00-06:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "Pick the right line in 10 seconds.\n\nTwo checks: Is the data rising or falling? Where does it start when x = 0?\n\nSave this for test day.",
+  "tiktok_caption": "Pick the right best-fit line in 10 seconds with two checks.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATpractice"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satmath"
+  ],
+  "youtube": {
+   "title": "SAT Math: Match a Linear Model to a Data Table",
+   "description": "Pick the best linear model for a table using the slope sign and the intercept. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#SATmath",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-21-29_1.MP4"
+ },
+ {
+  "id": "2026-12-17_1930_M5-027",
+  "folder": "2026-12-17_1930_M5-027",
+  "publish_at": "2026-12-04T07:30:00-06:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "Two percentage points isn't the same as two percent.\n\nFrom 8% to 10% is up 2 percentage points, but the percent increase divides that change by the starting 8.\n\nFollow @samsonsatprep for daily SAT tips.",
+  "tiktok_caption": "2 points isn't 2 percent. Divide the change by where you started.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATpractice"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satmath"
+  ],
+  "youtube": {
+   "title": "Percentage Points vs Percent: SAT Trap",
+   "description": "Percentage points subtract; percent change divides by the start. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#SATmath",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-15-36_1.MP4"
+ },
+ {
+  "id": "2026-12-04_1500_T3-018",
+  "folder": "2026-12-04_1500_T3-018",
+  "publish_at": "2026-12-04T16:00:00-06:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "The night before the Dec 5 SAT, pack your break snack.\n\nYou get one 10-minute break between the two sections. Snacks and drinks are optional on the bring list, so they're easy to forget. Pack them tonight.\n\nSave this for tonight.",
+  "tiktok_caption": "The night before the Dec 5 SAT, pack your break snack and water.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#DigitalSAT",
+   "#SATtips",
+   "#StudyTips"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat"
+  ],
+  "youtube": {
+   "title": "Night Before the SAT: Pack Your Break Snack",
+   "description": "The night before the December 5, 2026 SAT, pack a quick snack and a drink for the one 10-minute break between sections.",
+   "hashtags": [
+    "#SAT",
+    "#SATtips",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-20-07_1.MP4"
+ },
+ {
+  "id": "2027-01-20_2130_M7-028",
+  "folder": "2027-01-20_2130_M7-028",
+  "publish_at": "2026-12-04T19:30:00-06:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "Sine equals cosine? The angles add up.\n\nsin x° = cos(90 − x)°, so when sine of one acute angle equals cosine of another, they sum to 90°.\n\nComment your answer before you check.",
+  "tiktok_caption": "Sine equals cosine? Then the angles add to 90.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATpractice"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satmath"
+  ],
+  "youtube": {
+   "title": "When Sine Equals Cosine: Complementary Angles | SAT Trig",
+   "description": "Use sin x = cos(90 − x) to solve for k. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#SATmath",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-21-29_1.MP4"
+ },
+ {
+  "id": "2026-12-05_0600_T3-019",
+  "folder": "2026-12-05_0600_T3-019",
+  "publish_at": "2026-12-05T06:00:00-06:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "Today, on the Dec 5 SAT, don't leave a single blank.\n\nThere's no penalty for wrong answers. Guess right away, mark it for review, and fill every blank before the module ends, because you can't go back.\n\nGood luck today. Follow @samsonsatprep for more.",
+  "tiktok_caption": "Today, on the Dec 5 SAT, don't leave a single blank. No penalty for wrong answers.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#DigitalSAT",
+   "#SATtips",
+   "#StudyTips"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat"
+  ],
+  "youtube": {
+   "title": "SAT Test Day Rule: Never Leave a Blank",
+   "description": "On the December 5, 2026 SAT there's no penalty for wrong answers, so guess, mark for review, and fill every blank before each module ends.",
+   "hashtags": [
+    "#SAT",
+    "#SATtips",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-18-18_1.mov"
+ },
+ {
+  "id": "2026-12-13_1930_M5-032",
+  "folder": "2026-12-13_1930_M5-032",
+  "publish_at": "2026-12-05T16:00:00-06:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "Up 60%? Down 60% won't fix it.\n\nThe decrease is measured from the higher price, so it's a smaller percent.\n\nComment your answer before you check.",
+  "tiktok_caption": "Up 60%? Down 60% won't fix it. Undo a 60% increase with a 37.5% decrease.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATpractice"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satmath"
+  ],
+  "youtube": {
+   "title": "SAT Trap: Percent Decrease to Undo an Increase",
+   "description": "A decrease starts from the new, larger price. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#SATmath",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-19-26_1.MP4"
+ },
+ {
+  "id": "2026-12-28_1700_M7-033",
+  "folder": "2026-12-28_1700_M7-033",
+  "publish_at": "2026-12-05T19:30:00-06:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "The altitude isn't 5. It's shorter.\n\nCompute the area with the legs, then again with the hypotenuse as the base. Solve for h.\n\nComment your answer before you check.",
+  "tiktok_caption": "The altitude isn't 5. Use the area twice.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATpractice"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satmath"
+  ],
+  "youtube": {
+   "title": "Altitude to the Hypotenuse: Area Two Ways | SAT Math",
+   "description": "Find the altitude of a right triangle by writing its area two ways. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#SATmath",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-20-07_1.MP4"
+ },
+ {
+  "id": "2027-01-28_1930_M5-035",
+  "folder": "2027-01-28_1930_M5-035",
+  "publish_at": "2026-12-06T07:30:00-06:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "The whole changed here. Most people miss it.\n\nWhen new people join, recount both the part and the total before you divide.\n\nComment your answer before you check.",
+  "tiktok_caption": "The whole changed. Most people miss it. Recount the part and the whole.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATpractice"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satmath"
+  ],
+  "youtube": {
+   "title": "SAT Percent Trap: When the Total Changes",
+   "description": "If the total changes, recount before you divide. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#SATmath",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-15-36_1.MP4"
+ },
+ {
+  "id": "2026-12-06_1500_T3-020",
+  "folder": "2026-12-06_1500_T3-020",
+  "publish_at": "2026-12-06T16:00:00-06:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "Testing again after Dec 5? It's March or May.\n\nMar 6 (register by Feb 19) or May 1 (register by Apr 16). Count how many weekends you can give to full Bluebook practice tests, then pick.\n\nComment March or May.",
+  "tiktok_caption": "Testing again after Dec 5? It's March or May. Here's how to pick.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#DigitalSAT",
+   "#SATtips",
+   "#StudyTips"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat"
+  ],
+  "youtube": {
+   "title": "After the Dec 5 SAT: March 6 or May 1?",
+   "description": "The next SAT dates after December 5, 2026 are March 6 and May 1, 2027. Pick based on how many practice weekends you can fit in.",
+   "hashtags": [
+    "#SAT",
+    "#SATtips",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-21-29_1.MP4"
+ },
+ {
+  "id": "2027-04-18_2130_N01-015",
+  "folder": "2027-04-18_2130_N01-015",
+  "publish_at": "2026-12-06T19:30:00-06:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "When does it land? Click the axis.\n\nGraph the height function in Desmos. Landing means height 0, so click the positive x-intercept. The vertex answers a different question.\n\nComment your answer before you check.",
+  "tiktok_caption": "Projectile landing time = the positive x-intercept. Click it in Desmos.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATmath",
+   "#Desmos",
+   "#MathHacks",
+   "#DigitalSAT"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#desmos"
+  ],
+  "youtube": {
+   "title": "Projectile Landing Time: Click the x-Intercept in Desmos",
+   "description": "Graph the height function and click the positive x-intercept to find when the ball lands. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#Desmos",
+    "#SATmath",
+    "#DigitalSAT"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-18-18_1.mov"
  },
  {
   "id": "2026-11-02_1500_P0-022",

@@ -1,0 +1,41 @@
+{
+ "id": "2026-11-30_1500_T3-015",
+ "folder": "2026-11-30_1500_T3-015",
+ "publish_at": "2026-11-30T16:00:00-06:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "On test day, stop guessing which Module 2 you got.\n\nModule 2 is set harder or easier based on Module 1, but Module 1 is locked by then. Whichever you get, the job is the same: keep your pace, answer everything, mark and revisit.\n\nFollow @samsonsatprep for daily SAT tips.",
+ "tiktok_caption": "On test day, stop guessing which Module 2 you got. Dec 5 SAT: same job either way.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#DigitalSAT",
+  "#SATtips",
+  "#StudyTips"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat"
+ ],
+ "youtube": {
+  "title": "Don't Try to Decode Your SAT Module 2",
+  "description": "The digital SAT's second module adapts to how you did on the first, but guessing which version you got only burns focus. A reminder five days before the December 5, 2026 SAT.",
+  "hashtags": [
+   "#SAT",
+   "#SATtips",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-18-18_1.mov"
+}

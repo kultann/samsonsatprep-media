@@ -1,0 +1,42 @@
+{
+ "id": "2027-03-23_1500_N07-006",
+ "folder": "2027-03-23_1500_N07-006",
+ "publish_at": "2026-12-01T16:00:00-06:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "That however makes the comma feel safe. It isn't.\n\nTwo full sentences meet at the blank. The however sits inside sentence two, so it can't hold them together. Use a semicolon.\n\nFollow @samsonsatprep for daily SAT tips.",
+ "tiktok_caption": "That however makes the comma feel safe. It's still a comma splice.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATreading",
+  "#SATgrammar",
+  "#DigitalSAT"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satgrammar"
+ ],
+ "youtube": {
+  "title": "Comma Splice Hiding Behind 'However' (SAT Trap)",
+  "description": "A however inside the second clause can't join two sentences, so the comma is still a splice. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATgrammar",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-20-07_1.MP4"
+}

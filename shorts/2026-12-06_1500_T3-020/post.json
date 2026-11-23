@@ -1,0 +1,41 @@
+{
+ "id": "2026-12-06_1500_T3-020",
+ "folder": "2026-12-06_1500_T3-020",
+ "publish_at": "2026-12-06T16:00:00-06:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Testing again after Dec 5? It's March or May.\n\nMar 6 (register by Feb 19) or May 1 (register by Apr 16). Count how many weekends you can give to full Bluebook practice tests, then pick.\n\nComment March or May.",
+ "tiktok_caption": "Testing again after Dec 5? It's March or May. Here's how to pick.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#DigitalSAT",
+  "#SATtips",
+  "#StudyTips"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat"
+ ],
+ "youtube": {
+  "title": "After the Dec 5 SAT: March 6 or May 1?",
+  "description": "The next SAT dates after December 5, 2026 are March 6 and May 1, 2027. Pick based on how many practice weekends you can fit in.",
+  "hashtags": [
+   "#SAT",
+   "#SATtips",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-21-29_1.MP4"
+}

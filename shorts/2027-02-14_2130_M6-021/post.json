@@ -1,0 +1,42 @@
+{
+ "id": "2027-02-14_2130_M6-021",
+ "folder": "2027-02-14_2130_M6-021",
+ "publish_at": "2026-12-02T19:30:00-06:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "One cell. Three possible denominators.\n\n54 could go over 150, 96 or 90. The word \"given\" decides which.\n\nComment your answer before you check.",
+ "tiktok_caption": "One cell, three possible denominators. Which one is right?",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATmath",
+  "#DigitalSAT",
+  "#SATpractice"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satmath"
+ ],
+ "youtube": {
+  "title": "SAT Math: Pick the Right Denominator in a Two-Way Table",
+  "description": "Find a conditional probability when the given group is a row of a two-way table. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-21-29_1.MP4"
+}

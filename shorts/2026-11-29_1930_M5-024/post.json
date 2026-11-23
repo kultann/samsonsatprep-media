@@ -1,0 +1,42 @@
+{
+ "id": "2026-11-29_1930_M5-024",
+ "folder": "2026-11-29_1930_M5-024",
+ "publish_at": "2026-12-03T07:30:00-06:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Undoing a discount? Don't add it back.\n\nAfter 15% off, the price is 85% of the original. Divide by 0.85.\n\nSave this for test day.",
+ "tiktok_caption": "Undoing a discount? Don't add it back. Divide by 0.85, don't multiply by 1.15.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATmath",
+  "#DigitalSAT",
+  "#SATpractice"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satmath"
+ ],
+ "youtube": {
+  "title": "SAT Reverse Percent Trap: Find the Original Price",
+  "description": "The discount came off the original price, so divide by the multiplier. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-19-26_1.MP4"
+}

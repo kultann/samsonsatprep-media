@@ -1,0 +1,42 @@
+{
+ "id": "2027-01-28_1930_M5-035",
+ "folder": "2027-01-28_1930_M5-035",
+ "publish_at": "2026-12-06T07:30:00-06:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "The whole changed here. Most people miss it.\n\nWhen new people join, recount both the part and the total before you divide.\n\nComment your answer before you check.",
+ "tiktok_caption": "The whole changed. Most people miss it. Recount the part and the whole.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATmath",
+  "#DigitalSAT",
+  "#SATpractice"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satmath"
+ ],
+ "youtube": {
+  "title": "SAT Percent Trap: When the Total Changes",
+  "description": "If the total changes, recount before you divide. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-15-36_1.MP4"
+}

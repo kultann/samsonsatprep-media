@@ -1,0 +1,42 @@
+{
+ "id": "2026-12-05_1500_M5-012",
+ "folder": "2026-12-05_1500_M5-012",
+ "publish_at": "2026-12-01T07:30:00-06:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "More pancakes, but less sugar? Something's off.\n\nScale factor = new ÷ old. A bigger batch always needs more.\n\nSave this for test day.",
+ "tiktok_caption": "More pancakes, but less sugar? Something's off. Scale factor is new over old.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATmath",
+  "#DigitalSAT",
+  "#SATpractice"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satmath"
+ ],
+ "youtube": {
+  "title": "SAT Proportion Mistake: Scaling a Recipe",
+  "description": "A student flips the scale factor. Find the wrong step and fix it. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-20-46_1.MP4"
+}
