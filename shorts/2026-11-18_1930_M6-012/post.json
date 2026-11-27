@@ -1,0 +1,42 @@
+{
+ "id": "2026-11-18_1930_M6-012",
+ "folder": "2026-11-18_1930_M6-012",
+ "publish_at": "2026-12-07T07:30:00-06:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "B sounds right. One word kills it.\n\nA line of best fit predicts. It never promises that every car loses exactly $1,450 a year.\n\nComment the word that kills B.",
+ "tiktok_caption": "B sounds right. One word makes it wrong. Can you spot it?",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATmath",
+  "#DigitalSAT",
+  "#SATpractice"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satmath"
+ ],
+ "youtube": {
+  "title": "SAT Math: Interpret the Slope of a Line of Best Fit",
+  "description": "Why 'exactly' makes a slope interpretation wrong for a line of best fit. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "original lo-fi bed"
+}

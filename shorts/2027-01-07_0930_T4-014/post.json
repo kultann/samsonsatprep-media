@@ -1,0 +1,41 @@
+{
+ "id": "2027-01-07_0930_T4-014",
+ "folder": "2027-01-07_0930_T4-014",
+ "publish_at": "2026-12-10T16:00:00-06:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "On punctuation questions, don't stop reading at the blank.\n\n\"The museum closed in March ___ reopening in June\" takes a comma. \"The museum closed in March ___ it reopened in June\" needs a semicolon or period. Same start, different answer.\n\nSave this for your next practice test.",
+ "tiktok_caption": "Don't stop reading at the blank. On SAT punctuation, the ending decides.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#DigitalSAT",
+  "#SATtips",
+  "#StudyTips"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat"
+ ],
+ "youtube": {
+  "title": "SAT Grammar Tip: Read Past the Blank on Punctuation",
+  "description": "On digital SAT punctuation questions, what comes after the blank decides between a comma and a semicolon or period.",
+  "hashtags": [
+   "#SAT",
+   "#SATtips",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "original lo-fi bed"
+}
