@@ -1,0 +1,42 @@
+{
+ "id": "2027-01-14_1930_M6-019",
+ "folder": "2027-01-14_1930_M6-019",
+ "publish_at": "2026-12-09T07:30:00-06:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "0.85 doesn't mean 85% gone.\n\nA factor of 0.85 keeps 85% each year, so the decrease is 15% per year.\n\nSave this for test day.",
+ "tiktok_caption": "0.85 doesn't mean 85% gone. It means 15% gone.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATmath",
+  "#DigitalSAT",
+  "#SATpractice"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satmath"
+ ],
+ "youtube": {
+  "title": "SAT Math: Interpret an Exponential Decay Factor",
+  "description": "Interpret the base of an exponential model fit to data. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "original lo-fi bed"
+}

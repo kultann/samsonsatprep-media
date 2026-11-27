@@ -9518,7 +9518,510 @@
   },
   "tiktok_mode": "direct",
   "ai_label": true,
-  "music": "ScreenRecording_10-05-2026 17-21-29_1.MP4"
+  "music": "original lo-fi bed"
+ },
+ {
+  "id": "2027-04-18_1700_N01-021",
+  "folder": "2027-04-18_1700_N01-021",
+  "publish_at": "2026-12-07T19:30:00-06:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "Two percents? Work backward with a graph.\n\nGraph y = 1.15 · 1.08x and y = 99.36 in Desmos and click the crossing. Percents multiply, so you undo them by dividing, not subtracting.\n\nComment your answer before you check.",
+  "tiktok_caption": "Markup then tax? Graph the forward chain and the total, click the crossing.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATmath",
+   "#Desmos",
+   "#MathHacks",
+   "#DigitalSAT"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#desmos"
+  ],
+  "youtube": {
+   "title": "Reverse a Markup and Sales Tax With Desmos",
+   "description": "Graph the price after both percent increases against the total paid to find the original price. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#Desmos",
+    "#SATmath",
+    "#DigitalSAT"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "original lo-fi bed"
+ },
+ {
+  "id": "2027-01-01_1930_M6-016",
+  "folder": "2027-01-01_1930_M6-016",
+  "publish_at": "2026-12-08T07:30:00-06:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "Looks linear. It's not.\n\nCheck the ratios, not just the jumps: 600/500 = 720/600 = 1.2.\n\nSave this for test day.",
+  "tiktok_caption": "This table looks linear. Check the ratios.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATpractice"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satmath"
+  ],
+  "youtube": {
+   "title": "SAT Math: Linear or Exponential Model From a Table",
+   "description": "Decide between a linear and an exponential model by checking differences and ratios. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#SATmath",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "original lo-fi bed"
+ },
+ {
+  "id": "2027-02-12_0730_T1-003",
+  "folder": "2027-02-12_0730_T1-003",
+  "publish_at": "2026-12-08T16:00:00-06:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "Don't type 2 3/4 into the SAT answer box.\n\nMixed numbers aren't allowed. Type 11/4 or 2.75 instead.\n\nSave this before your next practice test.",
+  "tiktok_caption": "Don't type 2 3/4 into the SAT answer box. Type 11/4 or 2.75.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#DigitalSAT",
+   "#SATtips",
+   "#StudyTips"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat"
+  ],
+  "youtube": {
+   "title": "SAT Answer Box: Never Type Mixed Numbers",
+   "description": "On student-produced response questions, mixed numbers aren't allowed, so enter 2 3/4 as 11/4 or 2.75.",
+   "hashtags": [
+    "#SAT",
+    "#SATtips",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "original lo-fi bed"
+ },
+ {
+  "id": "2027-04-16_1700_N01-031",
+  "folder": "2027-04-16_1700_N01-031",
+  "publish_at": "2026-12-08T19:30:00-06:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "That touch point is a solution too.\n\nGraph the circle and the parabola in Desmos. Two crossings are obvious; the third solution is where the parabola's vertex touches the bottom of the circle.\n\nComment your answer before you check.",
+  "tiktok_caption": "Circle meets parabola: count the crossings AND the touch point.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATmath",
+   "#Desmos",
+   "#MathHacks",
+   "#DigitalSAT"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#desmos"
+  ],
+  "youtube": {
+   "title": "Circle and Parabola System: Count Every Solution in Desmos",
+   "description": "Graph a circle and a parabola and count every intersection, including a tangent point. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#Desmos",
+    "#SATmath",
+    "#DigitalSAT"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "original lo-fi bed"
+ },
+ {
+  "id": "2027-01-14_1930_M6-019",
+  "folder": "2027-01-14_1930_M6-019",
+  "publish_at": "2026-12-09T07:30:00-06:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "0.85 doesn't mean 85% gone.\n\nA factor of 0.85 keeps 85% each year, so the decrease is 15% per year.\n\nSave this for test day.",
+  "tiktok_caption": "0.85 doesn't mean 85% gone. It means 15% gone.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATpractice"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satmath"
+  ],
+  "youtube": {
+   "title": "SAT Math: Interpret an Exponential Decay Factor",
+   "description": "Interpret the base of an exponential model fit to data. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#SATmath",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "original lo-fi bed"
+ },
+ {
+  "id": "2026-11-23_0930_R2-003",
+  "folder": "2026-11-23_0930_R2-003",
+  "publish_at": "2026-12-09T16:00:00-06:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "One word in this sentence is wrong.\n\nWhen dashes interrupt, read the sentence without them. Then match the verb to its real subject.\n\nSave this for test day.",
+  "tiktok_caption": "Dashes hide the subject. Read around them.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATreading",
+   "#SATgrammar",
+   "#DigitalSAT"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satgrammar"
+  ],
+  "youtube": {
+   "title": "SAT Grammar: Subject-Verb Agreement With Dashes",
+   "description": "Spot the error: a verb that agrees with the wrong noun inside a dash interruption. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#SATgrammar",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "original lo-fi bed"
+ },
+ {
+  "id": "2027-03-14_2130_N02-003",
+  "folder": "2027-03-14_2130_N02-003",
+  "publish_at": "2026-12-09T19:30:00-06:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "Biggest minus biggest won't give you the biggest difference.\n\nTo make 3x − 2y as big as possible, push x to its max and y to its min, since subtracting a negative adds. Plugging in 7 and 2 gives only 17.\n\nComment the greatest value you can make.",
+  "tiktok_caption": "Greatest value of 3x − 2y? Biggest minus biggest is the trap.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATpractice"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satmath"
+  ],
+  "youtube": {
+   "title": "Greatest Value of 3x − 2y From Two Ranges (SAT)",
+   "description": "Pair the maximum of one variable with the minimum of the other to maximize a difference. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#SATmath",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "original lo-fi bed"
+ },
+ {
+  "id": "2027-01-13_1230_M7-002",
+  "folder": "2027-01-13_1230_M7-002",
+  "publish_at": "2026-12-10T07:30:00-06:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "Everyone picks 120 here. Wrong.\n\nBoth the length and the width grow by 2.5, so the area grows by 2.5², not 2.5. Multiply 48 by that.\n\nComment your answer before you check.",
+  "tiktok_caption": "Everyone picks 120 here. Area scales by k squared.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATpractice"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satmath"
+  ],
+  "youtube": {
+   "title": "Scale Factor and Area: Why 120 Is Wrong | SAT Math",
+   "description": "When every length is multiplied by k, area is multiplied by k squared. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#SATmath",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "original lo-fi bed"
+ },
+ {
+  "id": "2027-03-23_2130_N02-016",
+  "folder": "2027-03-23_2130_N02-016",
+  "publish_at": "2026-12-10T19:30:00-06:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "Most people find one answer here, but there are two.\n\nf(g(x)) = (2x + 1)² − 3 = 22 means (2x + 1)² = 25, so 2x + 1 = 5 or −5: x = 2 or x = −3.\n\nComment your answer before you check.",
+  "tiktok_caption": "f(g(x)) = 22. Most people find one answer. There are two.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATpractice"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satmath"
+  ],
+  "youtube": {
+   "title": "Solve f(g(x)) = 22: Don't Miss the Second Answer",
+   "description": "Substitute g into f, then use both square roots. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#SATmath",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "original lo-fi bed"
+ },
+ {
+  "id": "2027-01-22_1500_M7-005",
+  "folder": "2027-01-22_1500_M7-005",
+  "publish_at": "2026-12-11T07:30:00-06:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "This cone isn't shorter than the cylinder. It's taller.\n\nA cone holds 1/3 of a matching cylinder, so to hold the same volume it needs 3 times the height.\n\nComment your answer before you check.",
+  "tiktok_caption": "Same radius, same volume: the cone is 3 times taller.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATpractice"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satmath"
+  ],
+  "youtube": {
+   "title": "Cone vs Cylinder With Equal Volume | SAT Geometry",
+   "description": "Set (1/3)πr²h equal to πr²h and see why the cone must be taller. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#SATmath",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "original lo-fi bed"
+ },
+ {
+  "id": "2026-12-13_1500_C3-008",
+  "folder": "2026-12-13_1500_C3-008",
+  "publish_at": "2026-12-11T16:00:00-06:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "\"Between you and I\" is wrong.\n\nAfter to, for, with, or between, use me/him/her/us/them. Drop the other person: \"to Priya and I\" → \"to I\"? Nope. It's \"to Priya and me.\"\n\nSend this to a friend who says \"between you and I.\"",
+  "tiktok_caption": "\"Between you and I\" is wrong. Drop the other person to check.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATreading",
+   "#SATgrammar",
+   "#DigitalSAT"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satgrammar"
+  ],
+  "youtube": {
+   "title": "I vs. Me on the SAT: The Drop-the-Name Test",
+   "description": "After a preposition, use the object pronoun. Drop the other person from the phrase and listen.",
+   "hashtags": [
+    "#SAT",
+    "#SATgrammar",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "original lo-fi bed"
+ },
+ {
+  "id": "2027-04-01_2130_N02-020",
+  "folder": "2027-04-01_2130_N02-020",
+  "publish_at": "2026-12-11T19:30:00-06:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "If you just square the five here, you'll land right on the trap.\n\nSquare both sides and expand carefully. The cross term doesn't disappear, so 25 can't be the answer.\n\nComment your value before you peek.",
+  "tiktok_caption": "x + 1/x = 5. Find x² + 1/x² without solving for x.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATpractice"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satmath"
+  ],
+  "youtube": {
+   "title": "x + 1/x = 5, Find x² + 1/x² Without Solving (SAT)",
+   "description": "Square both sides and subtract the middle term. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#SATmath",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "original lo-fi bed"
  },
  {
   "id": "2026-11-06_1700_P0-026",

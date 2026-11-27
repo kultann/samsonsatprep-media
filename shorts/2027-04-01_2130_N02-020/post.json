@@ -1,0 +1,42 @@
+{
+ "id": "2027-04-01_2130_N02-020",
+ "folder": "2027-04-01_2130_N02-020",
+ "publish_at": "2026-12-11T19:30:00-06:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "If you just square the five here, you'll land right on the trap.\n\nSquare both sides and expand carefully. The cross term doesn't disappear, so 25 can't be the answer.\n\nComment your value before you peek.",
+ "tiktok_caption": "x + 1/x = 5. Find x² + 1/x² without solving for x.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATmath",
+  "#DigitalSAT",
+  "#SATpractice"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satmath"
+ ],
+ "youtube": {
+  "title": "x + 1/x = 5, Find x² + 1/x² Without Solving (SAT)",
+  "description": "Square both sides and subtract the middle term. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "original lo-fi bed"
+}

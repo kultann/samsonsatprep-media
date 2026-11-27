@@ -1,0 +1,42 @@
+{
+ "id": "2027-04-18_1700_N01-021",
+ "folder": "2027-04-18_1700_N01-021",
+ "publish_at": "2026-12-07T19:30:00-06:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Two percents? Work backward with a graph.\n\nGraph y = 1.15 · 1.08x and y = 99.36 in Desmos and click the crossing. Percents multiply, so you undo them by dividing, not subtracting.\n\nComment your answer before you check.",
+ "tiktok_caption": "Markup then tax? Graph the forward chain and the total, click the crossing.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATmath",
+  "#Desmos",
+  "#MathHacks",
+  "#DigitalSAT"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#desmos"
+ ],
+ "youtube": {
+  "title": "Reverse a Markup and Sales Tax With Desmos",
+  "description": "Graph the price after both percent increases against the total paid to find the original price. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#Desmos",
+   "#SATmath",
+   "#DigitalSAT"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "original lo-fi bed"
+}

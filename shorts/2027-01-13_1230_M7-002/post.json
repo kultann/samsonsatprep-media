@@ -1,0 +1,42 @@
+{
+ "id": "2027-01-13_1230_M7-002",
+ "folder": "2027-01-13_1230_M7-002",
+ "publish_at": "2026-12-10T07:30:00-06:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Everyone picks 120 here. Wrong.\n\nBoth the length and the width grow by 2.5, so the area grows by 2.5², not 2.5. Multiply 48 by that.\n\nComment your answer before you check.",
+ "tiktok_caption": "Everyone picks 120 here. Area scales by k squared.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATmath",
+  "#DigitalSAT",
+  "#SATpractice"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satmath"
+ ],
+ "youtube": {
+  "title": "Scale Factor and Area: Why 120 Is Wrong | SAT Math",
+  "description": "When every length is multiplied by k, area is multiplied by k squared. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "original lo-fi bed"
+}

@@ -1,0 +1,42 @@
+{
+ "id": "2027-03-14_2130_N02-003",
+ "folder": "2027-03-14_2130_N02-003",
+ "publish_at": "2026-12-09T19:30:00-06:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Biggest minus biggest won't give you the biggest difference.\n\nTo make 3x − 2y as big as possible, push x to its max and y to its min, since subtracting a negative adds. Plugging in 7 and 2 gives only 17.\n\nComment the greatest value you can make.",
+ "tiktok_caption": "Greatest value of 3x − 2y? Biggest minus biggest is the trap.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATmath",
+  "#DigitalSAT",
+  "#SATpractice"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satmath"
+ ],
+ "youtube": {
+  "title": "Greatest Value of 3x − 2y From Two Ranges (SAT)",
+  "description": "Pair the maximum of one variable with the minimum of the other to maximize a difference. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "original lo-fi bed"
+}

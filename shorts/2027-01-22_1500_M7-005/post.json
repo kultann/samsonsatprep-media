@@ -1,0 +1,42 @@
+{
+ "id": "2027-01-22_1500_M7-005",
+ "folder": "2027-01-22_1500_M7-005",
+ "publish_at": "2026-12-11T07:30:00-06:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "This cone isn't shorter than the cylinder. It's taller.\n\nA cone holds 1/3 of a matching cylinder, so to hold the same volume it needs 3 times the height.\n\nComment your answer before you check.",
+ "tiktok_caption": "Same radius, same volume: the cone is 3 times taller.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATmath",
+  "#DigitalSAT",
+  "#SATpractice"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satmath"
+ ],
+ "youtube": {
+  "title": "Cone vs Cylinder With Equal Volume | SAT Geometry",
+  "description": "Set (1/3)πr²h equal to πr²h and see why the cone must be taller. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "original lo-fi bed"
+}

@@ -1,0 +1,42 @@
+{
+ "id": "2027-04-16_1700_N01-031",
+ "folder": "2027-04-16_1700_N01-031",
+ "publish_at": "2026-12-08T19:30:00-06:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "That touch point is a solution too.\n\nGraph the circle and the parabola in Desmos. Two crossings are obvious; the third solution is where the parabola's vertex touches the bottom of the circle.\n\nComment your answer before you check.",
+ "tiktok_caption": "Circle meets parabola: count the crossings AND the touch point.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATmath",
+  "#Desmos",
+  "#MathHacks",
+  "#DigitalSAT"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#desmos"
+ ],
+ "youtube": {
+  "title": "Circle and Parabola System: Count Every Solution in Desmos",
+  "description": "Graph a circle and a parabola and count every intersection, including a tangent point. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#Desmos",
+   "#SATmath",
+   "#DigitalSAT"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "original lo-fi bed"
+}

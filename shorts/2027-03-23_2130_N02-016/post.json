@@ -1,0 +1,42 @@
+{
+ "id": "2027-03-23_2130_N02-016",
+ "folder": "2027-03-23_2130_N02-016",
+ "publish_at": "2026-12-10T19:30:00-06:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Most people find one answer here, but there are two.\n\nf(g(x)) = (2x + 1)² − 3 = 22 means (2x + 1)² = 25, so 2x + 1 = 5 or −5: x = 2 or x = −3.\n\nComment your answer before you check.",
+ "tiktok_caption": "f(g(x)) = 22. Most people find one answer. There are two.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATmath",
+  "#DigitalSAT",
+  "#SATpractice"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satmath"
+ ],
+ "youtube": {
+  "title": "Solve f(g(x)) = 22: Don't Miss the Second Answer",
+  "description": "Substitute g into f, then use both square roots. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "original lo-fi bed"
+}
