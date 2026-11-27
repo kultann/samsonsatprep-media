@@ -1,0 +1,42 @@
+{
+ "id": "2027-04-02_0730_N11-032",
+ "folder": "2027-04-02_0730_N11-032",
+ "publish_at": "2026-11-29T16:00:00-06:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Period and semicolon? Cross out both.\n\nBetween two clauses, a period and a semicolon do the same job. If both show up with the same words, they can't both be right, so neither is. Then check what's left.\n\nComment your answer before you check.",
+ "tiktok_caption": "Period and semicolon in the same spot? Both are out.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATreading",
+  "#SATgrammar",
+  "#DigitalSAT"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satgrammar"
+ ],
+ "youtube": {
+  "title": "SAT Punctuation: Period vs Semicolon Twins",
+  "description": "A period and a semicolon do the same job, so if both appear, neither can be the one answer. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATgrammar",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-15-36_1.MP4"
+}

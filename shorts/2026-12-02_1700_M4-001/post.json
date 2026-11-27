@@ -1,0 +1,42 @@
+{
+ "id": "2026-12-02_1700_M4-001",
+ "folder": "2026-12-02_1700_M4-001",
+ "publish_at": "2026-11-28T19:30:00-06:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "Plus four in vertex form does not mean four.\n\nIn y = −3(x + 4)² + 7, h is −4 (flip the sign) and the negative a makes the vertex a maximum.\n\nComment your answer before you check.",
+ "tiktok_caption": "Plus four in vertex form means h = −4. Did you catch it?",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATmath",
+  "#DigitalSAT",
+  "#SATpractice"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satmath"
+ ],
+ "youtube": {
+  "title": "SAT Vertex Form: Read h and Max vs Min Correctly",
+  "description": "Read the vertex and tell max from min in vertex form without the sign trap. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-20-07_1.MP4"
+}

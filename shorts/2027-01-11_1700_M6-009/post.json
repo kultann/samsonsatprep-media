@@ -1,0 +1,42 @@
+{
+ "id": "2027-01-11_1700_M6-009",
+ "folder": "2027-01-11_1700_M6-009",
+ "publish_at": "2026-11-29T19:30:00-06:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "One typo. What's the real mean?\n\nA 63 should have been a 39. Fix the total, then divide by 12.\n\nComment your answer before you check.",
+ "tiktok_caption": "One typo in the data set. Find the corrected mean.",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATmath",
+  "#DigitalSAT",
+  "#SATpractice"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satmath"
+ ],
+ "youtube": {
+  "title": "SAT Math: Fix a Mean After a Data Entry Error",
+  "description": "Correct a mean when one value was recorded wrong. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-19-26_1.MP4"
+}

@@ -8308,6 +8308,48 @@
   "music": "ScreenRecording_10-05-2026 17-18-18_1.mov"
  },
  {
+  "id": "2027-02-20_2130_M5-040",
+  "folder": "2027-02-20_2130_M5-040",
+  "publish_at": "2026-11-27T19:30:00-06:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "No lengths given. Solve it anyway.\n\nMultiply the multipliers: length × 1.2, width × 0.9.\n\nSave this for test day.",
+  "tiktok_caption": "Length up 20%, width down 10%. What happens to area?",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATpractice"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satmath"
+  ],
+  "youtube": {
+   "title": "SAT Percent Change in Area of a Rectangle",
+   "description": "Multiply each dimension's multiplier to get the area change. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#SATmath",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-21-29_1.MP4"
+ },
+ {
   "id": "2026-11-28_1230_M2-025",
   "folder": "2026-11-28_1230_M2-025",
   "publish_at": "2026-11-28T07:30:00-06:00",
@@ -8350,6 +8392,89 @@
   "music": "ScreenRecording_10-05-2026 17-20-46_1.MP4"
  },
  {
+  "id": "2026-11-28_1500_T3-014",
+  "folder": "2026-11-28_1500_T3-014",
+  "publish_at": "2026-11-28T16:00:00-06:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "Pack your SAT bag a week early, and practice from it.\n\nOne week before the Dec 5 SAT, pack everything you plan to bring and take a full Bluebook practice test using only what's in the bag. Anything missing? Fix it now.\n\nSave this for this weekend.",
+  "tiktok_caption": "Pack your SAT bag a week early, and practice from it. 1 week to the Dec 5 SAT.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#DigitalSAT",
+   "#SATtips",
+   "#StudyTips"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat"
+  ],
+  "youtube": {
+   "title": "SAT in 1 Week: Pack Your Bag and Test From It",
+   "description": "One week before the December 5, 2026 SAT, pack your test bag and take a full Bluebook practice test using only what's inside it.",
+   "hashtags": [
+    "#SAT",
+    "#SATtips",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-21-29_1.MP4"
+ },
+ {
+  "id": "2026-12-02_1700_M4-001",
+  "folder": "2026-12-02_1700_M4-001",
+  "publish_at": "2026-11-28T19:30:00-06:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "Plus four in vertex form does not mean four.\n\nIn y = −3(x + 4)² + 7, h is −4 (flip the sign) and the negative a makes the vertex a maximum.\n\nComment your answer before you check.",
+  "tiktok_caption": "Plus four in vertex form means h = −4. Did you catch it?",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATpractice"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satmath"
+  ],
+  "youtube": {
+   "title": "SAT Vertex Form: Read h and Max vs Min Correctly",
+   "description": "Read the vertex and tell max from min in vertex form without the sign trap. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#SATmath",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-20-07_1.MP4"
+ },
+ {
   "id": "2026-12-31_1500_M2-036",
   "folder": "2026-12-31_1500_M2-036",
   "publish_at": "2026-11-29T07:30:00-06:00",
@@ -8390,6 +8515,90 @@
   "tiktok_mode": "direct",
   "ai_label": true,
   "music": "ScreenRecording_10-05-2026 17-21-29_1.MP4"
+ },
+ {
+  "id": "2027-04-02_0730_N11-032",
+  "folder": "2027-04-02_0730_N11-032",
+  "publish_at": "2026-11-29T16:00:00-06:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "Period and semicolon? Cross out both.\n\nBetween two clauses, a period and a semicolon do the same job. If both show up with the same words, they can't both be right, so neither is. Then check what's left.\n\nComment your answer before you check.",
+  "tiktok_caption": "Period and semicolon in the same spot? Both are out.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATreading",
+   "#SATgrammar",
+   "#DigitalSAT"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satgrammar"
+  ],
+  "youtube": {
+   "title": "SAT Punctuation: Period vs Semicolon Twins",
+   "description": "A period and a semicolon do the same job, so if both appear, neither can be the one answer. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#SATgrammar",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-15-36_1.MP4"
+ },
+ {
+  "id": "2027-01-11_1700_M6-009",
+  "folder": "2027-01-11_1700_M6-009",
+  "publish_at": "2026-11-29T19:30:00-06:00",
+  "type": "short",
+  "video": "video.mp4",
+  "cover": "cover.jpg",
+  "cover_time_ms": 500,
+  "platforms": [
+   "instagram",
+   "tiktok"
+  ],
+  "caption": "One typo. What's the real mean?\n\nA 63 should have been a 39. Fix the total, then divide by 12.\n\nComment your answer before you check.",
+  "tiktok_caption": "One typo in the data set. Find the corrected mean.",
+  "hashtags_instagram": [
+   "#SAT",
+   "#SATprep",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATpractice"
+  ],
+  "hashtags_tiktok": [
+   "#studytok",
+   "#satprep",
+   "#sattips",
+   "#digitalsat",
+   "#satmath"
+  ],
+  "youtube": {
+   "title": "SAT Math: Fix a Mean After a Data Entry Error",
+   "description": "Correct a mean when one value was recorded wrong. SAT-style practice question (original).",
+   "hashtags": [
+    "#SAT",
+    "#SATmath",
+    "#DigitalSAT",
+    "#SATprep"
+   ]
+  },
+  "tiktok_mode": "direct",
+  "ai_label": true,
+  "music": "ScreenRecording_10-05-2026 17-19-26_1.MP4"
  },
  {
   "id": "2026-11-05_1930_M4-008",

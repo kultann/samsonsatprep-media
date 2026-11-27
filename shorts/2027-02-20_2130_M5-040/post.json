@@ -1,0 +1,42 @@
+{
+ "id": "2027-02-20_2130_M5-040",
+ "folder": "2027-02-20_2130_M5-040",
+ "publish_at": "2026-11-27T19:30:00-06:00",
+ "type": "short",
+ "video": "video.mp4",
+ "cover": "cover.jpg",
+ "cover_time_ms": 500,
+ "platforms": [
+  "instagram",
+  "tiktok"
+ ],
+ "caption": "No lengths given. Solve it anyway.\n\nMultiply the multipliers: length × 1.2, width × 0.9.\n\nSave this for test day.",
+ "tiktok_caption": "Length up 20%, width down 10%. What happens to area?",
+ "hashtags_instagram": [
+  "#SAT",
+  "#SATprep",
+  "#SATmath",
+  "#DigitalSAT",
+  "#SATpractice"
+ ],
+ "hashtags_tiktok": [
+  "#studytok",
+  "#satprep",
+  "#sattips",
+  "#digitalsat",
+  "#satmath"
+ ],
+ "youtube": {
+  "title": "SAT Percent Change in Area of a Rectangle",
+  "description": "Multiply each dimension's multiplier to get the area change. SAT-style practice question (original).",
+  "hashtags": [
+   "#SAT",
+   "#SATmath",
+   "#DigitalSAT",
+   "#SATprep"
+  ]
+ },
+ "tiktok_mode": "direct",
+ "ai_label": true,
+ "music": "ScreenRecording_10-05-2026 17-21-29_1.MP4"
+}
